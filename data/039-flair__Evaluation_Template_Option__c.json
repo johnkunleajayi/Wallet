@@ -1,0 +1,370 @@
+{
+  "attributes": {
+    "type": "flair__Evaluation_Template_Option__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef1"
+      },
+      "Name": "Spanish",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef4",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 2
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef2"
+      },
+      "Name": "Italian",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef4",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 3
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef3"
+      },
+      "Name": "Fulltime",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef5",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 0
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef4"
+      },
+      "Name": "Parttime",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef5",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 1
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef5"
+      },
+      "Name": "Contract",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef5",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 2
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef6"
+      },
+      "Name": "Yes",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef6",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 0
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef7"
+      },
+      "Name": "No",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef6",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 1
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef8"
+      },
+      "Name": "Soft skills",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef7",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 0
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef9"
+      },
+      "Name": "QA",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef7",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 1
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef10"
+      },
+      "Name": "TDD",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef7",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 2
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef11"
+      },
+      "Name": "Backend",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef3",
+      "flair__Hint__c": null,
+      "flair__Required__c": true,
+      "flair__Sequence__c": 0
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef12"
+      },
+      "Name": "Frontend",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef3",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 1
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef13"
+      },
+      "Name": "Job Knowledge",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef9",
+      "flair__Hint__c": "Candidate Quality of previous jobs",
+      "flair__Required__c": true,
+      "flair__Sequence__c": 0
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef14"
+      },
+      "Name": "Work Quality",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef9",
+      "flair__Hint__c": null,
+      "flair__Required__c": true,
+      "flair__Sequence__c": 1
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef15"
+      },
+      "Name": "Attendance/Punctuality",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef9",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 2
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef16"
+      },
+      "Name": "Initiative",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef9",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 3
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef17"
+      },
+      "Name": "Communication/Listening Skills",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef9",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 4
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef18"
+      },
+      "Name": "Dependability",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef9",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 5
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef19"
+      },
+      "Name": "Educational Background",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef10",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 0
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef20"
+      },
+      "Name": "Prior Work Experience",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef10",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 1
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef21"
+      },
+      "Name": "Overall Impression and Recommendation",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef10",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 10
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef22"
+      },
+      "Name": "Technical Qualifications/Experience",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef10",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 2
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef23"
+      },
+      "Name": "Verbal Communication",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef10",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 3
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef24"
+      },
+      "Name": "Candidate Enthusiasm",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef10",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 4
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef25"
+      },
+      "Name": "DevOps",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef3",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 2
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef26"
+      },
+      "Name": "TDD",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef3",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 3
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef27"
+      },
+      "Name": "English",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef4",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 0
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef28"
+      },
+      "Name": "German",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef4",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 1
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef29"
+      },
+      "Name": "Knowledge of Company",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef10",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 5
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef30"
+      },
+      "Name": "Teambuilding/Interpersonal Skills",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef10",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 6
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef31"
+      },
+      "Name": "Initiative",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef10",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 7
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef32"
+      },
+      "Name": "Time Management",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef10",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 8
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Option__c",
+        "referenceId": "EvaluationTemplateOptionRef33"
+      },
+      "Name": "Customer Service",
+      "flair__Evaluation_Template_Question__c": "EvaluationTemplateQuestionRef10",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 9
+    }
+  ]
+}

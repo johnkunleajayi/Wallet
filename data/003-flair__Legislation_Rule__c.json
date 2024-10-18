@@ -1,0 +1,31 @@
+{
+  "attributes": {
+    "type": "flair__Legislation_Rule__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Legislation_Rule__c",
+        "referenceId": "LegislationRuleRef1"
+      },
+      "Name": "a1J1X000001EkdG",
+      "flair__Time_Framework__c": "TimeFrameworkRef1",
+      "flair__Break__c": 30,
+      "flair__Migration_ID__c": null,
+      "flair__Work_More_Than_Hour__c": 6,
+      "flair__Work_More_Than_Minute__c": 0
+    },
+    {
+      "attributes": {
+        "type": "flair__Legislation_Rule__c",
+        "referenceId": "LegislationRuleRef2"
+      },
+      "Name": "a1J1X000001EkdH",
+      "flair__Time_Framework__c": "TimeFrameworkRef1",
+      "flair__Break__c": 45,
+      "flair__Migration_ID__c": null,
+      "flair__Work_More_Than_Hour__c": 9,
+      "flair__Work_More_Than_Minute__c": 0
+    }
+  ]
+}

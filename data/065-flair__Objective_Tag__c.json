@@ -1,0 +1,70 @@
+{
+  "attributes": {
+    "type": "flair__Objective_Tag__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Objective_Tag__c",
+        "referenceId": "ObjectiveTagRef1"
+      },
+      "flair__Tag__c": "TagRef1",
+      "flair__Company_Objective__c": "CompanyObjectiveRef2",
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Objective_Tag__c",
+        "referenceId": "ObjectiveTagRef2"
+      },
+      "flair__Tag__c": "TagRef3",
+      "flair__Migration_ID__c": null,
+      "flair__Team_Objective__c": "TeamObjectiveRef2"
+    },
+    {
+      "attributes": {
+        "type": "flair__Objective_Tag__c",
+        "referenceId": "ObjectiveTagRef3"
+      },
+      "flair__Tag__c": "TagRef2",
+      "flair__Employee_Objective__c": "EmployeeObjectiveRef5",
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Objective_Tag__c",
+        "referenceId": "ObjectiveTagRef4"
+      },
+      "flair__Tag__c": "TagRef1",
+      "flair__Company_Objective__c": "CompanyObjectiveRef3",
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Objective_Tag__c",
+        "referenceId": "ObjectiveTagRef5"
+      },
+      "flair__Tag__c": "TagRef2",
+      "flair__Employee_Objective__c": "EmployeeObjectiveRef4",
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Objective_Tag__c",
+        "referenceId": "ObjectiveTagRef6"
+      },
+      "flair__Tag__c": "TagRef3",
+      "flair__Migration_ID__c": null,
+      "flair__Team_Objective__c": "TeamObjectiveRef1"
+    },
+    {
+      "attributes": {
+        "type": "flair__Objective_Tag__c",
+        "referenceId": "ObjectiveTagRef7"
+      },
+      "flair__Tag__c": "TagRef1",
+      "flair__Company_Objective__c": "CompanyObjectiveRef1",
+      "flair__Migration_ID__c": null
+    }
+  ]
+}

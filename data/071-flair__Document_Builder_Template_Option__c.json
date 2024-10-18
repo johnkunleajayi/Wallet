@@ -1,0 +1,207 @@
+{
+  "attributes": {
+    "type": "flair__Document_Builder_Template_Option__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Option__c",
+        "referenceId": "DocumentBuilderTemplateOptionRef1"
+      },
+      "Name": "Variante 1",
+      "flair__Document_Builder_Template_Section__c": "DocumentBuilderTemplateSectionRef1",
+      "flair__Order__c": 1,
+      "flair__Text__c": "Herr {{fullName}}, geboren am {{birthDate}} in {{birthPlace}}, war vom {{startDate}} bis {{endDate}} als Mitarbeiter im {{department}} in unserem Unternehmen beschäftigt."
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Option__c",
+        "referenceId": "DocumentBuilderTemplateOptionRef2"
+      },
+      "Name": "Very Good",
+      "flair__Document_Builder_Template_Section__c": "DocumentBuilderTemplateSectionRef5",
+      "flair__Order__c": 1,
+      "flair__Text__c": "Very Good 1"
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Option__c",
+        "referenceId": "DocumentBuilderTemplateOptionRef3"
+      },
+      "Name": "Variante 2",
+      "flair__Document_Builder_Template_Section__c": "DocumentBuilderTemplateSectionRef1",
+      "flair__Order__c": 2,
+      "flair__Text__c": "Herr {{fullName}}, geboren am {{birthDate}}, war vom {{startDate}} bis {{endDate}} in unserer Controlling-Abteilung als Mitarbeiter tätig."
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Option__c",
+        "referenceId": "DocumentBuilderTemplateOptionRef4"
+      },
+      "Name": "Variante 3",
+      "flair__Document_Builder_Template_Section__c": "DocumentBuilderTemplateSectionRef1",
+      "flair__Order__c": 3,
+      "flair__Text__c": "Herr {{fullName}}, geboren am {{birthDate}} in {{birthPlace}}, hat vom {{startDate}} bis {{endDate}} als Mitarbeiter in der Abteilung Controlling für unser Unternehmen gearbeitet."
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Option__c",
+        "referenceId": "DocumentBuilderTemplateOptionRef5"
+      },
+      "Name": "Beispiel 1",
+      "flair__Document_Builder_Template_Section__c": "DocumentBuilderTemplateSectionRef2",
+      "flair__Order__c": 1,
+      "flair__Text__c": "Die Muster GmbH ist ein Automobilzulieferer mit Sitz in Musterstadt. Zu den Kernprodukten gehören vor allem Geschwindigkeitsmessanzeigen. Unser Kundenkreis besteht insbesondere aus deutschen, aber auch anderen europäischen Automobilherstellern. Mit rund 200 Mitarbeitern erzielte unser Unternehmen zuletzt rund 25 Millionen Euro Umsatz."
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Option__c",
+        "referenceId": "DocumentBuilderTemplateOptionRef6"
+      },
+      "Name": "Beispiel 2",
+      "flair__Document_Builder_Template_Section__c": "DocumentBuilderTemplateSectionRef2",
+      "flair__Order__c": 2,
+      "flair__Text__c": "Die Muster AG, gegründet 2007, spezialisiert sich auf Backend-Services im Online-Gaming-Bereich und hat sich innerhalb kürzester Zeit zu einem führenden Dienstleister in diesem Segment etabliert. Mit unseren zwei Standorten in Musterstadt und Beispieldorf bedienen wir zahlreiche Kunden unterschiedlicher Größe."
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Option__c",
+        "referenceId": "DocumentBuilderTemplateOptionRef7"
+      },
+      "Name": "Beispiel 3",
+      "flair__Document_Builder_Template_Section__c": "DocumentBuilderTemplateSectionRef2",
+      "flair__Order__c": 3,
+      "flair__Text__c": "Unser Unternehmen, die Beispiel GmbH & Co. KG, stellt seit 1960 Süßwaren und andere schnelldrehende Konsumgüter her. Zu unseren bekanntesten Marken gehören die \"Beispielschokolade\" und das \"Muster-Eis\"."
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Option__c",
+        "referenceId": "DocumentBuilderTemplateOptionRef8"
+      },
+      "Name": "Variante 1",
+      "flair__Document_Builder_Template_Section__c": "DocumentBuilderTemplateSectionRef3",
+      "flair__Order__c": 1,
+      "flair__Text__c": "Sein Aufgabengebiet umfasste:"
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Option__c",
+        "referenceId": "DocumentBuilderTemplateOptionRef9"
+      },
+      "Name": "Variante 2",
+      "flair__Document_Builder_Template_Section__c": "DocumentBuilderTemplateSectionRef3",
+      "flair__Order__c": 2,
+      "flair__Text__c": "Er übernahm im Wesentlichen die folgenden Aufgaben:"
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Option__c",
+        "referenceId": "DocumentBuilderTemplateOptionRef10"
+      },
+      "Name": "Variante 3",
+      "flair__Document_Builder_Template_Section__c": "DocumentBuilderTemplateSectionRef3",
+      "flair__Order__c": 3,
+      "flair__Text__c": "Als Mitarbeiter in der Abteilung Controlling führte Herr Muster die folgenden Tätigkeiten aus:"
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Option__c",
+        "referenceId": "DocumentBuilderTemplateOptionRef11"
+      },
+      "Name": "Sehr gut",
+      "flair__Document_Builder_Template_Section__c": "DocumentBuilderTemplateSectionRef4",
+      "flair__Order__c": 1,
+      "flair__Text__c": "Er verfügt über ein äußerst umfassendes und hervorragendes Fachwissen, das er zur Bewältigung seiner Aufgaben stets sehr sicher und erfolgreich einsetzte."
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Option__c",
+        "referenceId": "DocumentBuilderTemplateOptionRef12"
+      },
+      "Name": "Sehr gut",
+      "flair__Document_Builder_Template_Section__c": "DocumentBuilderTemplateSectionRef4",
+      "flair__Order__c": 2,
+      "flair__Text__c": "Mit seinem umfangreichen und äußerst fundierten Fachwissen erzielte er stets deutlich überdurchschnittliche Erfolge."
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Option__c",
+        "referenceId": "DocumentBuilderTemplateOptionRef13"
+      },
+      "Name": "Sehr gut",
+      "flair__Document_Builder_Template_Section__c": "DocumentBuilderTemplateSectionRef4",
+      "flair__Order__c": 3,
+      "flair__Text__c": "Herr {{firstName}} verfügt über ein äußerst umfassendes und sehr fundiertes Fachwissen, das er jederzeit hervorragend in die Praxis umzusetzen wusste. Er nahm zudem mit großem Erfolg an zahlreichen Fortbildungen teil."
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Option__c",
+        "referenceId": "DocumentBuilderTemplateOptionRef14"
+      },
+      "Name": "Gut",
+      "flair__Document_Builder_Template_Section__c": "DocumentBuilderTemplateSectionRef4",
+      "flair__Order__c": 1,
+      "flair__Text__c": "Er verfügt über ein umfassendes und gutes Fachwissen, das er zur Bewältigung seiner Aufgaben sehr sicher und erfolgreich einsetzte."
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Option__c",
+        "referenceId": "DocumentBuilderTemplateOptionRef15"
+      },
+      "Name": "Gut",
+      "flair__Document_Builder_Template_Section__c": "DocumentBuilderTemplateSectionRef4",
+      "flair__Order__c": 2,
+      "flair__Text__c": "Mit seinem umfangreichen und fundierten Fachwissen erzielte er stets gute Erfolge."
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Option__c",
+        "referenceId": "DocumentBuilderTemplateOptionRef16"
+      },
+      "Name": "Gut",
+      "flair__Document_Builder_Template_Section__c": "DocumentBuilderTemplateSectionRef4",
+      "flair__Order__c": 3,
+      "flair__Text__c": "Herr {{firstName}} verfügt über ein umfassendes und fundiertes Fachwissen, das er jederzeit gut in die Praxis umzusetzen wusste."
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Option__c",
+        "referenceId": "DocumentBuilderTemplateOptionRef17"
+      },
+      "Name": "Good",
+      "flair__Document_Builder_Template_Section__c": "DocumentBuilderTemplateSectionRef5",
+      "flair__Order__c": 1,
+      "flair__Text__c": "the employee was great!"
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Option__c",
+        "referenceId": "DocumentBuilderTemplateOptionRef18"
+      },
+      "Name": "Good",
+      "flair__Document_Builder_Template_Section__c": "DocumentBuilderTemplateSectionRef5",
+      "flair__Order__c": 2,
+      "flair__Text__c": "good 2"
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Option__c",
+        "referenceId": "DocumentBuilderTemplateOptionRef19"
+      },
+      "Name": "Good",
+      "flair__Document_Builder_Template_Section__c": "DocumentBuilderTemplateSectionRef5",
+      "flair__Order__c": 3,
+      "flair__Text__c": "ttt"
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Option__c",
+        "referenceId": "DocumentBuilderTemplateOptionRef20"
+      },
+      "Name": "Very Good",
+      "flair__Document_Builder_Template_Section__c": "DocumentBuilderTemplateSectionRef5",
+      "flair__Order__c": 2,
+      "flair__Text__c": "Very Good 2"
+    }
+  ]
+}

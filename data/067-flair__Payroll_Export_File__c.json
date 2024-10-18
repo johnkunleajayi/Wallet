@@ -1,0 +1,238 @@
+{
+  "attributes": {
+    "type": "flair__Payroll_Export_File__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Payroll_Export_File__c",
+        "referenceId": "PayrollExportFileRef1"
+      },
+      "Name": "Employees (editable) - End {payrollEndDate}",
+      "flair__Payroll_Territory__c": "PayrollTerritoryRef1",
+      "flair__Active__c": true,
+      "flair__Format__c": "XLS",
+      "flair__Type__c": "CUSTOM_EMPLOYEE"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Export_File__c",
+        "referenceId": "PayrollExportFileRef2"
+      },
+      "Name": "Absence",
+      "flair__Payroll_Territory__c": "PayrollTerritoryRef1",
+      "flair__Active__c": true,
+      "flair__Format__c": "XLS",
+      "flair__Type__c": "ABSENCE"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Export_File__c",
+        "referenceId": "PayrollExportFileRef3"
+      },
+      "Name": "Leaving",
+      "flair__Payroll_Territory__c": "PayrollTerritoryRef1",
+      "flair__Active__c": true,
+      "flair__Format__c": "XLS",
+      "flair__Type__c": "LEAVING"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Export_File__c",
+        "referenceId": "PayrollExportFileRef4"
+      },
+      "Name": "Leaving",
+      "flair__Payroll_Territory__c": "PayrollTerritoryRef1",
+      "flair__Active__c": true,
+      "flair__Format__c": "PDF",
+      "flair__Type__c": "LEAVING"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Export_File__c",
+        "referenceId": "PayrollExportFileRef5"
+      },
+      "Name": "New Hire",
+      "flair__Payroll_Territory__c": "PayrollTerritoryRef1",
+      "flair__Active__c": true,
+      "flair__Format__c": "XLS",
+      "flair__Type__c": "NEW_HIRE"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Export_File__c",
+        "referenceId": "PayrollExportFileRef6"
+      },
+      "Name": "New Hire",
+      "flair__Payroll_Territory__c": "PayrollTerritoryRef1",
+      "flair__Active__c": true,
+      "flair__Format__c": "PDF",
+      "flair__Type__c": "NEW_HIRE"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Export_File__c",
+        "referenceId": "PayrollExportFileRef7"
+      },
+      "Name": "Data Changes",
+      "flair__Payroll_Territory__c": "PayrollTerritoryRef1",
+      "flair__Active__c": true,
+      "flair__Format__c": "XLS",
+      "flair__Type__c": "DATA_CHANGES"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Export_File__c",
+        "referenceId": "PayrollExportFileRef8"
+      },
+      "Name": "Data Changes",
+      "flair__Payroll_Territory__c": "PayrollTerritoryRef1",
+      "flair__Active__c": true,
+      "flair__Format__c": "PDF",
+      "flair__Type__c": "DATA_CHANGES"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Export_File__c",
+        "referenceId": "PayrollExportFileRef9"
+      },
+      "Name": "Detailed",
+      "flair__Payroll_Territory__c": "PayrollTerritoryRef1",
+      "flair__Active__c": true,
+      "flair__Format__c": "PDF",
+      "flair__Type__c": "DETAILED"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Export_File__c",
+        "referenceId": "PayrollExportFileRef10"
+      },
+      "Name": "Overview",
+      "flair__Payroll_Territory__c": "PayrollTerritoryRef1",
+      "flair__Active__c": true,
+      "flair__Format__c": "PDF",
+      "flair__Type__c": "OVERVIEW"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Export_File__c",
+        "referenceId": "PayrollExportFileRef11"
+      },
+      "Name": "Salary",
+      "flair__Payroll_Territory__c": "PayrollTerritoryRef1",
+      "flair__Active__c": true,
+      "flair__Format__c": "XLS",
+      "flair__Type__c": "SALARY"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Export_File__c",
+        "referenceId": "PayrollExportFileRef12"
+      },
+      "Name": "Absence",
+      "flair__Payroll_Territory__c": "PayrollTerritoryRef2",
+      "flair__Active__c": true,
+      "flair__Format__c": "XLS",
+      "flair__Type__c": "ABSENCE"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Export_File__c",
+        "referenceId": "PayrollExportFileRef13"
+      },
+      "Name": "Leaving",
+      "flair__Payroll_Territory__c": "PayrollTerritoryRef2",
+      "flair__Active__c": true,
+      "flair__Format__c": "XLS",
+      "flair__Type__c": "LEAVING"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Export_File__c",
+        "referenceId": "PayrollExportFileRef14"
+      },
+      "Name": "Leaving",
+      "flair__Payroll_Territory__c": "PayrollTerritoryRef2",
+      "flair__Active__c": true,
+      "flair__Format__c": "PDF",
+      "flair__Type__c": "LEAVING"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Export_File__c",
+        "referenceId": "PayrollExportFileRef15"
+      },
+      "Name": "New Hire",
+      "flair__Payroll_Territory__c": "PayrollTerritoryRef2",
+      "flair__Active__c": true,
+      "flair__Format__c": "XLS",
+      "flair__Type__c": "NEW_HIRE"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Export_File__c",
+        "referenceId": "PayrollExportFileRef16"
+      },
+      "Name": "New Hire",
+      "flair__Payroll_Territory__c": "PayrollTerritoryRef2",
+      "flair__Active__c": true,
+      "flair__Format__c": "PDF",
+      "flair__Type__c": "NEW_HIRE"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Export_File__c",
+        "referenceId": "PayrollExportFileRef17"
+      },
+      "Name": "Data Changes",
+      "flair__Payroll_Territory__c": "PayrollTerritoryRef2",
+      "flair__Active__c": true,
+      "flair__Format__c": "XLS",
+      "flair__Type__c": "DATA_CHANGES"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Export_File__c",
+        "referenceId": "PayrollExportFileRef18"
+      },
+      "Name": "Data Changes",
+      "flair__Payroll_Territory__c": "PayrollTerritoryRef2",
+      "flair__Active__c": true,
+      "flair__Format__c": "PDF",
+      "flair__Type__c": "DATA_CHANGES"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Export_File__c",
+        "referenceId": "PayrollExportFileRef19"
+      },
+      "Name": "Detailed",
+      "flair__Payroll_Territory__c": "PayrollTerritoryRef2",
+      "flair__Active__c": true,
+      "flair__Format__c": "PDF",
+      "flair__Type__c": "DETAILED"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Export_File__c",
+        "referenceId": "PayrollExportFileRef20"
+      },
+      "Name": "Overview",
+      "flair__Payroll_Territory__c": "PayrollTerritoryRef2",
+      "flair__Active__c": true,
+      "flair__Format__c": "PDF",
+      "flair__Type__c": "OVERVIEW"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Export_File__c",
+        "referenceId": "PayrollExportFileRef21"
+      },
+      "Name": "Salary",
+      "flair__Payroll_Territory__c": "PayrollTerritoryRef2",
+      "flair__Active__c": true,
+      "flair__Format__c": "XLS",
+      "flair__Type__c": "SALARY"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "attributes": {
+    "type": "flair__Workflow_Template_Step__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Workflow_Template_Step__c",
+        "referenceId": "WorkflowTemplateStepRef1"
+      },
+      "Name": "Step 1: Documentation",
+      "flair__Workflow_Template__c": "WorkflowTemplateRef1",
+      "flair__Activating_Days_Offset__c": 0,
+      "flair__Activating_Reference_Date_Field__c": "WORKFLOW_START_DATE",
+      "flair__Activating_Trigger__c": "AFTER_N_DAYS_OF_A_DATE",
+      "flair__Order__c": 1,
+      "flair__Step_Name__c": "Step 1: Documentation"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Template_Step__c",
+        "referenceId": "WorkflowTemplateStepRef2"
+      },
+      "Name": "Step 2: Orientation",
+      "flair__Workflow_Template__c": "WorkflowTemplateRef1",
+      "flair__Activating_Days_Offset__c": null,
+      "flair__Activating_Reference_Date_Field__c": null,
+      "flair__Activating_Trigger__c": "AFTER_FINISHING_MANDATORY_TASKS",
+      "flair__Order__c": 2,
+      "flair__Step_Name__c": "Step 2: Orientation"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Template_Step__c",
+        "referenceId": "WorkflowTemplateStepRef3"
+      },
+      "Name": "Step 3: Setup Workspace",
+      "flair__Workflow_Template__c": "WorkflowTemplateRef1",
+      "flair__Activating_Days_Offset__c": null,
+      "flair__Activating_Reference_Date_Field__c": null,
+      "flair__Activating_Trigger__c": "AFTER_FINISHING_MANDATORY_TASKS",
+      "flair__Order__c": 3,
+      "flair__Step_Name__c": "Step 3: Setup Workspace"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Template_Step__c",
+        "referenceId": "WorkflowTemplateStepRef4"
+      },
+      "Name": "Step 1: Exit Interview",
+      "flair__Workflow_Template__c": "WorkflowTemplateRef2",
+      "flair__Activating_Days_Offset__c": 0,
+      "flair__Activating_Reference_Date_Field__c": "WORKFLOW_START_DATE",
+      "flair__Activating_Trigger__c": "AFTER_N_DAYS_OF_A_DATE",
+      "flair__Order__c": 1,
+      "flair__Step_Name__c": "Step 1: Exit Interview"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Template_Step__c",
+        "referenceId": "WorkflowTemplateStepRef5"
+      },
+      "Name": "Step 2: Return Company Property",
+      "flair__Workflow_Template__c": "WorkflowTemplateRef2",
+      "flair__Activating_Days_Offset__c": null,
+      "flair__Activating_Reference_Date_Field__c": null,
+      "flair__Activating_Trigger__c": "AFTER_FINISHING_MANDATORY_TASKS",
+      "flair__Order__c": 2,
+      "flair__Step_Name__c": "Step 2: Return Company Property"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Template_Step__c",
+        "referenceId": "WorkflowTemplateStepRef6"
+      },
+      "Name": "Step 3: Final Payroll Processing",
+      "flair__Workflow_Template__c": "WorkflowTemplateRef2",
+      "flair__Activating_Days_Offset__c": null,
+      "flair__Activating_Reference_Date_Field__c": null,
+      "flair__Activating_Trigger__c": "AFTER_FINISHING_MANDATORY_TASKS",
+      "flair__Order__c": 3,
+      "flair__Step_Name__c": "Step 3: Final Payroll Processing"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Template_Step__c",
+        "referenceId": "WorkflowTemplateStepRef7"
+      },
+      "Name": "Step 4: Check Performance after 30 days",
+      "flair__Workflow_Template__c": "WorkflowTemplateRef1",
+      "flair__Activating_Days_Offset__c": 30,
+      "flair__Activating_Reference_Date_Field__c": "WORKFLOW_START_DATE",
+      "flair__Activating_Trigger__c": "AFTER_N_DAYS_OF_A_DATE",
+      "flair__Order__c": 4,
+      "flair__Step_Name__c": "Step 4: Check Performance after 30 days"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Template_Step__c",
+        "referenceId": "WorkflowTemplateStepRef8"
+      },
+      "Name": "Step 1: Initial Planning",
+      "flair__Workflow_Template__c": "WorkflowTemplateRef3",
+      "flair__Activating_Days_Offset__c": 0,
+      "flair__Activating_Reference_Date_Field__c": "WORKFLOW_START_DATE",
+      "flair__Activating_Trigger__c": "AFTER_N_DAYS_OF_A_DATE",
+      "flair__Order__c": 1,
+      "flair__Step_Name__c": "Step 1: Initial Planning"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Template_Step__c",
+        "referenceId": "WorkflowTemplateStepRef9"
+      },
+      "Name": "Step 2: Venue and Date Selection",
+      "flair__Workflow_Template__c": "WorkflowTemplateRef3",
+      "flair__Activating_Days_Offset__c": null,
+      "flair__Activating_Reference_Date_Field__c": null,
+      "flair__Activating_Trigger__c": "AFTER_FINISHING_MANDATORY_TASKS",
+      "flair__Order__c": 2,
+      "flair__Step_Name__c": "Step 2: Venue and Date Selection"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Template_Step__c",
+        "referenceId": "WorkflowTemplateStepRef10"
+      },
+      "Name": "Invitations and Logistics",
+      "flair__Workflow_Template__c": "WorkflowTemplateRef3",
+      "flair__Activating_Days_Offset__c": null,
+      "flair__Activating_Reference_Date_Field__c": null,
+      "flair__Activating_Trigger__c": "AFTER_FINISHING_MANDATORY_TASKS",
+      "flair__Order__c": 3,
+      "flair__Step_Name__c": "Invitations and Logistics"
+    }
+  ]
+}

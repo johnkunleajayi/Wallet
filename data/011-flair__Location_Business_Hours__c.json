@@ -1,0 +1,127 @@
+{
+  "attributes": {
+    "type": "flair__Location_Business_Hours__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Location_Business_Hours__c",
+        "referenceId": "LocationBusinessHoursRef1"
+      },
+      "Name": "a0J3O0000000tpA",
+      "flair__Location__c": "LocationRef15",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Migration_ID__c": null,
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 3
+    },
+    {
+      "attributes": {
+        "type": "flair__Location_Business_Hours__c",
+        "referenceId": "LocationBusinessHoursRef2"
+      },
+      "Name": "a0J4E00000QLUjd",
+      "flair__Location__c": "LocationRef9",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Migration_ID__c": null,
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 6
+    },
+    {
+      "attributes": {
+        "type": "flair__Location_Business_Hours__c",
+        "referenceId": "LocationBusinessHoursRef3"
+      },
+      "Name": "a0J4E00000QLUjT",
+      "flair__Location__c": "LocationRef9",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Migration_ID__c": null,
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 3
+    },
+    {
+      "attributes": {
+        "type": "flair__Location_Business_Hours__c",
+        "referenceId": "LocationBusinessHoursRef4"
+      },
+      "Name": "a0J4E00000QLUjY",
+      "flair__Location__c": "LocationRef9",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Migration_ID__c": null,
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 4
+    },
+    {
+      "attributes": {
+        "type": "flair__Location_Business_Hours__c",
+        "referenceId": "LocationBusinessHoursRef5"
+      },
+      "Name": "a0J4E00000QLUjZ",
+      "flair__Location__c": "LocationRef9",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Migration_ID__c": null,
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 5
+    },
+    {
+      "attributes": {
+        "type": "flair__Location_Business_Hours__c",
+        "referenceId": "LocationBusinessHoursRef6"
+      },
+      "Name": "a0J4E00000QLUjO",
+      "flair__Location__c": "LocationRef9",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Migration_ID__c": null,
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 2
+    },
+    {
+      "attributes": {
+        "type": "flair__Location_Business_Hours__c",
+        "referenceId": "LocationBusinessHoursRef7"
+      },
+      "Name": "a0J3O0000000tp0",
+      "flair__Location__c": "LocationRef15",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Migration_ID__c": null,
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 2
+    },
+    {
+      "attributes": {
+        "type": "flair__Location_Business_Hours__c",
+        "referenceId": "LocationBusinessHoursRef8"
+      },
+      "Name": "a0J3O0000000tp1",
+      "flair__Location__c": "LocationRef15",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Migration_ID__c": null,
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 4
+    },
+    {
+      "attributes": {
+        "type": "flair__Location_Business_Hours__c",
+        "referenceId": "LocationBusinessHoursRef9"
+      },
+      "Name": "a0J3O0000000tpF",
+      "flair__Location__c": "LocationRef15",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Migration_ID__c": null,
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 5
+    },
+    {
+      "attributes": {
+        "type": "flair__Location_Business_Hours__c",
+        "referenceId": "LocationBusinessHoursRef10"
+      },
+      "Name": "a0J3O0000000tpP",
+      "flair__Location__c": "LocationRef15",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Migration_ID__c": null,
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 6
+    }
+  ]
+}

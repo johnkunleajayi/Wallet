@@ -1,0 +1,49 @@
+{
+  "attributes": {
+    "type": "flair__Workflow_Item_Type2__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Workflow_Item_Type2__c",
+        "referenceId": "WorkflowItemTypeRef1"
+      },
+      "Name": "REGULAR"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Item_Type2__c",
+        "referenceId": "WorkflowItemTypeRef2"
+      },
+      "Name": "FILE_REQUEST"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Item_Type2__c",
+        "referenceId": "WorkflowItemTypeRef3"
+      },
+      "Name": "DATA_REQUEST"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Item_Type2__c",
+        "referenceId": "WorkflowItemTypeRef4"
+      },
+      "Name": "ACCOUNT_CREATION"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Item_Type2__c",
+        "referenceId": "WorkflowItemTypeRef5"
+      },
+      "Name": "CYCLE_ASSIGNMENT"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Item_Type2__c",
+        "referenceId": "WorkflowItemTypeRef6"
+      },
+      "Name": "EVALUATION_REQUEST"
+    }
+  ]
+}

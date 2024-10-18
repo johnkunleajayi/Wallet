@@ -1,0 +1,25 @@
+{
+  "attributes": {
+    "type": "flair__Employee_Feedback_Participant__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Participant__c",
+        "referenceId": "EmployeeFeedbackParticipantRef1"
+      },
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef2",
+      "flair__Employee__c": "EmployeeRef241",
+      "flair__Reviewer__c": "EmployeeRef156"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Participant__c",
+        "referenceId": "EmployeeFeedbackParticipantRef2"
+      },
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef1",
+      "flair__Employee__c": "EmployeeRef241",
+      "flair__Reviewer__c": "EmployeeRef240"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "attributes": {
+    "type": "flair__Employee_Feedback_Question_Section__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Question_Section__c",
+        "referenceId": "EmployeeFeedbackQuestionSectionRef1"
+      },
+      "Name": "Improvements",
+      "flair__Feedback_Cycle__c": "FeedbackCycleRef2"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Question_Section__c",
+        "referenceId": "EmployeeFeedbackQuestionSectionRef2"
+      },
+      "Name": "Strengths",
+      "flair__Feedback_Cycle__c": "FeedbackCycleRef2"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Question_Section__c",
+        "referenceId": "EmployeeFeedbackQuestionSectionRef3"
+      },
+      "Name": "Improvements",
+      "flair__Feedback_Cycle__c": "FeedbackCycleRef1"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Question_Section__c",
+        "referenceId": "EmployeeFeedbackQuestionSectionRef4"
+      },
+      "Name": "Strengths",
+      "flair__Feedback_Cycle__c": "FeedbackCycleRef1"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Question_Section__c",
+        "referenceId": "EmployeeFeedbackQuestionSectionRef5"
+      },
+      "Name": "Improvements"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Question_Section__c",
+        "referenceId": "EmployeeFeedbackQuestionSectionRef6"
+      },
+      "Name": "Strengths"
+    }
+  ]
+}

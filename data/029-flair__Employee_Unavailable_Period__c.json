@@ -1,0 +1,458 @@
+{
+  "attributes": {
+    "type": "flair__Employee_Unavailable_Period__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef1"
+      },
+      "Name": "a0G4E00000CEStw",
+      "flair__Employee__c": "EmployeeRef167",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 2
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef2"
+      },
+      "Name": "a0G4E00000CESuU",
+      "flair__Employee__c": "EmployeeRef62",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 6
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef3"
+      },
+      "Name": "a0G4E00000CESuY",
+      "flair__Employee__c": "EmployeeRef228",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 4
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef4"
+      },
+      "Name": "a0G3O0000009J46",
+      "flair__Employee__c": "EmployeeRef230",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 1
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef5"
+      },
+      "Name": "a0G3O0000009J4B",
+      "flair__Employee__c": "EmployeeRef230",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 7
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef6"
+      },
+      "Name": "a0G3O0000009J4G",
+      "flair__Employee__c": "EmployeeRef58",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 5
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef7"
+      },
+      "Name": "a0G3O0000009J4L",
+      "flair__Employee__c": "EmployeeRef58",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 6
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef8"
+      },
+      "Name": "a0G3O0000009J4M",
+      "flair__Employee__c": "EmployeeRef185",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 5
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef9"
+      },
+      "Name": "a0G3O0000009J4N",
+      "flair__Employee__c": "EmployeeRef63",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 2
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef10"
+      },
+      "Name": "a0G3O0000009J4O",
+      "flair__Employee__c": "EmployeeRef189",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 7
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef11"
+      },
+      "Name": "a0G3O0000009J4H",
+      "flair__Employee__c": "EmployeeRef189",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 1
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef12"
+      },
+      "Name": "a0G3O0000009J4p",
+      "flair__Employee__c": "EmployeeRef211",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 4
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef13"
+      },
+      "Name": "a0G3O0000009J4u",
+      "flair__Employee__c": "EmployeeRef241",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 3
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef14"
+      },
+      "Name": "a0G3O0000009J4z",
+      "flair__Employee__c": "EmployeeRef33",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 5
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef15"
+      },
+      "Name": "a0G3O0000009J4r",
+      "flair__Employee__c": "EmployeeRef36",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 3
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef16"
+      },
+      "Name": "a0G3O0000009J5x",
+      "flair__Employee__c": "EmployeeRef131",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 2
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef17"
+      },
+      "Name": "a0G3O0000009J62",
+      "flair__Employee__c": "EmployeeRef223",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 3
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef18"
+      },
+      "Name": "a0G3O0000009J67",
+      "flair__Employee__c": "EmployeeRef181",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 4
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef19"
+      },
+      "Name": "a0G3O0000009J63",
+      "flair__Employee__c": "EmployeeRef37",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 2
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef20"
+      },
+      "Name": "a0G3O0000009J5A",
+      "flair__Employee__c": "EmployeeRef43",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 3
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef21"
+      },
+      "Name": "a0G4E00000CESuT",
+      "flair__Employee__c": "EmployeeRef224",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 1
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef22"
+      },
+      "Name": "a0G3O0000009J4Q",
+      "flair__Employee__c": "EmployeeRef185",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 6
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef23"
+      },
+      "Name": "a0G3O0000009J4V",
+      "flair__Employee__c": "EmployeeRef133",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 4
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef24"
+      },
+      "Name": "a0G3O0000009J4k",
+      "flair__Employee__c": "EmployeeRef48",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 3
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef25"
+      },
+      "Name": "a0G4E00000CESu4",
+      "flair__Employee__c": "EmployeeRef31",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 6
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef26"
+      },
+      "Name": "a0G3O0000009J42",
+      "flair__Employee__c": "EmployeeRef85",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 3
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef27"
+      },
+      "Name": "a0G3O0000009J4f",
+      "flair__Employee__c": "EmployeeRef27",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 2
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef28"
+      },
+      "Name": "a0G4E00000CESu0",
+      "flair__Employee__c": "EmployeeRef132",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 6
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef29"
+      },
+      "Name": "a0G3O0000009J6C",
+      "flair__Employee__c": "EmployeeRef176",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 3
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef30"
+      },
+      "Name": "a0G4E00000CESuQ",
+      "flair__Employee__c": "EmployeeRef228",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 5
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef31"
+      },
+      "Name": "a0G4E00000CESuE",
+      "flair__Employee__c": "EmployeeRef93",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 3
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef32"
+      },
+      "Name": "a0G4E00000CESuJ",
+      "flair__Employee__c": "EmployeeRef21",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 7
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef33"
+      },
+      "Name": "a0G4E00000CEStv",
+      "flair__Employee__c": "EmployeeRef224",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 7
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef34"
+      },
+      "Name": "a0G4E00000CESuO",
+      "flair__Employee__c": "EmployeeRef25",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 4
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef35"
+      },
+      "Name": "a0G4E00000CEStf",
+      "flair__Employee__c": "EmployeeRef24",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 7
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef36"
+      },
+      "Name": "a0G4E00000CEStg",
+      "flair__Employee__c": "EmployeeRef1",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 3
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef37"
+      },
+      "Name": "a0G4E00000CESth",
+      "flair__Employee__c": "EmployeeRef62",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 7
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef38"
+      },
+      "Name": "a0G4E00000CESu5",
+      "flair__Employee__c": "EmployeeRef114",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 2
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef39"
+      },
+      "Name": "a0G4E00000CESu9",
+      "flair__Employee__c": "EmployeeRef31",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 5
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef40"
+      },
+      "Name": "a0G4E00000CEStk",
+      "flair__Employee__c": "EmployeeRef24",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 1
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Unavailable_Period__c",
+        "referenceId": "EmployeeUnavailablePeriodRef41"
+      },
+      "Name": "a0G4E00000CEStq",
+      "flair__Employee__c": "EmployeeRef132",
+      "flair__End_Time__c": "20:30:00.000Z",
+      "flair__Start_Time__c": "08:30:00.000Z",
+      "flair__Weekday_Number__c": 7
+    }
+  ]
+}

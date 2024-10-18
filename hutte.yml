@@ -1,0 +1,36 @@
+---
+version: 1.0
+
+# Shell script to run when pushing the source code to the scratch orgs.
+# It's a great place to automate tasks like permission set assignments or data loading.
+# echo y | sfdx plugins:install texei-sfdx-plugin 1>/dev/null
+push_script: |
+  set -e
+  mkdir -p ~/.config/sf
+  echo '["texei-sfdx-plugin"]' > ~/.config/sf/unsignedPluginAllowList.json
+
+  echo 'Installing texei plugin'
+  PUPPETEER_SKIP_DOWNLOAD=true sf plugins install texei-sfdx-plugin
+
+  echo 'Installing flair package'
+  sfdx force:package:install --wait 30 --publishwait 30 --package $PACKAGE_ID -r
+
+  echo 'Pushing source'
+  sfdx force:source:push --loglevel fatal 1>/dev/null
+
+  echo 'Assiging permission sets'
+  set +e
+  sfdx force:user:permset:assign --permsetname Flair_Manager 1>/dev/null
+  sfdx force:user:permset:assign --permsetname Flair_Payroll_Manager 1>/dev/null
+
+
+  echo 'Sending seed data'
+  ./tools/data-to-org 1>/dev/null
+  sf apex run -f tools/seed/AbsencesSeed.cls
+  sf apex run -f tools/seed/ManagerSeed.cls
+  echo "new PostInstallScript().onInstall(null);" | sf apex run
+
+# Shell script to run when pulling the source code from the scratch org.
+# Adding the "| hutte_track_changes" to the end of the pull command is important in order for
+# hutte to track which metadata was changed.
+pull_script: sfdx force:source:pull -f --loglevel fatal --json | hutte_track_changes

@@ -1,0 +1,127 @@
+{
+  "attributes": {
+    "type": "flair__Evaluation_Template_Question__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Question__c",
+        "referenceId": "EvaluationTemplateQuestionRef1"
+      },
+      "Name": "Working Experience",
+      "flair__Evaluation_Template__c": "EvaluationTemplateRef3",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 4,
+      "flair__Type__c": "FREE_TEXT"
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Question__c",
+        "referenceId": "EvaluationTemplateQuestionRef2"
+      },
+      "Name": "Education",
+      "flair__Evaluation_Template__c": "EvaluationTemplateRef3",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 5,
+      "flair__Type__c": "FREE_TEXT"
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Question__c",
+        "referenceId": "EvaluationTemplateQuestionRef3"
+      },
+      "Name": "Software Knowledge",
+      "flair__Evaluation_Template__c": "EvaluationTemplateRef3",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 1,
+      "flair__Type__c": "SCORECARD"
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Question__c",
+        "referenceId": "EvaluationTemplateQuestionRef4"
+      },
+      "Name": "Languages",
+      "flair__Evaluation_Template__c": "EvaluationTemplateRef3",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 2,
+      "flair__Type__c": "MULTIPLE_CHOICE"
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Question__c",
+        "referenceId": "EvaluationTemplateQuestionRef5"
+      },
+      "Name": "Working Type",
+      "flair__Evaluation_Template__c": "EvaluationTemplateRef3",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 3,
+      "flair__Type__c": "SINGLE_CHOICE"
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Question__c",
+        "referenceId": "EvaluationTemplateQuestionRef6"
+      },
+      "Name": "Do you know Java?",
+      "flair__Evaluation_Template__c": "EvaluationTemplateRef2",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 0,
+      "flair__Type__c": "SINGLE_CHOICE"
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Question__c",
+        "referenceId": "EvaluationTemplateQuestionRef7"
+      },
+      "Name": "Skills",
+      "flair__Evaluation_Template__c": "EvaluationTemplateRef2",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 1,
+      "flair__Type__c": "SCORECARD"
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Question__c",
+        "referenceId": "EvaluationTemplateQuestionRef8"
+      },
+      "Name": "Answer free text",
+      "flair__Evaluation_Template__c": "EvaluationTemplateRef2",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 2,
+      "flair__Type__c": "FREE_TEXT"
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Question__c",
+        "referenceId": "EvaluationTemplateQuestionRef9"
+      },
+      "Name": "Scorecards",
+      "flair__Evaluation_Template__c": "EvaluationTemplateRef3",
+      "flair__Hint__c": "Scorecardssssss",
+      "flair__Required__c": true,
+      "flair__Sequence__c": 0,
+      "flair__Type__c": "SCORECARD"
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template_Question__c",
+        "referenceId": "EvaluationTemplateQuestionRef10"
+      },
+      "Name": "Scorecards",
+      "flair__Evaluation_Template__c": "EvaluationTemplateRef1",
+      "flair__Hint__c": null,
+      "flair__Required__c": false,
+      "flair__Sequence__c": 0,
+      "flair__Type__c": "SCORECARD"
+    }
+  ]
+}

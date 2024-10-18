@@ -1,0 +1,2437 @@
+{
+  "attributes": {
+    "type": "flair__Employee_Absence_Category__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef1"
+      },
+      "Name": "Sickness",
+      "flair__Absence_Category__c": "AbsenceCategoryRef2",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef241"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef2"
+      },
+      "Name": "Overtime",
+      "flair__Absence_Category__c": "AbsenceCategoryRef4",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef241"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef3"
+      },
+      "Name": "Home office",
+      "flair__Absence_Category__c": "AbsenceCategoryRef3",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef241"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef4"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef241"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef5"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef22"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef6"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef23"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef7"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef24"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef8"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef25"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef9"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef26"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef10"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef27"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef11"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef28"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef12"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef29"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef13"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef237"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef14"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef177"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef15"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef178"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef16"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef179"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef17"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef181"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef18"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef182"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef19"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef183"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef20"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef184"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef21"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef185"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef22"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef186"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef23"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef187"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef24"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef188"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef25"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef189"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef26"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef191"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef27"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef192"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef28"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef193"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef29"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef194"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef30"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef195"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef31"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef198"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef32"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef199"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef33"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef200"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef34"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef201"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef35"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef204"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef36"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef205"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef37"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef206"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef38"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef208"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef39"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef210"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef40"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef211"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef41"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef238"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef42"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef239"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef43"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef240"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef44"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef242"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef45"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef243"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef46"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef244"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef47"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef245"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef48"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef246"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef49"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef248"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef50"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef249"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef51"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef250"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef52"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef251"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef53"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef252"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef54"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef105"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef55"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef102"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef56"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef103"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef57"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef104"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef58"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef135"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef59"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef136"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef60"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef1"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef61"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef2"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef62"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef3"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef63"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef4"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef64"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef5"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef65"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef6"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef66"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef7"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef67"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef8"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef68"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef9"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef69"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef10"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef70"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef11"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef71"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef13"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef72"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef14"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef73"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef15"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef74"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef16"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef75"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef17"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef76"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef18"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef77"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef19"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef78"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef256"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef79"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef253"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef80"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef254"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef81"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef255"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef82"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef257"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef83"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef258"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef84"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef259"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef85"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef260"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef86"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef261"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef87"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef262"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef88"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef263"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef89"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef64"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef90"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef65"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef91"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef66"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef92"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef67"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef93"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef68"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef94"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef69"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef95"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef70"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef96"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef71"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef97"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef72"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef98"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef73"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef99"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef74"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef100"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef75"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef101"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef106"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef102"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef107"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef103"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef108"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef104"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef109"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef105"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef110"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef106"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef111"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef107"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef112"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef108"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef113"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef109"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef114"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef110"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef115"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef111"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef116"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef112"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef117"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef113"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef118"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef114"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef119"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef115"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef120"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef116"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef121"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef117"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef122"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef118"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef123"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef119"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef162"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef120"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef159"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef121"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef160"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef122"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef161"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef123"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef163"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef124"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef164"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef125"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef165"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef126"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef166"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef127"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef167"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef128"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef212"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef129"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef213"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef130"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef214"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef131"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef215"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef132"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef216"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef133"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef217"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef134"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef218"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef135"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef219"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef136"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef220"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef137"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef221"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef138"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef222"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef139"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef223"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef140"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef224"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef141"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef225"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef142"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef226"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef143"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef227"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef144"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef228"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef145"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef230"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef146"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef231"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef147"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef232"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef148"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef233"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef149"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef234"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef150"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef235"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef151"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef76"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef152"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef78"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef153"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef79"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef154"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef95"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef155"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef96"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef156"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef97"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef157"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef99"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef158"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef100"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef159"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef101"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef160"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef128"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef161"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef124"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef162"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef126"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef163"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef127"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef164"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef129"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef165"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef130"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef166"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef131"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef167"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef132"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef168"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef133"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef169"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef81"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef170"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef82"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef171"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef83"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef172"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef84"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef173"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef85"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef174"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef86"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef175"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef87"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef176"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef88"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef177"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef89"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef178"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef90"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef179"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef91"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef180"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef92"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef181"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef93"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef182"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef94"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef183"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef137"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef184"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef138"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef185"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef139"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef186"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef140"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef187"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef142"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef188"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef143"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef189"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef144"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef190"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef80"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef191"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef146"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef192"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef147"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef193"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef148"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef194"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef149"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef195"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef151"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef196"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef153"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef197"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef155"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef198"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef156"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef199"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef157"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef200"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef158"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef201"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef168"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef202"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef20"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef203"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef21"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef204"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef134"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef205"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef169"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef206"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef170"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef207"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef171"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef208"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef172"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef209"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef173"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef210"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef174"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef211"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef175"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef212"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef176"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef213"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef31"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef214"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef32"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef215"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef33"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef216"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef34"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef217"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef35"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef218"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef36"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef219"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef39"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef220"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef40"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef221"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef41"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef222"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef30"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef223"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef42"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef224"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef43"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef225"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef44"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef226"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef45"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef227"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef49"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef228"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef46"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef229"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef47"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef230"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef48"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef231"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef50"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef232"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef52"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef233"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef53"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef234"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef54"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef235"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef55"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef236"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef56"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef237"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef57"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef238"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef58"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef239"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef59"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef240"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef60"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef241"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef61"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef242"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef62"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Absence_Category__c",
+        "referenceId": "EmployeeAbsenceCategoryRef243"
+      },
+      "Name": "Vacation days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Active__c": true,
+      "flair__Employee__c": "EmployeeRef63"
+    }
+  ]
+}

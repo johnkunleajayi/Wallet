@@ -1,0 +1,55 @@
+{
+  "attributes": {
+    "type": "flair__Job_Language__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Job_Language__c",
+        "referenceId": "JobLanguageRef1"
+      },
+      "Name": "English",
+      "flair__Value__c": "en"
+    },
+    {
+      "attributes": {
+        "type": "flair__Job_Language__c",
+        "referenceId": "JobLanguageRef2"
+      },
+      "Name": "German",
+      "flair__Value__c": "de"
+    },
+    {
+      "attributes": {
+        "type": "flair__Job_Language__c",
+        "referenceId": "JobLanguageRef3"
+      },
+      "Name": "French",
+      "flair__Value__c": "fr"
+    },
+    {
+      "attributes": {
+        "type": "flair__Job_Language__c",
+        "referenceId": "JobLanguageRef4"
+      },
+      "Name": "Spanish",
+      "flair__Value__c": "es"
+    },
+    {
+      "attributes": {
+        "type": "flair__Job_Language__c",
+        "referenceId": "JobLanguageRef5"
+      },
+      "Name": "Italian",
+      "flair__Value__c": "it"
+    },
+    {
+      "attributes": {
+        "type": "flair__Job_Language__c",
+        "referenceId": "JobLanguageRef6"
+      },
+      "Name": "Russian",
+      "flair__Value__c": "ru"
+    }
+  ]
+}

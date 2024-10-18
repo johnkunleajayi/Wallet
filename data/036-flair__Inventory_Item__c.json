@@ -1,0 +1,77 @@
+{
+  "attributes": {
+    "type": "flair__Inventory_Item__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Inventory_Item__c",
+        "referenceId": "InventoryItemRef1"
+      },
+      "RecordTypeId": "Electronic_Device",
+      "Name": "Samsung Galaxy 15",
+      "flair__Net_Purchase_Price__c": 800,
+      "flair__Purchase_Date__c": "2019-10-01",
+      "flair__Serial_Number__c": "GLAX699022"
+    },
+    {
+      "attributes": {
+        "type": "flair__Inventory_Item__c",
+        "referenceId": "InventoryItemRef2"
+      },
+      "Name": "Scanner",
+      "flair__Location__c": "LocationRef9",
+      "flair__Net_Purchase_Price__c": 7000,
+      "flair__Purchase_Date__c": "2019-05-01",
+      "flair__Serial_Number__c": "890016482"
+    },
+    {
+      "attributes": {
+        "type": "flair__Inventory_Item__c",
+        "referenceId": "InventoryItemRef3"
+      },
+      "RecordTypeId": "Electronic_Device",
+      "Name": "iPad Air 5",
+      "flair__Employee__c": "EmployeeRef130",
+      "flair__Net_Purchase_Price__c": 500,
+      "flair__Purchase_Date__c": "2019-07-01",
+      "flair__Serial_Number__c": "MK1245A"
+    },
+    {
+      "attributes": {
+        "type": "flair__Inventory_Item__c",
+        "referenceId": "InventoryItemRef4"
+      },
+      "RecordTypeId": "Electronic_Device",
+      "Name": "Sony TV 7AL",
+      "flair__Location__c": "LocationRef15",
+      "flair__Net_Purchase_Price__c": 4600.67,
+      "flair__Purchase_Date__c": "2019-10-01",
+      "flair__Serial_Number__c": "S67M97/12/34"
+    },
+    {
+      "attributes": {
+        "type": "flair__Inventory_Item__c",
+        "referenceId": "InventoryItemRef5"
+      },
+      "RecordTypeId": "Electronic_Device",
+      "Name": "MacBook Pro",
+      "flair__Employee__c": "EmployeeRef224",
+      "flair__Net_Purchase_Price__c": 2500,
+      "flair__Purchase_Date__c": "2019-10-01",
+      "flair__Serial_Number__c": "SB9810/12"
+    },
+    {
+      "attributes": {
+        "type": "flair__Inventory_Item__c",
+        "referenceId": "InventoryItemRef6"
+      },
+      "RecordTypeId": "Electronic_Device",
+      "Name": "HP Laserjet Pro 6",
+      "flair__Location__c": "LocationRef15",
+      "flair__Net_Purchase_Price__c": 750,
+      "flair__Purchase_Date__c": "2019-06-10",
+      "flair__Serial_Number__c": "HPD67122AH"
+    }
+  ]
+}

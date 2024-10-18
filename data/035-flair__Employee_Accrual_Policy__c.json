@@ -1,0 +1,2887 @@
+{
+  "attributes": {
+    "type": "flair__Employee_Accrual_Policy__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef1"
+      },
+      "Name": "a0N0E0000039Wie",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef4",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2021-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef2"
+      },
+      "Name": "a0R1X000003UuVi",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef101",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef3"
+      },
+      "Name": "a0R1X000003UuVj",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef102",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef4"
+      },
+      "Name": "a0R1X000003UuVk",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef103",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef5"
+      },
+      "Name": "a0R1X000003UuVl",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef104",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef6"
+      },
+      "Name": "a0R1X000003UuVm",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef105",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef7"
+      },
+      "Name": "a0R1X000003UuVn",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef106",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef8"
+      },
+      "Name": "a0R1X000003UuTI",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef190",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef9"
+      },
+      "Name": "a0R1X000003UuTJ",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef169",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef10"
+      },
+      "Name": "a0R1X000003UuTK",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef170",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef11"
+      },
+      "Name": "a0R1X000003UuTL",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef171",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef12"
+      },
+      "Name": "a0R1X000003UuTM",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef172",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef13"
+      },
+      "Name": "a0R1X000003UuTN",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef173",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef14"
+      },
+      "Name": "a0R1X000003UuTO",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef174",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef15"
+      },
+      "Name": "a0R1X000003UuTP",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef175",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef16"
+      },
+      "Name": "a0R1X000003UuTQ",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef176",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef17"
+      },
+      "Name": "a0R1X000003UuTR",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef177",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef18"
+      },
+      "Name": "a0R1X000003UuTS",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef178",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef19"
+      },
+      "Name": "a0R1X000003UuTT",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef179",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef20"
+      },
+      "Name": "a0R1X000003UuTU",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef180",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef21"
+      },
+      "Name": "a0R1X000003UuTV",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef181",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef22"
+      },
+      "Name": "a0R1X000003UuTW",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef182",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef23"
+      },
+      "Name": "a0R1X000003UuTX",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef183",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef24"
+      },
+      "Name": "a0R1X000003UuTY",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef184",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef25"
+      },
+      "Name": "a0R1X000003UuTZ",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef185",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef26"
+      },
+      "Name": "a0R1X000003UuTa",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef186",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef27"
+      },
+      "Name": "a0R1X000003UuUE",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef22",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef28"
+      },
+      "Name": "a0R1X000003UuUF",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef23",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef29"
+      },
+      "Name": "a0R1X000003UuUG",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef24",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef30"
+      },
+      "Name": "a0R1X000003UuUH",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef25",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef31"
+      },
+      "Name": "a0R1X000003UuUI",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef26",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef32"
+      },
+      "Name": "a0R1X000003UuUJ",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef27",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef33"
+      },
+      "Name": "a0R1X000003UuUK",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef28",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef34"
+      },
+      "Name": "a0R1X000003UuUL",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef29",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef35"
+      },
+      "Name": "a0R1X000003UuUM",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef30",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef36"
+      },
+      "Name": "a0R1X000003UuUN",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef31",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef37"
+      },
+      "Name": "a0R1X000003UuUO",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef32",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef38"
+      },
+      "Name": "a0R1X000003UuUP",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef33",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef39"
+      },
+      "Name": "a0R1X000003UuUQ",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef34",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef40"
+      },
+      "Name": "a0R1X000003UuUR",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef35",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef41"
+      },
+      "Name": "a0R1X000003UuUS",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef36",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef42"
+      },
+      "Name": "a0R1X000003UuUT",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef37",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef43"
+      },
+      "Name": "a0R1X000003UuUU",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef38",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef44"
+      },
+      "Name": "a0R1X000003UuUV",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef39",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef45"
+      },
+      "Name": "a0R1X000003UuUW",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef40",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef46"
+      },
+      "Name": "a0R1X000003UuUX",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef128",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef47"
+      },
+      "Name": "a0R1X000003UuUY",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef129",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef48"
+      },
+      "Name": "a0R1X000003UuUZ",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef130",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef49"
+      },
+      "Name": "a0R1X000003UuUa",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef131",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef50"
+      },
+      "Name": "a0R1X000003UuUb",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef132",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef51"
+      },
+      "Name": "a0R1X000003UuUC",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef20",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef52"
+      },
+      "Name": "a0R1X000003UuUc",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef133",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef53"
+      },
+      "Name": "a0R1X000003UuUD",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef21",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef54"
+      },
+      "Name": "a0R1X000003UuUd",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef134",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef55"
+      },
+      "Name": "a0R1X000003UuUe",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef135",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef56"
+      },
+      "Name": "a0R1X000003UuUf",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef136",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef57"
+      },
+      "Name": "a0R1X000003UuUg",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef137",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef58"
+      },
+      "Name": "a0R1X000003UuUh",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef138",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef59"
+      },
+      "Name": "a0R1X000003UuUi",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef139",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef60"
+      },
+      "Name": "a0R1X000003UuUj",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef140",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef61"
+      },
+      "Name": "a0R1X000003UuUk",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef141",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef62"
+      },
+      "Name": "a0R1X000003UuUl",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef142",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef63"
+      },
+      "Name": "a0R1X000003UuUu",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef13",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef64"
+      },
+      "Name": "a0R1X000003UuUv",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef41",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef65"
+      },
+      "Name": "a0R1X000003UuUw",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef42",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef66"
+      },
+      "Name": "a0R1X000003UuUx",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef43",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef67"
+      },
+      "Name": "a0R1X000003UuUy",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef44",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef68"
+      },
+      "Name": "a0R1X000003UuUz",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef45",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef69"
+      },
+      "Name": "a0R1X000003UuV0",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef46",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef70"
+      },
+      "Name": "a0R1X000003UuV1",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef47",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef71"
+      },
+      "Name": "a0R1X000003UuV2",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef48",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef72"
+      },
+      "Name": "a0R1X000003UuV3",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef49",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef73"
+      },
+      "Name": "a0R1X000003UuV4",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef50",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef74"
+      },
+      "Name": "a0R1X000003UuV5",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef51",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef75"
+      },
+      "Name": "a0R1X000003UuTb",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef187",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef76"
+      },
+      "Name": "a0R1X000003UuV6",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef52",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef77"
+      },
+      "Name": "a0R1X000003UuV7",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef53",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef78"
+      },
+      "Name": "a0R1X000003UuV8",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef79",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef79"
+      },
+      "Name": "a0R1X000003UuTc",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef188",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef80"
+      },
+      "Name": "a0R1X000003UuTd",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef189",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef81"
+      },
+      "Name": "a0R1X000003UuTe",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef191",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef82"
+      },
+      "Name": "a0R1X000003UuTf",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef192",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef83"
+      },
+      "Name": "a0R1X000003UuTg",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef193",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef84"
+      },
+      "Name": "a0R1X000003UuTh",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef194",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef85"
+      },
+      "Name": "a0R1X000003UuTi",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef195",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef86"
+      },
+      "Name": "a0R1X000003UuTj",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef196",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef87"
+      },
+      "Name": "a0R1X000003UuTk",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef197",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef88"
+      },
+      "Name": "a0R1X000003UuTl",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef198",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef89"
+      },
+      "Name": "a0R1X000003UuTm",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef199",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef90"
+      },
+      "Name": "a0R1X000003UuTn",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef200",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef91"
+      },
+      "Name": "a0R1X000003UuTo",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef120",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef92"
+      },
+      "Name": "a0R1X000003UuTp",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef121",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef93"
+      },
+      "Name": "a0R1X000003UuTq",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef122",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef94"
+      },
+      "Name": "a0R1X000003UuTr",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef119",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef95"
+      },
+      "Name": "a0R1X000003UuTs",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef123",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef96"
+      },
+      "Name": "a0R1X000003UuTt",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef124",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef97"
+      },
+      "Name": "a0R1X000003UuTu",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef125",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef98"
+      },
+      "Name": "a0R1X000003UuTv",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef126",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef99"
+      },
+      "Name": "a0R1X000003UuTw",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef127",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef100"
+      },
+      "Name": "a0R1X000003UuTx",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef201",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef101"
+      },
+      "Name": "a0R1X000003UuTy",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef205",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef102"
+      },
+      "Name": "a0R1X000003UuTz",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef206",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef103"
+      },
+      "Name": "a0R1X000003UuU0",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef207",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef104"
+      },
+      "Name": "a0R1X000003UuU1",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef208",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef105"
+      },
+      "Name": "a0R1X000003UuU2",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef209",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef106"
+      },
+      "Name": "a0R1X000003UuU3",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef210",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef107"
+      },
+      "Name": "a0R1X000003UuU4",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef211",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef108"
+      },
+      "Name": "a0R1X000003UuU5",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef212",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef109"
+      },
+      "Name": "a0R1X000003UuUn",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef144",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef110"
+      },
+      "Name": "a0R1X000003UuUo",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef145",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef111"
+      },
+      "Name": "a0R1X000003UuUp",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef146",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef112"
+      },
+      "Name": "a0R1X000003UuUt",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef150",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef113"
+      },
+      "Name": "a0R1X000003UuUq",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef147",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef114"
+      },
+      "Name": "a0R1X000003UuUr",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef148",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef115"
+      },
+      "Name": "a0R1X000003UuUs",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef149",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef116"
+      },
+      "Name": "a0R1X000003UuUm",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef143",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef117"
+      },
+      "Name": "a0R1X000003UuV9",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef80",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef118"
+      },
+      "Name": "a0R1X000003UuVA",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef81",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef119"
+      },
+      "Name": "a0R1X000003UuVB",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef78",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef120"
+      },
+      "Name": "a0R1X000003UuVC",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef82",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef121"
+      },
+      "Name": "a0R1X000003UuVD",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef83",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef122"
+      },
+      "Name": "a0R1X000003UuVE",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef84",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef123"
+      },
+      "Name": "a0R1X000003UuVF",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef85",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef124"
+      },
+      "Name": "a0R1X000003UuVG",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef86",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef125"
+      },
+      "Name": "a0R1X000003UuVH",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef87",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef126"
+      },
+      "Name": "a0R1X000003UuVI",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef88",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef127"
+      },
+      "Name": "a0R1X000003UuVJ",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef89",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef128"
+      },
+      "Name": "a0R1X000003UuVK",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef90",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef129"
+      },
+      "Name": "a0R1X000003UuVL",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef91",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef130"
+      },
+      "Name": "a0R1X000003UuVM",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef92",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef131"
+      },
+      "Name": "a0R1X000003UuVN",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef93",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef132"
+      },
+      "Name": "a0R1X000003UuVO",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef94",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef133"
+      },
+      "Name": "a0R1X000003UuVP",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef95",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef134"
+      },
+      "Name": "a0R1X000003UuVQ",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef96",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef135"
+      },
+      "Name": "a0R1X000003UuVR",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef97",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef136"
+      },
+      "Name": "a0R1X000003UuVS",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef98",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef137"
+      },
+      "Name": "a0R1X000003UuVT",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef99",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef138"
+      },
+      "Name": "a0R1X000003UuVU",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef100",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef139"
+      },
+      "Name": "a0R1X000003UuVV",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef151",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef140"
+      },
+      "Name": "a0R1X000003UuVW",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef152",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef141"
+      },
+      "Name": "a0R1X000003UuVX",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef153",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef142"
+      },
+      "Name": "a0R1X000003UuVY",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef154",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef143"
+      },
+      "Name": "a0R1X000003UuVZ",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef155",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef144"
+      },
+      "Name": "a0R1X000003UuVa",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef156",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef145"
+      },
+      "Name": "a0R1X000003UuVb",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef157",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef146"
+      },
+      "Name": "a0R1X000003UuVc",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef158",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef147"
+      },
+      "Name": "a0R1X000003UuVd",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef159",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef148"
+      },
+      "Name": "a0R1X000003UuVe",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef55",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef149"
+      },
+      "Name": "a0R1X000003UuVo",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef107",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef150"
+      },
+      "Name": "a0R1X000003UuVf",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef56",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef151"
+      },
+      "Name": "a0R1X000003UuVg",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef57",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef152"
+      },
+      "Name": "a0R1X000003UuVh",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef54",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef153"
+      },
+      "Name": "a0R1X000003UuVp",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef108",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef154"
+      },
+      "Name": "a0R1X000003UuVq",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef109",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef155"
+      },
+      "Name": "a0R1X000003UuVr",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef110",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef156"
+      },
+      "Name": "a0R1X000003UuVs",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef111",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef157"
+      },
+      "Name": "a0R1X000003UuVt",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef112",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef158"
+      },
+      "Name": "a0R1X000003UuVu",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef113",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef159"
+      },
+      "Name": "a0R1X000003UuVv",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef114",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef160"
+      },
+      "Name": "a0R1X000003UuVw",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef115",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef161"
+      },
+      "Name": "a0R1X000003UuVx",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef116",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef162"
+      },
+      "Name": "a0R1X000003UuVy",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef117",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef163"
+      },
+      "Name": "a0R1X000003UuVz",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef118",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef164"
+      },
+      "Name": "a0R1X000003UuW0",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef161",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef165"
+      },
+      "Name": "a0R1X000003UuW1",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef162",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef166"
+      },
+      "Name": "a0R1X000003UuW2",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef163",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef167"
+      },
+      "Name": "a0R1X000003UuW3",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef160",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef168"
+      },
+      "Name": "a0R1X000003UuW4",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef164",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef169"
+      },
+      "Name": "a0R1X000003UuW5",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef165",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef170"
+      },
+      "Name": "a0R1X000003UuW6",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef166",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef171"
+      },
+      "Name": "a0R1X000003UuW7",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef167",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef172"
+      },
+      "Name": "a0R1X000003UuW8",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef168",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef173"
+      },
+      "Name": "a0R1X000003UuW9",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef204",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef174"
+      },
+      "Name": "a0R1X000003UuWA",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef58",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef175"
+      },
+      "Name": "a0R1X000003UuWB",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef59",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef176"
+      },
+      "Name": "a0R1X000003UuWC",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef60",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef177"
+      },
+      "Name": "a0R1X000003UuWD",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef61",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef178"
+      },
+      "Name": "a0R1X000003UuWE",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef62",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef179"
+      },
+      "Name": "a0R1X000003UuWF",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef63",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef180"
+      },
+      "Name": "a0R1X000003UuWG",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef64",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef181"
+      },
+      "Name": "a0R1X000003UuWH",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef65",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef182"
+      },
+      "Name": "a0R1X000003UuWI",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef66",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef183"
+      },
+      "Name": "a0R1X000003UuWJ",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef67",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef184"
+      },
+      "Name": "a0R1X000003UuWK",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef68",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef185"
+      },
+      "Name": "a0R1X000003UuWL",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef69",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef186"
+      },
+      "Name": "a0R1X000003UuWP",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef73",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef187"
+      },
+      "Name": "a0R1X000003UuWM",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef70",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef188"
+      },
+      "Name": "a0R1X000003UuWN",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef71",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef189"
+      },
+      "Name": "a0R1X000003UuWO",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef72",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef190"
+      },
+      "Name": "a0R1X000003UuWQ",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef74",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef191"
+      },
+      "Name": "a0R1X000003UuWR",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef75",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef192"
+      },
+      "Name": "a0R1X000003UuWS",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef76",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef193"
+      },
+      "Name": "a0R1X000003UuWT",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef77",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef194"
+      },
+      "Name": "a0R1X000003UuWU",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef202",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef195"
+      },
+      "Name": "a0R1X000003UuWV",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef203",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef196"
+      },
+      "Name": "a0R1X000003UuU6",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef14",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef197"
+      },
+      "Name": "a0R1X000003UuU7",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef15",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef198"
+      },
+      "Name": "a0R1X000003UuU8",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef16",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef199"
+      },
+      "Name": "a0R1X000003UuU9",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef17",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef200"
+      },
+      "Name": "a0R1X000003UuUA",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef18",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef201"
+      },
+      "Name": "a0R1X000003UuWY",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef7",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef202"
+      },
+      "Name": "a0R1X000003UuUB",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef19",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef203"
+      },
+      "Name": "a0R1X000003UuWW",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef5",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef204"
+      },
+      "Name": "a0R1X000003UuWX",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef6",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef205"
+      },
+      "Name": "a0R1X000003UuWZ",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef8",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef206"
+      },
+      "Name": "a0R1X000003UuWa",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef9",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef207"
+      },
+      "Name": "a0R1X000003UuWb",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef10",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef208"
+      },
+      "Name": "a0R1X000003UuWc",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef11",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef209"
+      },
+      "Name": "a0R1X000003UuWd",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef12",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef210"
+      },
+      "Name": "a0R1X000003UuWe",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef222",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef211"
+      },
+      "Name": "a0R1X000003UuWg",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef214",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef212"
+      },
+      "Name": "a0R1X000003UuWh",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef215",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef213"
+      },
+      "Name": "a0R1X000003UuWi",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef216",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef214"
+      },
+      "Name": "a0R1X000003UuWj",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef217",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef215"
+      },
+      "Name": "a0R1X000003UuWk",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef218",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef216"
+      },
+      "Name": "a0R1X000003UuWl",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef219",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef217"
+      },
+      "Name": "a0R1X000003UuWm",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef220",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef218"
+      },
+      "Name": "a0R1X000003UuWn",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef221",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef219"
+      },
+      "Name": "a0R1X000003UuWo",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef223",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef220"
+      },
+      "Name": "a0R1X000003UuWp",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef224",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef221"
+      },
+      "Name": "a0R1X000003UuWq",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef225",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef222"
+      },
+      "Name": "a0R1X000003UuWr",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef226",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef223"
+      },
+      "Name": "a0R1X000003UuWs",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef228",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef224"
+      },
+      "Name": "a0R1X000003UuWt",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef229",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef225"
+      },
+      "Name": "a0R1X000003UuWf",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef213",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef226"
+      },
+      "Name": "a0R1X000003UuWu",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef230",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef227"
+      },
+      "Name": "a0R1X000003UuWv",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef227",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef228"
+      },
+      "Name": "a0R1X000003UuWw",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef231",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef229"
+      },
+      "Name": "a0R1X000003UuWx",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef232",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef230"
+      },
+      "Name": "a0R1X000003UuWy",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef233",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef231"
+      },
+      "Name": "a0R1X000003UuWz",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef234",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef232"
+      },
+      "Name": "a0R1X000003UuX0",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef235",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef233"
+      },
+      "Name": "a0R1X000003UuX1",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef236",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef234"
+      },
+      "Name": "a0R1X000003UuX2",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef237",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef235"
+      },
+      "Name": "a0R1X000003UuX3",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef238",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef236"
+      },
+      "Name": "a0R1X000003UuX4",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef239",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef237"
+      },
+      "Name": "a0R1X000003UuX5",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef240",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef238"
+      },
+      "Name": "a0R1X000003UuX6",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef241",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef239"
+      },
+      "Name": "a0R1X000003UuX7",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef242",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Accrual_Policy__c",
+        "referenceId": "EmployeeAccrualPolicyRef240"
+      },
+      "Name": "a0R1X000003UuX8",
+      "flair__Employee_Absence_Category__c": "EmployeeAbsenceCategoryRef243",
+      "flair__Accrual_Policy__c": "AccrualPolicyRef2",
+      "flair__End_Date__c": null,
+      "flair__External_ID__c": null,
+      "flair__Start_Date__c": "2020-01-01"
+    }
+  ]
+}

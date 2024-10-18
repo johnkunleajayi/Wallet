@@ -1,0 +1,46 @@
+{
+    "message": "Paystub processing completed",
+    "created_paystubs": [
+        {
+            "hours_worked": 160,
+            "pay_period_start": "2024-09-11",
+            "pay_period_end": "2024-10-12",
+            "taxable_income": 300,
+            "reimbursements": 0,
+            "other_allowances": 500,
+            "company_id": 17,
+            "transaction_id": "VC13-AE9MDH",
+            "employee_name": "Support Valonconsultinggroup",
+            "status": "unpaid",
+            "gross_pay": 800,
+            "net_pay": 728.5,
+            "tax_withheld": 0,
+            "pension_contribution": 64,
+            "nhf_contribution": 7.5,
+            "nhis_contribution": 0,
+            "other_deductions": 0,
+            "pay_rate": 5
+        },
+        {
+            "hours_worked": 160,
+            "pay_period_start": "2024-09-11",
+            "pay_period_end": "2024-10-12",
+            "taxable_income": 20,
+            "reimbursements": 20,
+            "other_allowances": 600,
+            "company_id": 17,
+            "transaction_id": "VC13-GMZIZQ",
+            "employee_name": "Sam Atadoga",
+            "status": "unpaid",
+            "gross_pay": 640,
+            "net_pay": 588.3,
+            "tax_withheld": 0,
+            "pension_contribution": 51.2,
+            "nhf_contribution": 0.5,
+            "nhis_contribution": 0,
+            "other_deductions": 0,
+            "pay_rate": 4
+        }
+    ],
+    "failed_paystubs": []
+}

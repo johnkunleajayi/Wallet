@@ -1,0 +1,46 @@
+{
+  "attributes": {
+    "type": "flair__Workflow__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Workflow__c",
+        "referenceId": "EmployeeWorkflowRef1"
+      },
+      "Name": "Employee Offboarding",
+      "flair__Employee__c": "EmployeeRef41",
+      "flair__First_Opened__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Show_Onboarding_Widget__c": true,
+      "flair__Type__c": "OFFBOARDING",
+      "flair__Workflow_Template__c": "WorkflowTemplateRef2"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow__c",
+        "referenceId": "EmployeeWorkflowRef2"
+      },
+      "Name": "Employee Onboarding",
+      "flair__Employee__c": "EmployeeRef96",
+      "flair__First_Opened__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Show_Onboarding_Widget__c": true,
+      "flair__Type__c": "ONBOARDING",
+      "flair__Workflow_Template__c": "WorkflowTemplateRef1"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow__c",
+        "referenceId": "EmployeeWorkflowRef3"
+      },
+      "Name": "Company Event Planning",
+      "flair__Employee__c": "EmployeeRef263",
+      "flair__First_Opened__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Show_Onboarding_Widget__c": true,
+      "flair__Type__c": "OTHER",
+      "flair__Workflow_Template__c": "WorkflowTemplateRef3"
+    }
+  ]
+}

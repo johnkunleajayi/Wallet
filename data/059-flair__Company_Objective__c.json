@@ -1,0 +1,88 @@
+{
+  "attributes": {
+    "type": "flair__Company_Objective__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Company_Objective__c",
+        "referenceId": "CompanyObjectiveRef1"
+      },
+      "Name": "Hit company global sales target of $50 Million in New ARR",
+      "flair__Cancellation_Reason__c": null,
+      "flair__Created_By__c": "EmployeeRef156",
+      "flair__Description__c": null,
+      "flair__Due_Date__c": null,
+      "flair__Is_Draft__c": false,
+      "flair__Migration_ID__c": null,
+      "flair__Nested_Goals_Allowed__c": true,
+      "flair__Nested_Goals_Visibilities__c": "ALL_THE_COMPANY,MANAGEMENT_AND_HR,PROTECTED_ITEM",
+      "flair__Numeric__c": true,
+      "flair__Objective_Time_Period__c": "ObjectiveTimePeriodRef2",
+      "flair__Owner__c": "EmployeeRef156",
+      "flair__Percentage__c": true,
+      "flair__Progress__c": 0,
+      "flair__RateAt__c": null,
+      "flair__Responsible__c": "EmployeeRef156",
+      "flair__Start_Date__c": null,
+      "flair__Status_Reason__c": null,
+      "flair__Status__c": "BEHIND",
+      "flair__Visibility__c": "ALL_THE_COMPANY",
+      "flair__Yes_No__c": true
+    },
+    {
+      "attributes": {
+        "type": "flair__Company_Objective__c",
+        "referenceId": "CompanyObjectiveRef2"
+      },
+      "Name": "Drastically increase team performance",
+      "flair__Cancellation_Reason__c": null,
+      "flair__Created_By__c": "EmployeeRef156",
+      "flair__Description__c": null,
+      "flair__Due_Date__c": null,
+      "flair__Is_Draft__c": false,
+      "flair__Migration_ID__c": null,
+      "flair__Nested_Goals_Allowed__c": true,
+      "flair__Nested_Goals_Visibilities__c": "ALL_THE_COMPANY,MANAGEMENT_AND_HR,PROTECTED_ITEM",
+      "flair__Numeric__c": true,
+      "flair__Objective_Time_Period__c": "ObjectiveTimePeriodRef2",
+      "flair__Owner__c": "EmployeeRef156",
+      "flair__Percentage__c": true,
+      "flair__Progress__c": 0,
+      "flair__RateAt__c": null,
+      "flair__Responsible__c": "EmployeeRef156",
+      "flair__Start_Date__c": null,
+      "flair__Status_Reason__c": null,
+      "flair__Status__c": "BEHIND",
+      "flair__Visibility__c": "ALL_THE_COMPANY",
+      "flair__Yes_No__c": true
+    },
+    {
+      "attributes": {
+        "type": "flair__Company_Objective__c",
+        "referenceId": "CompanyObjectiveRef3"
+      },
+      "Name": "Reduce churn to less than 5% annually",
+      "flair__Cancellation_Reason__c": null,
+      "flair__Created_By__c": "EmployeeRef156",
+      "flair__Description__c": null,
+      "flair__Due_Date__c": null,
+      "flair__Is_Draft__c": false,
+      "flair__Migration_ID__c": null,
+      "flair__Nested_Goals_Allowed__c": true,
+      "flair__Nested_Goals_Visibilities__c": "ALL_THE_COMPANY,MANAGEMENT_AND_HR,PROTECTED_ITEM",
+      "flair__Numeric__c": true,
+      "flair__Objective_Time_Period__c": "ObjectiveTimePeriodRef2",
+      "flair__Owner__c": "EmployeeRef156",
+      "flair__Percentage__c": true,
+      "flair__Progress__c": 0,
+      "flair__RateAt__c": null,
+      "flair__Responsible__c": "EmployeeRef156",
+      "flair__Start_Date__c": null,
+      "flair__Status_Reason__c": null,
+      "flair__Status__c": "BEHIND",
+      "flair__Visibility__c": "ALL_THE_COMPANY",
+      "flair__Yes_No__c": true
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "attributes": {
+    "type": "flair__Location_Predefined_Shift__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Location_Predefined_Shift__c",
+        "referenceId": "LocationPredefinedShiftRef1"
+      },
+      "Name": "Day Shift",
+      "flair__Location__c": "LocationRef15",
+      "flair__Break_End_time__c": null,
+      "flair__Break_Name__c": null,
+      "flair__Break_Start_Time__c": null,
+      "flair__Button_Name2__c": "☀️",
+      "flair__Days__c": null,
+      "flair__Employee_Notes__c": null,
+      "flair__End_Time__c": "18:00:00.000Z",
+      "flair__Migration_ID__c": null,
+      "flair__Paid_Preparation_Time_After__c": null,
+      "flair__Paid_Preparation_Time_Before__c": null,
+      "flair__Predefined_Shift_Color__c": null,
+      "flair__Start_Time__c": "10:00:00.000Z"
+    },
+    {
+      "attributes": {
+        "type": "flair__Location_Predefined_Shift__c",
+        "referenceId": "LocationPredefinedShiftRef2"
+      },
+      "Name": "Late Shift",
+      "flair__Location__c": "LocationRef15",
+      "flair__Break_End_time__c": null,
+      "flair__Break_Name__c": null,
+      "flair__Break_Start_Time__c": null,
+      "flair__Button_Name2__c": "🌙",
+      "flair__Days__c": null,
+      "flair__Employee_Notes__c": null,
+      "flair__End_Time__c": "23:30:00.000Z",
+      "flair__Migration_ID__c": null,
+      "flair__Paid_Preparation_Time_After__c": null,
+      "flair__Paid_Preparation_Time_Before__c": null,
+      "flair__Predefined_Shift_Color__c": null,
+      "flair__Start_Time__c": "19:00:00.000Z"
+    },
+    {
+      "attributes": {
+        "type": "flair__Location_Predefined_Shift__c",
+        "referenceId": "LocationPredefinedShiftRef3"
+      },
+      "Name": "Early Shift",
+      "flair__Location__c": "LocationRef15",
+      "flair__Break_End_time__c": null,
+      "flair__Break_Name__c": null,
+      "flair__Break_Start_Time__c": null,
+      "flair__Button_Name2__c": "🌅",
+      "flair__Days__c": null,
+      "flair__Employee_Notes__c": null,
+      "flair__End_Time__c": "13:15:00.000Z",
+      "flair__Migration_ID__c": null,
+      "flair__Paid_Preparation_Time_After__c": null,
+      "flair__Paid_Preparation_Time_Before__c": null,
+      "flair__Predefined_Shift_Color__c": null,
+      "flair__Start_Time__c": "08:30:00.000Z"
+    }
+  ]
+}

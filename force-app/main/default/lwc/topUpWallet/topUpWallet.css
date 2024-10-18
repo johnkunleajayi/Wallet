@@ -1,0 +1,12 @@
+
+
+.slds-card {
+    max-width: 500px; /* Set the maximum width you want */
+    margin: 0 auto; /* Center the card horizontally */
+}
+
+.slds-card__header {
+    background-color: #f3f3f3;
+    border-bottom: 1px solid #d8dde6;
+    padding: 0.75rem;
+}

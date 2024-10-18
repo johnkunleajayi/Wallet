@@ -1,0 +1,180 @@
+<template>
+    <article class="slds-card">
+        <!-- Header Section -->
+        
+        <div class="slds-card__header slds-grid">
+            <header class="slds-media slds-media_center card">
+                <div class="slds-media__figure">
+                    <lightning-icon icon-name="custom:custom41" alternative-text="Make Payment" title="Make Payment"></lightning-icon>
+                </div>
+                <div class="slds-media__body">
+                    <h2 class="slds-card__header-title">
+                        <a href="#" class="slds-card__header-link slds-truncate" title="Make Payment">
+                            <span>Make Payment</span>
+                        </a>
+                    </h2>
+                </div>
+            </header>
+        </div>
+
+        <!-- Content Section -->
+
+        <div class="slds-card__body slds-card__body_inner">
+            <lightning-input 
+                label="Select User" 
+                type="text" 
+                placeholder="Select a User" 
+                value={userInput} 
+                onchange={handleUserChange}>
+            </lightning-input>
+            <template if:true={showDropdown}>
+                <ul class="slds-listbox slds-listbox_vertical slds-dropdown slds-dropdown_fluid">
+                    <template for:each={userOptions} for:item="user">
+                        <li key={user.value} class="slds-listbox__item" data-id={user.value} data-name={user.label} onclick={handleUserSelect}>
+                            <div class="slds-media slds-media_center slds-listbox__option slds-listbox__option_plain slds-media_small">
+                                <span class="slds-media__body">
+                                    <span class="slds-truncate" title={user.label}>{user.label}</span>
+                                </span>
+                            </div>
+                        </li>
+                    </template>
+                </ul>
+            </template>
+        </div>
+    
+
+        
+        <div class="slds-card__body slds-card__body_inner">
+            <lightning-combobox
+                label="Payment Type"
+                value={paymentType}
+                options={paymentTypeOptions}
+                placeholder="Select Payment Type"
+                onchange={handlePaymentTypeChange}>
+            </lightning-combobox>
+        </div>
+
+        <!-- Conditionals starts -->
+<!-- One Time Payment Type Dropdown -->
+
+<template if:true={isOneTimeSelected}>
+    <div class="slds-card__body slds-card__body_inner">
+    <lightning-combobox
+        label="One Time Payment Type"
+        value={oneTimePaymentType}
+        options={oneTimePaymentTypeOptions}
+        placeholder="Select Payment Type"
+        onchange={handleOneTimePaymentTypeChange}>
+    </lightning-combobox>
+</div>
+</template>
+
+<!-- Frequency Picklist -->
+<template if:true={isRecurringSelected}>
+    <div class="slds-card__body slds-card__body_inner">
+        <lightning-combobox
+            label="Frequency"
+            value={frequency}
+            options={frequencyOptions}
+            placeholder="Select Frequency"
+            onchange={handleFrequencyChange}>
+        </lightning-combobox>
+    </div>
+</template>
+
+
+<!-- Select Payslip Dropdown -->
+<template if:true={isPaySlipSelected}>
+    <div class="slds-card__body slds-card__body_inner">
+    <lightning-combobox
+        label="Select Payslip"
+        value={selectedPayslip}
+        options={payslipOptions} 
+        placeholder="No result found"
+        onchange={handleSelectPayslipChange}>
+    </lightning-combobox>
+</div>
+</template>
+
+<!-- Select Invoice Dropdown -->
+<template if:true={isInvoiceSelected}>
+    <div class="slds-card__body slds-card__body_inner">
+        <lightning-combobox
+            label="Select Invoice"
+            value={selectedInvoice}
+            options={invoiceOptions} 
+            placeholder="No result found"
+            onchange={handleSelectInvoiceChange}>
+        </lightning-combobox>
+    </div>
+</template>
+
+
+
+
+
+        <!-- Conditionals ends -->
+
+
+
+
+        <div class="slds-card__body slds-card__body_inner">
+            <lightning-input 
+                label="Payment Date" 
+                type="date" 
+                placeholder="dd/mm/yyyy" 
+                onchange={handlePaymentDateChange}>
+            </lightning-input>
+        </div>
+
+
+        <!-- Read-only text with icon below the Payment Date field -->
+<div class="slds-card__body slds-card__body_inner slds-p-top_small">
+    <lightning-icon 
+        icon-name="utility:info" 
+        alternative-text="Payment Instructions" 
+        title="Payment Instructions" 
+        size="small">
+    </lightning-icon>
+    <span class="slds-m-left_small">Payment Instructions:</span>
+</div>
+
+<!-- Conditional message for Pay Slip -->
+<template if:true={showPaySlipInstructions}>
+    <div class="slds-m-top_small pay-slip-instructions">
+        Please ensure the paystub details are correct.
+    </div>
+</template>
+
+
+<!-- Conditional message for Invoice -->
+<template if:true={showInvoiceInstructions}>
+    <div class="slds-m-top_small invoice-instructions">
+        Review the quote amount and details before proceeding.
+    </div>
+</template>
+
+
+
+
+        <!-- Footer Section -->
+<div class="slds-card__footer">
+    <lightning-button 
+        label="Pay" 
+        variant="brand" 
+        icon-name="utility:currency" 
+        class="pay-button"
+        onclick={handlePayClick}>
+    </lightning-button>
+    <lightning-button 
+        label="Cancel" 
+        variant="neutral" 
+        icon-name="action:back" 
+        class="slds-m-left_small cancel-button"
+        onclick={handleCancelClick}>
+    </lightning-button>
+</div>
+
+
+    </article>
+</template>

@@ -1,0 +1,154 @@
+{
+  "attributes": {
+    "type": "flair__Workflow_Step__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Workflow_Step__c",
+        "referenceId": "WorkflowStepRef1"
+      },
+      "Name": "Step 1: Exit Interview",
+      "flair__Workflow__c": "EmployeeWorkflowRef1",
+      "flair__Activating_Trigger__c": "SPECIFIC_DATE",
+      "flair__Activation_Date__c": "2024-07-03",
+      "flair__Mandatory_Items_Completed_At__c": null,
+      "flair__Order__c": 1,
+      "flair__Step_Name__c": "Step 1: Exit Interview",
+      "flair__Workflow_Template_Step__c": "WorkflowTemplateStepRef4"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Step__c",
+        "referenceId": "WorkflowStepRef2"
+      },
+      "Name": "Step 2: Return Company Property",
+      "flair__Workflow__c": "EmployeeWorkflowRef1",
+      "flair__Activating_Trigger__c": "AFTER_FINISHING_MANDATORY_TASKS",
+      "flair__Activation_Date__c": null,
+      "flair__Mandatory_Items_Completed_At__c": null,
+      "flair__Order__c": 2,
+      "flair__Previous_Workflow_Step__c": "WorkflowStepRef1",
+      "flair__Step_Name__c": "Step 2: Return Company Property",
+      "flair__Workflow_Template_Step__c": "WorkflowTemplateStepRef5"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Step__c",
+        "referenceId": "WorkflowStepRef3"
+      },
+      "Name": "Step 3: Final Payroll Processing",
+      "flair__Workflow__c": "EmployeeWorkflowRef1",
+      "flair__Activating_Trigger__c": "AFTER_FINISHING_MANDATORY_TASKS",
+      "flair__Activation_Date__c": null,
+      "flair__Mandatory_Items_Completed_At__c": "2024-07-03T07:10:58.000+0000",
+      "flair__Order__c": 3,
+      "flair__Previous_Workflow_Step__c": "WorkflowStepRef2",
+      "flair__Step_Name__c": "Step 3: Final Payroll Processing",
+      "flair__Workflow_Template_Step__c": "WorkflowTemplateStepRef6"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Step__c",
+        "referenceId": "WorkflowStepRef4"
+      },
+      "Name": "Step 1: Documentation",
+      "flair__Workflow__c": "EmployeeWorkflowRef2",
+      "flair__Activating_Trigger__c": "SPECIFIC_DATE",
+      "flair__Activation_Date__c": "2024-07-03",
+      "flair__Mandatory_Items_Completed_At__c": null,
+      "flair__Order__c": 1,
+      "flair__Step_Name__c": "Step 1: Documentation",
+      "flair__Workflow_Template_Step__c": "WorkflowTemplateStepRef1"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Step__c",
+        "referenceId": "WorkflowStepRef5"
+      },
+      "Name": "Step 2: Orientation",
+      "flair__Workflow__c": "EmployeeWorkflowRef2",
+      "flair__Activating_Trigger__c": "AFTER_FINISHING_MANDATORY_TASKS",
+      "flair__Activation_Date__c": null,
+      "flair__Mandatory_Items_Completed_At__c": "2024-07-03T07:14:11.000+0000",
+      "flair__Order__c": 2,
+      "flair__Previous_Workflow_Step__c": "WorkflowStepRef4",
+      "flair__Step_Name__c": "Step 2: Orientation",
+      "flair__Workflow_Template_Step__c": "WorkflowTemplateStepRef2"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Step__c",
+        "referenceId": "WorkflowStepRef6"
+      },
+      "Name": "Step 3: Setup Workspace",
+      "flair__Workflow__c": "EmployeeWorkflowRef2",
+      "flair__Activating_Trigger__c": "AFTER_FINISHING_MANDATORY_TASKS",
+      "flair__Activation_Date__c": null,
+      "flair__Mandatory_Items_Completed_At__c": null,
+      "flair__Order__c": 3,
+      "flair__Previous_Workflow_Step__c": "WorkflowStepRef5",
+      "flair__Step_Name__c": "Step 3: Setup Workspace",
+      "flair__Workflow_Template_Step__c": "WorkflowTemplateStepRef3"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Step__c",
+        "referenceId": "WorkflowStepRef7"
+      },
+      "Name": "Step 4: Check Performance after 30 days",
+      "flair__Workflow__c": "EmployeeWorkflowRef2",
+      "flair__Activating_Trigger__c": "SPECIFIC_DATE",
+      "flair__Activation_Date__c": "2024-08-02",
+      "flair__Mandatory_Items_Completed_At__c": "2024-07-03T07:14:11.000+0000",
+      "flair__Order__c": 4,
+      "flair__Previous_Workflow_Step__c": "WorkflowStepRef6",
+      "flair__Step_Name__c": "Step 4: Check Performance after 30 days",
+      "flair__Workflow_Template_Step__c": "WorkflowTemplateStepRef7"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Step__c",
+        "referenceId": "WorkflowStepRef8"
+      },
+      "Name": "Step 1: Initial Planning",
+      "flair__Workflow__c": "EmployeeWorkflowRef3",
+      "flair__Activating_Trigger__c": "SPECIFIC_DATE",
+      "flair__Activation_Date__c": "2024-07-03",
+      "flair__Mandatory_Items_Completed_At__c": "2024-07-03T07:14:45.000+0000",
+      "flair__Order__c": 1,
+      "flair__Step_Name__c": "Step 1: Initial Planning",
+      "flair__Workflow_Template_Step__c": "WorkflowTemplateStepRef8"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Step__c",
+        "referenceId": "WorkflowStepRef9"
+      },
+      "Name": "Step 2: Venue and Date Selection",
+      "flair__Workflow__c": "EmployeeWorkflowRef3",
+      "flair__Activating_Trigger__c": "AFTER_FINISHING_MANDATORY_TASKS",
+      "flair__Activation_Date__c": null,
+      "flair__Mandatory_Items_Completed_At__c": "2024-07-03T07:14:45.000+0000",
+      "flair__Order__c": 2,
+      "flair__Previous_Workflow_Step__c": "WorkflowStepRef8",
+      "flair__Step_Name__c": "Step 2: Venue and Date Selection",
+      "flair__Workflow_Template_Step__c": "WorkflowTemplateStepRef9"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Step__c",
+        "referenceId": "WorkflowStepRef10"
+      },
+      "Name": "Invitations and Logistics",
+      "flair__Workflow__c": "EmployeeWorkflowRef3",
+      "flair__Activating_Trigger__c": "AFTER_FINISHING_MANDATORY_TASKS",
+      "flair__Activation_Date__c": null,
+      "flair__Mandatory_Items_Completed_At__c": "2024-07-03T07:14:45.000+0000",
+      "flair__Order__c": 3,
+      "flair__Previous_Workflow_Step__c": "WorkflowStepRef9",
+      "flair__Step_Name__c": "Invitations and Logistics",
+      "flair__Workflow_Template_Step__c": "WorkflowTemplateStepRef10"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "attributes": {
+    "type": "flair__Objective_Key_Result__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Objective_Key_Result__c",
+        "referenceId": "ObjectiveKeyResultRef1"
+      },
+      "Name": "Interview 50 prospective customers and get their initial feedback",
+      "flair__Completed__c": false,
+      "flair__Current_Value__c": 0,
+      "flair__Initial_Value__c": 0,
+      "flair__Migration_ID__c": null,
+      "flair__Target_Value__c": 50,
+      "flair__Team_Objective__c": "TeamObjectiveRef1",
+      "flair__Type__c": "NUMERIC"
+    },
+    {
+      "attributes": {
+        "type": "flair__Objective_Key_Result__c",
+        "referenceId": "ObjectiveKeyResultRef2"
+      },
+      "Name": "Get usability score above 8/10 on UX mockups from 20 prospective customers",
+      "flair__Completed__c": false,
+      "flair__Current_Value__c": 0,
+      "flair__Initial_Value__c": 0,
+      "flair__Migration_ID__c": null,
+      "flair__Target_Value__c": 20,
+      "flair__Team_Objective__c": "TeamObjectiveRef1",
+      "flair__Type__c": "NUMERIC"
+    },
+    {
+      "attributes": {
+        "type": "flair__Objective_Key_Result__c",
+        "referenceId": "ObjectiveKeyResultRef3"
+      },
+      "Name": "Specify 5 elements in UX mockups to increase product's usage engagement",
+      "flair__Completed__c": false,
+      "flair__Current_Value__c": 0,
+      "flair__Initial_Value__c": 0,
+      "flair__Migration_ID__c": null,
+      "flair__Target_Value__c": 5,
+      "flair__Team_Objective__c": "TeamObjectiveRef1",
+      "flair__Type__c": "NUMERIC"
+    },
+    {
+      "attributes": {
+        "type": "flair__Objective_Key_Result__c",
+        "referenceId": "ObjectiveKeyResultRef4"
+      },
+      "Name": "Get internal feedback score of 10/10 from the sales team",
+      "flair__Completed__c": false,
+      "flair__Current_Value__c": 0,
+      "flair__Initial_Value__c": 0,
+      "flair__Migration_ID__c": null,
+      "flair__Target_Value__c": 100,
+      "flair__Team_Objective__c": "TeamObjectiveRef1",
+      "flair__Type__c": "BOOLEAN"
+    },
+    {
+      "attributes": {
+        "type": "flair__Objective_Key_Result__c",
+        "referenceId": "ObjectiveKeyResultRef5"
+      },
+      "Name": "Reduce average lead time from product feature definition to delivery by 7 weeks",
+      "flair__Completed__c": false,
+      "flair__Current_Value__c": 0,
+      "flair__Initial_Value__c": 0,
+      "flair__Migration_ID__c": null,
+      "flair__Target_Value__c": 100,
+      "flair__Team_Objective__c": "TeamObjectiveRef2",
+      "flair__Type__c": "PERCENTAGE"
+    },
+    {
+      "attributes": {
+        "type": "flair__Objective_Key_Result__c",
+        "referenceId": "ObjectiveKeyResultRef6"
+      },
+      "Name": "Increase the sprint team velocity from 27 to 35 points",
+      "flair__Completed__c": false,
+      "flair__Current_Value__c": 27,
+      "flair__Initial_Value__c": 27,
+      "flair__Migration_ID__c": null,
+      "flair__Target_Value__c": 35,
+      "flair__Team_Objective__c": "TeamObjectiveRef2",
+      "flair__Type__c": "NUMERIC"
+    },
+    {
+      "attributes": {
+        "type": "flair__Objective_Key_Result__c",
+        "referenceId": "ObjectiveKeyResultRef7"
+      },
+      "Name": "Reduce bugs-per-feature metric from 2 to 1",
+      "flair__Completed__c": false,
+      "flair__Current_Value__c": 0,
+      "flair__Initial_Value__c": 0,
+      "flair__Migration_ID__c": null,
+      "flair__Target_Value__c": 100,
+      "flair__Team_Objective__c": "TeamObjectiveRef2",
+      "flair__Type__c": "BOOLEAN"
+    },
+    {
+      "attributes": {
+        "type": "flair__Objective_Key_Result__c",
+        "referenceId": "ObjectiveKeyResultRef8"
+      },
+      "Name": "Successfully onboard 10 new resellers that focus on the Central region",
+      "flair__Completed__c": false,
+      "flair__Current_Value__c": 3,
+      "flair__Employee_Objective__c": "EmployeeObjectiveRef5",
+      "flair__Initial_Value__c": 0,
+      "flair__Migration_ID__c": null,
+      "flair__Target_Value__c": 10,
+      "flair__Type__c": "NUMERIC"
+    },
+    {
+      "attributes": {
+        "type": "flair__Objective_Key_Result__c",
+        "referenceId": "ObjectiveKeyResultRef9"
+      },
+      "Name": "Develop 50 new Qualified Opportunities in Strategic named accounts",
+      "flair__Completed__c": false,
+      "flair__Current_Value__c": 0,
+      "flair__Employee_Objective__c": "EmployeeObjectiveRef5",
+      "flair__Initial_Value__c": 0,
+      "flair__Migration_ID__c": null,
+      "flair__Target_Value__c": 50,
+      "flair__Type__c": "NUMERIC"
+    },
+    {
+      "attributes": {
+        "type": "flair__Objective_Key_Result__c",
+        "referenceId": "ObjectiveKeyResultRef10"
+      },
+      "Name": "Generate $4M in 'Expand' Pipeline",
+      "flair__Completed__c": false,
+      "flair__Current_Value__c": 0,
+      "flair__Employee_Objective__c": "EmployeeObjectiveRef4",
+      "flair__Initial_Value__c": 0,
+      "flair__Migration_ID__c": null,
+      "flair__Target_Value__c": 4,
+      "flair__Type__c": "NUMERIC"
+    },
+    {
+      "attributes": {
+        "type": "flair__Objective_Key_Result__c",
+        "referenceId": "ObjectiveKeyResultRef11"
+      },
+      "Name": "Do 7 product demos per week on average per Sales Rep",
+      "flair__Completed__c": false,
+      "flair__Current_Value__c": 5,
+      "flair__Employee_Objective__c": "EmployeeObjectiveRef4",
+      "flair__Initial_Value__c": 0,
+      "flair__Migration_ID__c": null,
+      "flair__Target_Value__c": 7,
+      "flair__Type__c": "NUMERIC"
+    },
+    {
+      "attributes": {
+        "type": "flair__Objective_Key_Result__c",
+        "referenceId": "ObjectiveKeyResultRef12"
+      },
+      "Name": "Generate of $12M in 'Land' Pipeline",
+      "flair__Completed__c": false,
+      "flair__Current_Value__c": 0,
+      "flair__Employee_Objective__c": "EmployeeObjectiveRef4",
+      "flair__Initial_Value__c": 0,
+      "flair__Migration_ID__c": null,
+      "flair__Target_Value__c": 12,
+      "flair__Type__c": "NUMERIC"
+    }
+  ]
+}

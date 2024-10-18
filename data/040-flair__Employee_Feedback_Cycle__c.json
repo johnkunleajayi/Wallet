@@ -1,0 +1,45 @@
+{
+  "attributes": {
+    "type": "flair__Employee_Feedback_Cycle__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Cycle__c",
+        "referenceId": "FeedbackCycleRef1"
+      },
+      "Name": "Performance Q2",
+      "flair__Cron_Trigger_Id__c": null,
+      "flair__Deadline__c": null,
+      "flair__Introduction_Text__c": null,
+      "flair__Manage_Goals__c": true,
+      "flair__Meeting_Required__c": true,
+      "flair__Reviewer_Type__c": "PERFORMANCE_MANAGER",
+      "flair__See_All_Questions__c": false,
+      "flair__Signature_required__c": false,
+      "flair__State__c": "In Progress",
+      "flair__Template__c": false,
+      "flair__Without_Reviewer__c": false,
+      "flair__Timeline_Type__c": "SIMULTANEOUS"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Cycle__c",
+        "referenceId": "FeedbackCycleRef2"
+      },
+      "Name": "Performance Q1",
+      "flair__Cron_Trigger_Id__c": null,
+      "flair__Deadline__c": null,
+      "flair__Introduction_Text__c": null,
+      "flair__Manage_Goals__c": true,
+      "flair__Meeting_Required__c": true,
+      "flair__Reviewer_Type__c": "PERFORMANCE_MANAGER",
+      "flair__See_All_Questions__c": false,
+      "flair__Signature_required__c": false,
+      "flair__State__c": "In Progress",
+      "flair__Template__c": false,
+      "flair__Without_Reviewer__c": false,
+      "flair__Timeline_Type__c": "SIMULTANEOUS"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "attributes": {
+    "type": "flair__Objective_Time_Period__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Objective_Time_Period__c",
+        "referenceId": "ObjectiveTimePeriodRef1"
+      },
+      "Name": "2021",
+      "flair__Active__c": false,
+      "flair__End_Date__c": "2021-12-31",
+      "flair__Start_Date__c": "2021-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Objective_Time_Period__c",
+        "referenceId": "ObjectiveTimePeriodRef2"
+      },
+      "Name": "2022",
+      "flair__Active__c": true,
+      "flair__End_Date__c": "2022-12-31",
+      "flair__Start_Date__c": "2022-01-01"
+    }
+  ]
+}

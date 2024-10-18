@@ -1,0 +1,40 @@
+{
+  "attributes": {
+    "type": "flair__Workflow_Template__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Workflow_Template__c",
+        "referenceId": "WorkflowTemplateRef1"
+      },
+      "Name": "Employee Onboarding",
+      "flair__Description__c": "Workflow to onboard new employees.",
+      "flair__Migration_ID__c": null,
+      "flair__Show_Onboarding_Widget__c": true,
+      "flair__Type__c": "ONBOARDING"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Template__c",
+        "referenceId": "WorkflowTemplateRef2"
+      },
+      "Name": "Employee Offboarding",
+      "flair__Description__c": "Workflow to handle the offboarding process of employees.",
+      "flair__Migration_ID__c": null,
+      "flair__Show_Onboarding_Widget__c": true,
+      "flair__Type__c": "OFFBOARDING"
+    },
+    {
+      "attributes": {
+        "type": "flair__Workflow_Template__c",
+        "referenceId": "WorkflowTemplateRef3"
+      },
+      "Name": "Company Event Planning",
+      "flair__Description__c": "Workflow for planning and organizing a company event.",
+      "flair__Migration_ID__c": null,
+      "flair__Show_Onboarding_Widget__c": true,
+      "flair__Type__c": "OTHER"
+    }
+  ]
+}

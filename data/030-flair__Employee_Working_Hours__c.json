@@ -1,0 +1,302 @@
+{
+  "attributes": {
+    "type": "flair__Employee_Working_Hours__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Employee_Working_Hours__c",
+        "referenceId": "EmployeeWorkloadRef1"
+      },
+      "Name": "Full-time Germany",
+      "flair__Consider_Weekend_for_Absence_Calculation__c": false,
+      "flair__Employee__c": "EmployeeRef99",
+      "flair__End_Date__c": null,
+      "flair__First_Day_of_Week__c": null,
+      "flair__Hours_Per_Day__c": 8,
+      "flair__Hours__c": 40,
+      "flair__Migration_ID__c": null,
+      "flair__Overtime_Policy__c": "OvertimePolicyRef1",
+      "flair__Time_Tracking_Type__c": "TIME_TRACKING",
+      "flair__Skip_Timesheet_Creation_on_Insert__c": true,
+      "flair__Start_Date__c": "2020-06-01",
+      "flair__Time_Framework__c": "TimeFrameworkRef1",
+      "flair__Type__c": "Weekly",
+      "flair__Working_Days_Amount__c": null,
+      "flair__Working_Days__c": "Monday;Tuesday;Wednesday;Thursday;Friday",
+      "flair__Workload_Model__c": "FIXED"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Working_Hours__c",
+        "referenceId": "EmployeeWorkloadRef2"
+      },
+      "Name": "Part-time Germany",
+      "flair__Consider_Weekend_for_Absence_Calculation__c": false,
+      "flair__Employee__c": "EmployeeRef241",
+      "flair__End_Date__c": null,
+      "flair__First_Day_of_Week__c": null,
+      "flair__Hours_Per_Day__c": 4,
+      "flair__Hours__c": 20,
+      "flair__Migration_ID__c": null,
+      "flair__Overtime_Policy__c": "OvertimePolicyRef2",
+      "flair__Time_Tracking_Type__c": "TIME_TRACKING",
+      "flair__Skip_Timesheet_Creation_on_Insert__c": true,
+      "flair__Start_Date__c": "2021-01-01",
+      "flair__Type__c": "Weekly",
+      "flair__Working_Days_Amount__c": null,
+      "flair__Working_Days__c": "Monday;Tuesday;Wednesday;Thursday;Friday",
+      "flair__Workload_Model__c": "FIXED"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Working_Hours__c",
+        "referenceId": "EmployeeWorkloadRef3"
+      },
+      "Name": "100% Switzerland",
+      "flair__Consider_Weekend_for_Absence_Calculation__c": false,
+      "flair__Employee__c": "EmployeeRef240",
+      "flair__End_Date__c": null,
+      "flair__First_Day_of_Week__c": null,
+      "flair__Hours_Per_Day__c": 8.5,
+      "flair__Hours__c": 42.5,
+      "flair__Migration_ID__c": null,
+      "flair__Overtime_Policy__c": "OvertimePolicyRef3",
+      "flair__Time_Tracking_Type__c": "TIME_TRACKING",
+      "flair__Skip_Timesheet_Creation_on_Insert__c": true,
+      "flair__Start_Date__c": "2021-01-01",
+      "flair__Type__c": "Weekly",
+      "flair__Working_Days_Amount__c": null,
+      "flair__Working_Days__c": "Monday;Tuesday;Wednesday;Thursday;Friday",
+      "flair__Workload_Model__c": "FIXED"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Working_Hours__c",
+        "referenceId": "EmployeeWorkloadRef4"
+      },
+      "Name": "Full-time Germany",
+      "flair__Consider_Weekend_for_Absence_Calculation__c": false,
+      "flair__Employee__c": "EmployeeRef33",
+      "flair__End_Date__c": null,
+      "flair__First_Day_of_Week__c": null,
+      "flair__Hours_Per_Day__c": 8,
+      "flair__Hours__c": 40,
+      "flair__Migration_ID__c": null,
+      "flair__Overtime_Policy__c": "OvertimePolicyRef1",
+      "flair__Time_Tracking_Type__c": "TIME_TRACKING",
+      "flair__Skip_Timesheet_Creation_on_Insert__c": true,
+      "flair__Start_Date__c": "2019-09-19",
+      "flair__Time_Framework__c": "TimeFrameworkRef1",
+      "flair__Type__c": "Weekly",
+      "flair__Working_Days_Amount__c": null,
+      "flair__Working_Days__c": "Monday;Tuesday;Wednesday;Thursday;Friday",
+      "flair__Workload_Model__c": "FIXED"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Working_Hours__c",
+        "referenceId": "EmployeeWorkloadRef5"
+      },
+      "Name": "Part-time Germany",
+      "flair__Consider_Weekend_for_Absence_Calculation__c": false,
+      "flair__Employee__c": "EmployeeRef148",
+      "flair__End_Date__c": null,
+      "flair__First_Day_of_Week__c": null,
+      "flair__Hours_Per_Day__c": 4,
+      "flair__Hours__c": 20,
+      "flair__Migration_ID__c": null,
+      "flair__Overtime_Policy__c": "OvertimePolicyRef1",
+      "flair__Time_Tracking_Type__c": "TIME_TRACKING",
+      "flair__Skip_Timesheet_Creation_on_Insert__c": true,
+      "flair__Start_Date__c": "2021-06-01",
+      "flair__Time_Framework__c": "TimeFrameworkRef1",
+      "flair__Type__c": "Weekly",
+      "flair__Working_Days_Amount__c": null,
+      "flair__Working_Days__c": "Monday;Tuesday;Wednesday;Thursday;Friday",
+      "flair__Workload_Model__c": "FIXED"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Working_Hours__c",
+        "referenceId": "EmployeeWorkloadRef6"
+      },
+      "Name": "Full-time Germany",
+      "flair__Consider_Weekend_for_Absence_Calculation__c": false,
+      "flair__Employee__c": "EmployeeRef212",
+      "flair__End_Date__c": null,
+      "flair__First_Day_of_Week__c": null,
+      "flair__Hours_Per_Day__c": 8,
+      "flair__Hours__c": 40,
+      "flair__Migration_ID__c": null,
+      "flair__Overtime_Policy__c": "OvertimePolicyRef1",
+      "flair__Time_Tracking_Type__c": "TIME_TRACKING",
+      "flair__Skip_Timesheet_Creation_on_Insert__c": true,
+      "flair__Start_Date__c": "2020-09-15",
+      "flair__Time_Framework__c": "TimeFrameworkRef1",
+      "flair__Type__c": "Weekly",
+      "flair__Working_Days_Amount__c": null,
+      "flair__Working_Days__c": "Monday;Tuesday;Wednesday;Thursday;Friday",
+      "flair__Workload_Model__c": "FIXED"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Working_Hours__c",
+        "referenceId": "EmployeeWorkloadRef7"
+      },
+      "Name": "Full-time Germany",
+      "flair__Consider_Weekend_for_Absence_Calculation__c": false,
+      "flair__Employee__c": "EmployeeRef224",
+      "flair__End_Date__c": null,
+      "flair__First_Day_of_Week__c": null,
+      "flair__Hours_Per_Day__c": 8,
+      "flair__Hours__c": 40,
+      "flair__Migration_ID__c": null,
+      "flair__Overtime_Policy__c": "OvertimePolicyRef1",
+      "flair__Time_Tracking_Type__c": "TIME_TRACKING",
+      "flair__Skip_Timesheet_Creation_on_Insert__c": true,
+      "flair__Start_Date__c": "2020-07-24",
+      "flair__Time_Framework__c": "TimeFrameworkRef1",
+      "flair__Type__c": "Weekly",
+      "flair__Working_Days_Amount__c": null,
+      "flair__Working_Days__c": "Monday;Tuesday;Wednesday;Thursday;Friday",
+      "flair__Workload_Model__c": "FIXED"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Working_Hours__c",
+        "referenceId": "EmployeeWorkloadRef8"
+      },
+      "Name": "Part-time Germany",
+      "flair__Consider_Weekend_for_Absence_Calculation__c": false,
+      "flair__Employee__c": "EmployeeRef159",
+      "flair__End_Date__c": null,
+      "flair__First_Day_of_Week__c": null,
+      "flair__Hours_Per_Day__c": 4,
+      "flair__Hours__c": 20,
+      "flair__Migration_ID__c": null,
+      "flair__Overtime_Policy__c": "OvertimePolicyRef1",
+      "flair__Time_Tracking_Type__c": "TIME_TRACKING",
+      "flair__Skip_Timesheet_Creation_on_Insert__c": true,
+      "flair__Start_Date__c": "2019-06-15",
+      "flair__Time_Framework__c": "TimeFrameworkRef1",
+      "flair__Type__c": "Weekly",
+      "flair__Working_Days_Amount__c": null,
+      "flair__Working_Days__c": "Monday;Tuesday;Wednesday;Thursday;Friday",
+      "flair__Workload_Model__c": "FIXED"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Working_Hours__c",
+        "referenceId": "EmployeeWorkloadRef9"
+      },
+      "Name": "Full-time Germany",
+      "flair__Consider_Weekend_for_Absence_Calculation__c": false,
+      "flair__Employee__c": "EmployeeRef70",
+      "flair__End_Date__c": null,
+      "flair__First_Day_of_Week__c": null,
+      "flair__Hours_Per_Day__c": 8,
+      "flair__Hours__c": 40,
+      "flair__Migration_ID__c": null,
+      "flair__Overtime_Policy__c": "OvertimePolicyRef1",
+      "flair__Time_Tracking_Type__c": "TIME_TRACKING",
+      "flair__Skip_Timesheet_Creation_on_Insert__c": true,
+      "flair__Start_Date__c": "2021-06-01",
+      "flair__Time_Framework__c": "TimeFrameworkRef1",
+      "flair__Type__c": "Weekly",
+      "flair__Working_Days_Amount__c": null,
+      "flair__Working_Days__c": "Monday;Tuesday;Wednesday;Thursday;Friday",
+      "flair__Workload_Model__c": "FIXED"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Working_Hours__c",
+        "referenceId": "EmployeeWorkloadRef10"
+      },
+      "Name": "Full-time Germany",
+      "flair__Consider_Weekend_for_Absence_Calculation__c": false,
+      "flair__Employee__c": "EmployeeRef160",
+      "flair__End_Date__c": null,
+      "flair__First_Day_of_Week__c": null,
+      "flair__Hours_Per_Day__c": 8,
+      "flair__Hours__c": 40,
+      "flair__Migration_ID__c": null,
+      "flair__Overtime_Policy__c": "OvertimePolicyRef1",
+      "flair__Time_Tracking_Type__c": "TIME_TRACKING",
+      "flair__Skip_Timesheet_Creation_on_Insert__c": true,
+      "flair__Start_Date__c": "2020-02-11",
+      "flair__Time_Framework__c": "TimeFrameworkRef1",
+      "flair__Type__c": "Weekly",
+      "flair__Working_Days_Amount__c": null,
+      "flair__Working_Days__c": "Monday;Tuesday;Wednesday;Thursday;Friday",
+      "flair__Workload_Model__c": "FIXED"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Working_Hours__c",
+        "referenceId": "EmployeeWorkloadRef11"
+      },
+      "Name": "Full-time Germany",
+      "flair__Consider_Weekend_for_Absence_Calculation__c": false,
+      "flair__Employee__c": "EmployeeRef100",
+      "flair__End_Date__c": null,
+      "flair__First_Day_of_Week__c": null,
+      "flair__Hours_Per_Day__c": 8,
+      "flair__Hours__c": 40,
+      "flair__Migration_ID__c": null,
+      "flair__Overtime_Policy__c": "OvertimePolicyRef1",
+      "flair__Time_Tracking_Type__c": "TIME_TRACKING",
+      "flair__Skip_Timesheet_Creation_on_Insert__c": true,
+      "flair__Start_Date__c": "2020-06-01",
+      "flair__Time_Framework__c": "TimeFrameworkRef1",
+      "flair__Type__c": "Weekly",
+      "flair__Working_Days_Amount__c": null,
+      "flair__Working_Days__c": "Monday;Tuesday;Wednesday;Thursday;Friday",
+      "flair__Workload_Model__c": "FIXED"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Working_Hours__c",
+        "referenceId": "EmployeeWorkloadRef12"
+      },
+      "Name": "100% Switzerland",
+      "flair__Consider_Weekend_for_Absence_Calculation__c": false,
+      "flair__Employee__c": "EmployeeRef156",
+      "flair__End_Date__c": null,
+      "flair__First_Day_of_Week__c": null,
+      "flair__Hours_Per_Day__c": 8.5,
+      "flair__Hours__c": 42.5,
+      "flair__Migration_ID__c": null,
+      "flair__Time_Tracking_Type__c": "TIME_TRACKING",
+      "flair__Skip_Timesheet_Creation_on_Insert__c": true,
+      "flair__Start_Date__c": "2020-01-01",
+      "flair__Type__c": "Weekly",
+      "flair__Working_Days_Amount__c": null,
+      "flair__Working_Days__c": "Monday;Tuesday;Wednesday;Thursday;Friday",
+      "flair__Workload_Model__c": "FIXED"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Working_Hours__c",
+        "referenceId": "EmployeeWorkloadRef13"
+      },
+      "Name": "Full-time Germany",
+      "flair__Consider_Weekend_for_Absence_Calculation__c": false,
+      "flair__Employee__c": "EmployeeRef200",
+      "flair__End_Date__c": null,
+      "flair__First_Day_of_Week__c": null,
+      "flair__Hours_Per_Day__c": 8,
+      "flair__Hours__c": 40,
+      "flair__Migration_ID__c": null,
+      "flair__Overtime_Policy__c": "OvertimePolicyRef1",
+      "flair__Time_Tracking_Type__c": "TIME_TRACKING",
+      "flair__Skip_Timesheet_Creation_on_Insert__c": true,
+      "flair__Start_Date__c": "2020-01-01",
+      "flair__Time_Framework__c": "TimeFrameworkRef1",
+      "flair__Type__c": "Weekly",
+      "flair__Working_Days_Amount__c": null,
+      "flair__Working_Days__c": "Monday;Tuesday;Wednesday;Thursday;Friday",
+      "flair__Workload_Model__c": "FIXED"
+    }
+  ]
+}

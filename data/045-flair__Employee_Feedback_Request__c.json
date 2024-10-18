@@ -1,0 +1,151 @@
+{
+  "attributes": {
+    "type": "flair__Employee_Feedback_Request__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Request__c",
+        "referenceId": "EmployeeFeedbackRef1"
+      },
+      "Name": "Performance Q2 - Adamaris Vinke - Self",
+      "flair__Email_Notification_Sent__c": true,
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef1",
+      "flair__Feedback_About__c": "EmployeeRef241",
+      "flair__Feedback_From__c": "EmployeeRef241",
+      "flair__State__c": "Submitted",
+      "flair__Submitted_At__c": "2022-12-30T16:03:07.000+0000",
+      "flair__Progress__c": "100"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Request__c",
+        "referenceId": "EmployeeFeedbackRef2"
+      },
+      "Name": "Performance Q2 - Adamaris Vinke - Manager",
+      "flair__Email_Notification_Sent__c": true,
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef1",
+      "flair__Feedback_About__c": "EmployeeRef241",
+      "flair__Feedback_From__c": "EmployeeRef156",
+      "flair__State__c": "Submitted",
+      "flair__Submitted_At__c": "2022-12-30T16:03:07.000+0000",
+      "flair__Progress__c": "100"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Request__c",
+        "referenceId": "EmployeeFeedbackRef3"
+      },
+      "Name": "Performance Q1 - Adamaris Vinke - Self",
+      "flair__Email_Notification_Sent__c": true,
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef2",
+      "flair__Feedback_About__c": "EmployeeRef241",
+      "flair__Feedback_From__c": "EmployeeRef241",
+      "flair__State__c": "Submitted",
+      "flair__Submitted_At__c": "2022-12-30T16:03:07.000+0000",
+      "flair__Progress__c": "100"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Request__c",
+        "referenceId": "EmployeeFeedbackRef4"
+      },
+      "Name": "Performance Q1 - Adamaris Vinke - Manager",
+      "flair__Email_Notification_Sent__c": true,
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef2",
+      "flair__Feedback_About__c": "EmployeeRef241",
+      "flair__Feedback_From__c": "EmployeeRef156",
+      "flair__State__c": "Submitted",
+      "flair__Submitted_At__c": "2022-12-30T16:03:07.000+0000",
+      "flair__Progress__c": "100"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Request__c",
+        "referenceId": "EmployeeFeedbackRef5"
+      },
+      "Name": "Performance Q2 - Adamaris Vinke - Self",
+      "flair__Email_Notification_Sent__c": true,
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef1",
+      "flair__Feedback_About__c": "EmployeeRef241",
+      "flair__Feedback_From__c": "EmployeeRef241",
+      "flair__State__c": "Draft",
+      "flair__Submitted_At__c": null,
+      "flair__Progress__c": "0"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Request__c",
+        "referenceId": "EmployeeFeedbackRef6"
+      },
+      "Name": "Performance Q2 - Adamaris Vinke - Manager",
+      "flair__Email_Notification_Sent__c": true,
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef1",
+      "flair__Feedback_About__c": "EmployeeRef241",
+      "flair__Feedback_From__c": "EmployeeRef240",
+      "flair__State__c": "Draft",
+      "flair__Submitted_At__c": null,
+      "flair__Progress__c": "0"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Request__c",
+        "referenceId": "EmployeeFeedbackRef7"
+      },
+      "Name": "Performance Q1 - Adamaris Vinke - Self",
+      "flair__Email_Notification_Sent__c": true,
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef2",
+      "flair__Employee_Feedback_Outcome__c": "EmployeeFeedbackOutcomeRef1",
+      "flair__Feedback_About__c": "EmployeeRef241",
+      "flair__Feedback_From__c": "EmployeeRef241",
+      "flair__State__c": "Draft",
+      "flair__Submitted_At__c": null,
+      "flair__Progress__c": "0"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Request__c",
+        "referenceId": "EmployeeFeedbackRef8"
+      },
+      "Name": "Performance Q1 - Adamaris Vinke - Manager",
+      "flair__Email_Notification_Sent__c": true,
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef2",
+      "flair__Employee_Feedback_Outcome__c": "EmployeeFeedbackOutcomeRef1",
+      "flair__Feedback_About__c": "EmployeeRef241",
+      "flair__Feedback_From__c": "EmployeeRef156",
+      "flair__State__c": "Draft",
+      "flair__Submitted_At__c": null,
+      "flair__Progress__c": "0"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Request__c",
+        "referenceId": "EmployeeFeedbackRef9"
+      },
+      "Name": "Performance Q2 - Adamaris Vinke - Self",
+      "flair__Email_Notification_Sent__c": true,
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef1",
+      "flair__Employee_Feedback_Outcome__c": "EmployeeFeedbackOutcomeRef2",
+      "flair__Feedback_About__c": "EmployeeRef241",
+      "flair__Feedback_From__c": "EmployeeRef241",
+      "flair__State__c": "Draft",
+      "flair__Submitted_At__c": null,
+      "flair__Progress__c": "0"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Request__c",
+        "referenceId": "EmployeeFeedbackRef10"
+      },
+      "Name": "Performance Q2 - Adamaris Vinke - Manager",
+      "flair__Email_Notification_Sent__c": true,
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef1",
+      "flair__Employee_Feedback_Outcome__c": "EmployeeFeedbackOutcomeRef2",
+      "flair__Feedback_About__c": "EmployeeRef241",
+      "flair__Feedback_From__c": "EmployeeRef240",
+      "flair__State__c": "Draft",
+      "flair__Submitted_At__c": null,
+      "flair__Progress__c": "0"
+    }
+  ]
+}

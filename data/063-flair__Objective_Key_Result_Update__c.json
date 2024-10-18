@@ -1,0 +1,35 @@
+{
+  "attributes": {
+    "type": "flair__Objective_Key_Result_Update__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Objective_Key_Result_Update__c",
+        "referenceId": "ObjectiveKeyResultUpdateRef1"
+      },
+      "Name": "a1Y1X000001lxQW",
+      "flair__Objective_Key_Result__c": "ObjectiveKeyResultRef8",
+      "flair__Comment__c": null,
+      "flair__Created_By__c": "EmployeeRef241",
+      "flair__Previous_Status__c": "BEHIND",
+      "flair__Previous_Value__c": 0,
+      "flair__Status__c": "BEHIND",
+      "flair__Value__c": 3
+    },
+    {
+      "attributes": {
+        "type": "flair__Objective_Key_Result_Update__c",
+        "referenceId": "ObjectiveKeyResultUpdateRef2"
+      },
+      "Name": "a1Y1X000001lxQR",
+      "flair__Objective_Key_Result__c": "ObjectiveKeyResultRef11",
+      "flair__Comment__c": null,
+      "flair__Created_By__c": "EmployeeRef241",
+      "flair__Previous_Status__c": "BEHIND",
+      "flair__Previous_Value__c": 0,
+      "flair__Status__c": "BEHIND",
+      "flair__Value__c": 5
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "attributes": {
+    "type": "flair__Accrual_Policy__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Accrual_Policy__c",
+        "referenceId": "AccrualPolicyRef1"
+      },
+      "Name": "Anniversary",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Accrue_Amount_Rules_In_Advance__c": false,
+      "flair__Amount__c": 1,
+      "flair__Carryover_Amount__c": null,
+      "flair__Expiration_Day__c": null,
+      "flair__Expiration_Month__c": null,
+      "flair__In_Advance__c": true,
+      "flair__Interval__c": "ANNIVERSARY",
+      "flair__Migration_ID__c": null,
+      "flair__Proration_Type__c": "NONE",
+      "flair__Day_of_Week__c": null,
+      "flair__Monthly_Day__c": null,
+      "flair__Yearly_Day__c": null,
+      "flair__Yearly_Month__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Accrual_Policy__c",
+        "referenceId": "AccrualPolicyRef2"
+      },
+      "Name": "28 days",
+      "flair__Absence_Category__c": "AbsenceCategoryRef5",
+      "flair__Accrue_Amount_Rules_In_Advance__c": false,
+      "flair__Amount__c": 28,
+      "flair__Carryover_Amount__c": 5,
+      "flair__Expiration_Day__c": "LAST_DAY",
+      "flair__Expiration_Month__c": "3",
+      "flair__In_Advance__c": true,
+      "flair__Interval__c": "YEARLY",
+      "flair__Migration_ID__c": null,
+      "flair__Proration_Type__c": "NONE",
+      "flair__Day_of_Week__c": null,
+      "flair__Monthly_Day__c": null,
+      "flair__Yearly_Day__c": "1",
+      "flair__Yearly_Month__c": "1"
+    }
+  ]
+}

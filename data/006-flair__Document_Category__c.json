@@ -1,0 +1,63 @@
+{
+  "attributes": {
+    "type": "flair__Document_Category__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Document_Category__c",
+        "referenceId": "DocumentCategoryRef1"
+      },
+      "Name": "Work contracts",
+      "flair__API_Name__c": "Work contracts"
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Category__c",
+        "referenceId": "DocumentCategoryRef2"
+      },
+      "Name": "Absence certificates",
+      "flair__API_Name__c": "Absence certificates"
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Category__c",
+        "referenceId": "DocumentCategoryRef3"
+      },
+      "Name": "Performance",
+      "flair__API_Name__c": "Performance"
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Category__c",
+        "referenceId": "DocumentCategoryRef4"
+      },
+      "Name": "Payroll",
+      "flair__API_Name__c": "Payroll"
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Category__c",
+        "referenceId": "DocumentCategoryRef5"
+      },
+      "Name": "Application documents",
+      "flair__API_Name__c": "Application documents"
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Category__c",
+        "referenceId": "DocumentCategoryRef6"
+      },
+      "Name": "Reference letter",
+      "flair__API_Name__c": "Reference letter"
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Category__c",
+        "referenceId": "DocumentCategoryRef7"
+      },
+      "Name": "Other",
+      "flair__API_Name__c": "Other"
+    }
+  ]
+}

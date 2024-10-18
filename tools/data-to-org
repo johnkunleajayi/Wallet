@@ -1,0 +1,2 @@
+#!/bin/bash
+exec sf texei:data:import --ignoreerrors --inputdir ./data

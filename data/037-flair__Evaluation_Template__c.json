@@ -1,0 +1,31 @@
+{
+  "attributes": {
+    "type": "flair__Evaluation_Template__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template__c",
+        "referenceId": "EvaluationTemplateRef1"
+      },
+      "Name": "Basic Candidate Evaluation Form",
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template__c",
+        "referenceId": "EvaluationTemplateRef2"
+      },
+      "Name": "Java Developer",
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Evaluation_Template__c",
+        "referenceId": "EvaluationTemplateRef3"
+      },
+      "Name": "Software Developer Evaluation",
+      "flair__Migration_ID__c": null
+    }
+  ]
+}

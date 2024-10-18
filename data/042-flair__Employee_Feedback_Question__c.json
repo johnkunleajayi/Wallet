@@ -1,0 +1,247 @@
+{
+  "attributes": {
+    "type": "flair__Employee_Feedback_Question__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Question__c",
+        "referenceId": "EmployeeFeedbackQuestionRef1"
+      },
+      "Name": "How much you like our culture?",
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef1",
+      "flair__Answer_Visibility__c": "VISIBLE",
+      "flair__Choices__c": null,
+      "flair__Description__c": null,
+      "flair__Employee_Feedback_Question_Section__c": "EmployeeFeedbackQuestionSectionRef3",
+      "flair__Hint__c": null,
+      "flair__Optional_Comment__c": true,
+      "flair__Optional__c": false,
+      "flair__Position__c": 0,
+      "flair__Question_Type__c": "FREE_SLIDER",
+      "flair__Question_Visibility__c": "FOR_BOTH",
+      "flair__Question__c": "How much you like our culture?",
+      "flair__Required_Choice__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Question__c",
+        "referenceId": "EmployeeFeedbackQuestionRef2"
+      },
+      "Name": "Select the option that matches better your feelings.",
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef1",
+      "flair__Answer_Visibility__c": "VISIBLE",
+      "flair__Choices__c": "Option 1\nOption 2\nOption 3",
+      "flair__Description__c": null,
+      "flair__Employee_Feedback_Question_Section__c": "EmployeeFeedbackQuestionSectionRef3",
+      "flair__Hint__c": null,
+      "flair__Optional_Comment__c": true,
+      "flair__Optional__c": false,
+      "flair__Position__c": 2,
+      "flair__Question_Type__c": "DROPDOWN",
+      "flair__Question_Visibility__c": "FOR_BOTH",
+      "flair__Question__c": "Select the option that matches better your feelings.",
+      "flair__Required_Choice__c": "Option 1\nOption 2\nOption 3"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Question__c",
+        "referenceId": "EmployeeFeedbackQuestionRef3"
+      },
+      "Name": "Scorecards",
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef1",
+      "flair__Answer_Visibility__c": "VISIBLE",
+      "flair__Choices__c": "The temperature is perfect at the office.",
+      "flair__Description__c": null,
+      "flair__Employee_Feedback_Question_Section__c": "EmployeeFeedbackQuestionSectionRef3",
+      "flair__Hint__c": null,
+      "flair__Optional_Comment__c": false,
+      "flair__Optional__c": false,
+      "flair__Position__c": 1,
+      "flair__Question_Type__c": "SCORECARD",
+      "flair__Question_Visibility__c": "FOR_BOTH",
+      "flair__Question__c": "Scorecards",
+      "flair__Required_Choice__c": "The temperature is perfect at the office."
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Question__c",
+        "referenceId": "EmployeeFeedbackQuestionRef4"
+      },
+      "Name": "Please describe anything that you'd like to see me continue or do more of.",
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef1",
+      "flair__Answer_Visibility__c": "VISIBLE",
+      "flair__Choices__c": null,
+      "flair__Description__c": null,
+      "flair__Employee_Feedback_Question_Section__c": "EmployeeFeedbackQuestionSectionRef4",
+      "flair__Hint__c": null,
+      "flair__Optional_Comment__c": false,
+      "flair__Optional__c": false,
+      "flair__Position__c": 0,
+      "flair__Question_Type__c": "FREE_TEXT",
+      "flair__Question_Visibility__c": "FOR_BOTH",
+      "flair__Question__c": "Please describe anything that you'd like to see me continue or do more of.",
+      "flair__Required_Choice__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Question__c",
+        "referenceId": "EmployeeFeedbackQuestionRef5"
+      },
+      "Name": "What have you observed me excelling at that I should continue?",
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef1",
+      "flair__Answer_Visibility__c": "VISIBLE",
+      "flair__Choices__c": "Collaboration:Working well with a range of people from across the business\nApproachability:Being easy to approach and talk openly to\nResilience:Remaining composed and productive under pressure/stress\nTechnical Competence:Demonstrating a high level of domain, functional and/or technical capability\nTeam Player:Willing to help with things that may be outside of my role",
+      "flair__Description__c": null,
+      "flair__Employee_Feedback_Question_Section__c": "EmployeeFeedbackQuestionSectionRef4",
+      "flair__Hint__c": null,
+      "flair__Optional_Comment__c": false,
+      "flair__Optional__c": false,
+      "flair__Position__c": 2,
+      "flair__Question_Type__c": "MULTIPLE_CHOICE",
+      "flair__Question_Visibility__c": "FOR_BOTH",
+      "flair__Question__c": "What have you observed me excelling at that I should continue?",
+      "flair__Required_Choice__c": "Collaboration:Working well with a range of people from across the business\nApproachability:Being easy to approach and talk openly to\nResilience:Remaining composed and productive under pressure/stress\nTechnical Competence:Demonstrating a high level of domain, functional and/or technical capability\nTeam Player:Willing to help with things that may be outside of my role"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Question__c",
+        "referenceId": "EmployeeFeedbackQuestionRef6"
+      },
+      "Name": "What have you observed me excelling at that I should continue?",
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef1",
+      "flair__Answer_Visibility__c": "VISIBLE",
+      "flair__Choices__c": "Collaboration:Working well with a range of people from across the business\nApproachability:Being easy to approach and talk openly to\nResilience:Remaining composed and productive under pressure/stress\nTechnical Competence:Demonstrating a high level of domain, functional and/or technical capability\nTeam Player:Willing to help with things that may be outside of my role",
+      "flair__Description__c": null,
+      "flair__Employee_Feedback_Question_Section__c": "EmployeeFeedbackQuestionSectionRef4",
+      "flair__Hint__c": null,
+      "flair__Optional_Comment__c": true,
+      "flair__Optional__c": false,
+      "flair__Position__c": 1,
+      "flair__Question_Type__c": "SINGLE_CHOICE",
+      "flair__Question_Visibility__c": "FOR_BOTH",
+      "flair__Question__c": "What have you observed me excelling at that I should continue?",
+      "flair__Required_Choice__c": "Collaboration:Working well with a range of people from across the business\nApproachability:Being easy to approach and talk openly to\nResilience:Remaining composed and productive under pressure/stress\nTechnical Competence:Demonstrating a high level of domain, functional and/or technical capability\nTeam Player:Willing to help with things that may be outside of my role"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Question__c",
+        "referenceId": "EmployeeFeedbackQuestionRef7"
+      },
+      "Name": "How much you like our culture?",
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef2",
+      "flair__Answer_Visibility__c": "VISIBLE",
+      "flair__Choices__c": null,
+      "flair__Description__c": null,
+      "flair__Employee_Feedback_Question_Section__c": "EmployeeFeedbackQuestionSectionRef1",
+      "flair__Hint__c": null,
+      "flair__Optional_Comment__c": true,
+      "flair__Optional__c": false,
+      "flair__Position__c": 0,
+      "flair__Question_Type__c": "FREE_SLIDER",
+      "flair__Question_Visibility__c": "FOR_BOTH",
+      "flair__Question__c": "How much you like our culture?",
+      "flair__Required_Choice__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Question__c",
+        "referenceId": "EmployeeFeedbackQuestionRef8"
+      },
+      "Name": "Select the option that matches better your feelings.",
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef2",
+      "flair__Answer_Visibility__c": "VISIBLE",
+      "flair__Choices__c": "Option 1\nOption 2\nOption 3",
+      "flair__Description__c": null,
+      "flair__Employee_Feedback_Question_Section__c": "EmployeeFeedbackQuestionSectionRef1",
+      "flair__Hint__c": null,
+      "flair__Optional_Comment__c": true,
+      "flair__Optional__c": false,
+      "flair__Position__c": 2,
+      "flair__Question_Type__c": "DROPDOWN",
+      "flair__Question_Visibility__c": "FOR_BOTH",
+      "flair__Question__c": "Select the option that matches better your feelings.",
+      "flair__Required_Choice__c": "Option 1\nOption 2\nOption 3"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Question__c",
+        "referenceId": "EmployeeFeedbackQuestionRef9"
+      },
+      "Name": "Scorecards",
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef2",
+      "flair__Answer_Visibility__c": "VISIBLE",
+      "flair__Choices__c": "The temperature is perfect at the office.",
+      "flair__Description__c": null,
+      "flair__Employee_Feedback_Question_Section__c": "EmployeeFeedbackQuestionSectionRef1",
+      "flair__Hint__c": null,
+      "flair__Optional_Comment__c": false,
+      "flair__Optional__c": false,
+      "flair__Position__c": 1,
+      "flair__Question_Type__c": "SCORECARD",
+      "flair__Question_Visibility__c": "FOR_BOTH",
+      "flair__Question__c": "Scorecards",
+      "flair__Required_Choice__c": "The temperature is perfect at the office."
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Question__c",
+        "referenceId": "EmployeeFeedbackQuestionRef10"
+      },
+      "Name": "Please describe anything that you'd like to see me continue or do more of.",
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef2",
+      "flair__Answer_Visibility__c": "VISIBLE",
+      "flair__Choices__c": null,
+      "flair__Description__c": null,
+      "flair__Employee_Feedback_Question_Section__c": "EmployeeFeedbackQuestionSectionRef2",
+      "flair__Hint__c": null,
+      "flair__Optional_Comment__c": false,
+      "flair__Optional__c": false,
+      "flair__Position__c": 0,
+      "flair__Question_Type__c": "FREE_TEXT",
+      "flair__Question_Visibility__c": "FOR_BOTH",
+      "flair__Question__c": "Please describe anything that you'd like to see me continue or do more of.",
+      "flair__Required_Choice__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Question__c",
+        "referenceId": "EmployeeFeedbackQuestionRef11"
+      },
+      "Name": "What have you observed me excelling at that I should continue?",
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef2",
+      "flair__Answer_Visibility__c": "VISIBLE",
+      "flair__Choices__c": "Collaboration:Working well with a range of people from across the business\nApproachability:Being easy to approach and talk openly to\nResilience:Remaining composed and productive under pressure/stress\nTechnical Competence:Demonstrating a high level of domain, functional and/or technical capability\nTeam Player:Willing to help with things that may be outside of my role",
+      "flair__Description__c": null,
+      "flair__Employee_Feedback_Question_Section__c": "EmployeeFeedbackQuestionSectionRef2",
+      "flair__Hint__c": null,
+      "flair__Optional_Comment__c": false,
+      "flair__Optional__c": false,
+      "flair__Position__c": 2,
+      "flair__Question_Type__c": "MULTIPLE_CHOICE",
+      "flair__Question_Visibility__c": "FOR_BOTH",
+      "flair__Question__c": "What have you observed me excelling at that I should continue?",
+      "flair__Required_Choice__c": "Collaboration:Working well with a range of people from across the business\nApproachability:Being easy to approach and talk openly to\nResilience:Remaining composed and productive under pressure/stress\nTechnical Competence:Demonstrating a high level of domain, functional and/or technical capability\nTeam Player:Willing to help with things that may be outside of my role"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Question__c",
+        "referenceId": "EmployeeFeedbackQuestionRef12"
+      },
+      "Name": "What have you observed me excelling at that I should continue?",
+      "flair__Employee_Feedback_Cycle__c": "FeedbackCycleRef2",
+      "flair__Answer_Visibility__c": "VISIBLE",
+      "flair__Choices__c": "Collaboration:Working well with a range of people from across the business\nApproachability:Being easy to approach and talk openly to\nResilience:Remaining composed and productive under pressure/stress\nTechnical Competence:Demonstrating a high level of domain, functional and/or technical capability\nTeam Player:Willing to help with things that may be outside of my role",
+      "flair__Description__c": null,
+      "flair__Employee_Feedback_Question_Section__c": "EmployeeFeedbackQuestionSectionRef2",
+      "flair__Hint__c": null,
+      "flair__Optional_Comment__c": true,
+      "flair__Optional__c": false,
+      "flair__Position__c": 1,
+      "flair__Question_Type__c": "SINGLE_CHOICE",
+      "flair__Question_Visibility__c": "FOR_BOTH",
+      "flair__Question__c": "What have you observed me excelling at that I should continue?",
+      "flair__Required_Choice__c": "Collaboration:Working well with a range of people from across the business\nApproachability:Being easy to approach and talk openly to\nResilience:Remaining composed and productive under pressure/stress\nTechnical Competence:Demonstrating a high level of domain, functional and/or technical capability\nTeam Player:Willing to help with things that may be outside of my role"
+    }
+  ]
+}

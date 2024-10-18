@@ -1,0 +1,118 @@
+{
+  "attributes": {
+    "type": "flair__Employee_Objective__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Employee_Objective__c",
+        "referenceId": "EmployeeObjectiveRef1"
+      },
+      "Name": "Fix 7000 bugs per second",
+      "flair__Cancellation_Reason__c": null,
+      "flair__Description__c": null,
+      "flair__Due_Date__c": "2025-06-01",
+      "flair__Is_Draft__c": false,
+      "flair__Manual_Progress__c": false,
+      "flair__Migration_ID__c": null,
+      "flair__Progress__c": 0,
+      "flair__RateAt__c": null,
+      "flair__Rate_Reason__c": null,
+      "flair__Rate__c": "OPEN",
+      "flair__Start_Date__c": null,
+      "flair__Status_Reason__c": null,
+      "flair__Status__c": "BEHIND",
+      "flair__Visibility__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Objective__c",
+        "referenceId": "EmployeeObjectiveRef2"
+      },
+      "Name": "Increase 200% our profit",
+      "flair__Cancellation_Reason__c": null,
+      "flair__Description__c": "<p>At <em>least</em> 199%</p>",
+      "flair__Due_Date__c": null,
+      "flair__Is_Draft__c": false,
+      "flair__Manual_Progress__c": false,
+      "flair__Migration_ID__c": null,
+      "flair__Progress__c": 0,
+      "flair__RateAt__c": null,
+      "flair__Rate_Reason__c": null,
+      "flair__Rate__c": "OPEN",
+      "flair__Start_Date__c": null,
+      "flair__Status_Reason__c": null,
+      "flair__Status__c": "BEHIND",
+      "flair__Visibility__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Objective__c",
+        "referenceId": "EmployeeObjectiveRef3"
+      },
+      "Name": "Coach a college",
+      "flair__Cancellation_Reason__c": null,
+      "flair__Description__c": "<p>Some pretty <strong>good</strong> description</p>",
+      "flair__Due_Date__c": null,
+      "flair__Is_Draft__c": false,
+      "flair__Manual_Progress__c": false,
+      "flair__Migration_ID__c": null,
+      "flair__Progress__c": 0,
+      "flair__RateAt__c": null,
+      "flair__Rate_Reason__c": null,
+      "flair__Rate__c": "OPEN",
+      "flair__Start_Date__c": null,
+      "flair__Status_Reason__c": null,
+      "flair__Status__c": "BEHIND",
+      "flair__Visibility__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Objective__c",
+        "referenceId": "EmployeeObjectiveRef4"
+      },
+      "Name": "Generate new bookings pipeline",
+      "flair__Cancellation_Reason__c": null,
+      "flair__Created_By__c": "EmployeeRef241",
+      "flair__Description__c": null,
+      "flair__Due_Date__c": null,
+      "flair__Is_Draft__c": false,
+      "flair__Manual_Progress__c": false,
+      "flair__Migration_ID__c": null,
+      "flair__Owner__c": "EmployeeRef241",
+      "flair__Progress__c": 23.81,
+      "flair__RateAt__c": null,
+      "flair__Rate_Reason__c": null,
+      "flair__Rate__c": "OPEN",
+      "flair__Responsible__c": "EmployeeRef241",
+      "flair__Start_Date__c": null,
+      "flair__Status_Reason__c": null,
+      "flair__Status__c": "BEHIND",
+      "flair__Visibility__c": "ALL_THE_COMPANY"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Objective__c",
+        "referenceId": "EmployeeObjectiveRef5"
+      },
+      "Name": "Grow Our Sales in the Central region",
+      "flair__Cancellation_Reason__c": null,
+      "flair__Created_By__c": "EmployeeRef241",
+      "flair__Description__c": null,
+      "flair__Due_Date__c": null,
+      "flair__Is_Draft__c": false,
+      "flair__Manual_Progress__c": false,
+      "flair__Migration_ID__c": null,
+      "flair__Owner__c": "EmployeeRef241",
+      "flair__Progress__c": 15,
+      "flair__RateAt__c": null,
+      "flair__Rate_Reason__c": null,
+      "flair__Rate__c": "OPEN",
+      "flair__Responsible__c": "EmployeeRef241",
+      "flair__Start_Date__c": null,
+      "flair__Status_Reason__c": null,
+      "flair__Status__c": "BEHIND",
+      "flair__Visibility__c": "ALL_THE_COMPANY"
+    }
+  ]
+}

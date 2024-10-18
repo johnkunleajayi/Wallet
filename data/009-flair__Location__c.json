@@ -1,0 +1,292 @@
+{
+  "attributes": {
+    "type": "flair__Location__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Location__c",
+        "referenceId": "LocationRef1"
+      },
+      "Name": "Worldwide",
+      "flair__City__c": null,
+      "flair__Country__c": null,
+      "flair__Email__c": null,
+      "flair__Is_Remote_Location__c": false,
+      "flair__Migration_ID__c": "ade0f7c96f86964ebaa8ccc1201a7466e46e",
+      "flair__Phone__c": null,
+      "flair__Preparation_After_Business_Hours__c": null,
+      "flair__Preparation_Before_Business_Hours__c": null,
+      "flair__State_Province__c": null,
+      "flair__Street__c": null,
+      "flair__Time_Zone__c": "GMT",
+      "flair__Zip_Code__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Location__c",
+        "referenceId": "LocationRef2"
+      },
+      "Name": "Hamburg, DE",
+      "flair__City__c": "Hamburg",
+      "flair__Country__c": "Germany",
+      "flair__Email__c": null,
+      "flair__Is_Remote_Location__c": false,
+      "flair__Migration_ID__c": "1741d41e5e0d38d5bb29baea05f480b2e304",
+      "flair__Phone__c": null,
+      "flair__Preparation_After_Business_Hours__c": null,
+      "flair__Preparation_Before_Business_Hours__c": null,
+      "flair__State_Province__c": null,
+      "flair__Street__c": "Vagel-Griep-Platz 3",
+      "flair__Time_Zone__c": "Europe/Berlin",
+      "flair__Zip_Code__c": "21077"
+    },
+    {
+      "attributes": {
+        "type": "flair__Location__c",
+        "referenceId": "LocationRef3"
+      },
+      "Name": "Bern, CH",
+      "flair__City__c": "Bern",
+      "flair__Country__c": "Switzerland",
+      "flair__Email__c": null,
+      "flair__Is_Remote_Location__c": false,
+      "flair__Migration_ID__c": "12e4c91aa00abf740dd4f93527c76537a15c",
+      "flair__Phone__c": null,
+      "flair__Preparation_After_Business_Hours__c": null,
+      "flair__Preparation_Before_Business_Hours__c": null,
+      "flair__State_Province__c": null,
+      "flair__Street__c": "Christoffelunterführung 2",
+      "flair__Time_Zone__c": "Europe/Berlin",
+      "flair__Zip_Code__c": "3011"
+    },
+    {
+      "attributes": {
+        "type": "flair__Location__c",
+        "referenceId": "LocationRef4"
+      },
+      "Name": "Amsterdam, NL",
+      "flair__City__c": "Amsterdam",
+      "flair__Country__c": "Netherlands",
+      "flair__Email__c": null,
+      "flair__Is_Remote_Location__c": false,
+      "flair__Migration_ID__c": "dc7c6e5972920b939d8fbf6b890c83916307",
+      "flair__Phone__c": null,
+      "flair__Preparation_After_Business_Hours__c": null,
+      "flair__Preparation_Before_Business_Hours__c": null,
+      "flair__State_Province__c": null,
+      "flair__Street__c": "Zeedijk 98-100",
+      "flair__Time_Zone__c": "Europe/Amsterdam",
+      "flair__Zip_Code__c": "1012 BB"
+    },
+    {
+      "attributes": {
+        "type": "flair__Location__c",
+        "referenceId": "LocationRef5"
+      },
+      "Name": "Munich II, DE",
+      "flair__City__c": "Munich",
+      "flair__Country__c": "Germany",
+      "flair__Email__c": null,
+      "flair__Is_Remote_Location__c": false,
+      "flair__Migration_ID__c": "991a83bd3d73cf3e035d4e4b65f91d05bb9e",
+      "flair__Phone__c": null,
+      "flair__Preparation_After_Business_Hours__c": null,
+      "flair__Preparation_Before_Business_Hours__c": null,
+      "flair__State_Province__c": "Bavaria",
+      "flair__Street__c": "Residenzstraße 1",
+      "flair__Time_Zone__c": "Europe/Berlin",
+      "flair__Zip_Code__c": "80333"
+    },
+    {
+      "attributes": {
+        "type": "flair__Location__c",
+        "referenceId": "LocationRef6"
+      },
+      "Name": "Zurich, CH",
+      "flair__City__c": "Zürich",
+      "flair__Country__c": "Switzerland",
+      "flair__Email__c": null,
+      "flair__Is_Remote_Location__c": false,
+      "flair__Migration_ID__c": "39de11e4e650de644d292bdd8ed45a66437e",
+      "flair__Phone__c": null,
+      "flair__Preparation_After_Business_Hours__c": null,
+      "flair__Preparation_Before_Business_Hours__c": null,
+      "flair__State_Province__c": null,
+      "flair__Street__c": "Viaduktstrasse 31",
+      "flair__Time_Zone__c": "Europe/Berlin",
+      "flair__Zip_Code__c": "8005"
+    },
+    {
+      "attributes": {
+        "type": "flair__Location__c",
+        "referenceId": "LocationRef7"
+      },
+      "Name": "Toronto, CA",
+      "flair__City__c": "Toronto",
+      "flair__Country__c": "Canada",
+      "flair__Email__c": null,
+      "flair__Is_Remote_Location__c": false,
+      "flair__Migration_ID__c": "0b72bb06ab2ed910487d112c9d6c988c116b",
+      "flair__Phone__c": null,
+      "flair__Preparation_After_Business_Hours__c": null,
+      "flair__Preparation_Before_Business_Hours__c": null,
+      "flair__State_Province__c": "ON",
+      "flair__Street__c": "145 John St",
+      "flair__Time_Zone__c": "America/New_York",
+      "flair__Zip_Code__c": "M5V 2E4"
+    },
+    {
+      "attributes": {
+        "type": "flair__Location__c",
+        "referenceId": "LocationRef8"
+      },
+      "Name": "Singapore, SG",
+      "flair__City__c": "Singapore",
+      "flair__Country__c": "Singapore",
+      "flair__Email__c": null,
+      "flair__Is_Remote_Location__c": false,
+      "flair__Migration_ID__c": "e9528f10eafd74a5646560bb7e6f9f27ac48",
+      "flair__Phone__c": null,
+      "flair__Preparation_After_Business_Hours__c": null,
+      "flair__Preparation_Before_Business_Hours__c": null,
+      "flair__State_Province__c": null,
+      "flair__Street__c": "185 Upper Thomson Rd",
+      "flair__Time_Zone__c": "Asia/Singapore",
+      "flair__Zip_Code__c": "574333"
+    },
+    {
+      "attributes": {
+        "type": "flair__Location__c",
+        "referenceId": "LocationRef9"
+      },
+      "Name": "Düsseldorf, DE",
+      "flair__City__c": "Düsseldorf",
+      "flair__Country__c": "Germany",
+      "flair__Email__c": null,
+      "flair__Is_Remote_Location__c": false,
+      "flair__Migration_ID__c": "ae23bfe0a48ae51a3cc8d3e9457ed9c748d1",
+      "flair__Phone__c": null,
+      "flair__Preparation_After_Business_Hours__c": null,
+      "flair__Preparation_Before_Business_Hours__c": null,
+      "flair__State_Province__c": "NRW",
+      "flair__Street__c": "Von-Gahlen-Straße 7",
+      "flair__Time_Zone__c": "Europe/Berlin",
+      "flair__Zip_Code__c": "40625"
+    },
+    {
+      "attributes": {
+        "type": "flair__Location__c",
+        "referenceId": "LocationRef10"
+      },
+      "Name": "Munich I, DE",
+      "flair__City__c": "Munich",
+      "flair__Country__c": "Germany",
+      "flair__Email__c": null,
+      "flair__Is_Remote_Location__c": false,
+      "flair__Migration_ID__c": "f0bf0aec457c307ea92531338448a6350a8f",
+      "flair__Phone__c": null,
+      "flair__Preparation_After_Business_Hours__c": null,
+      "flair__Preparation_Before_Business_Hours__c": null,
+      "flair__State_Province__c": "Bavaria",
+      "flair__Street__c": "Lansstraße 81",
+      "flair__Time_Zone__c": "Europe/Berlin",
+      "flair__Zip_Code__c": "80331"
+    },
+    {
+      "attributes": {
+        "type": "flair__Location__c",
+        "referenceId": "LocationRef11"
+      },
+      "Name": "Moscow, RU",
+      "flair__City__c": "Moscow",
+      "flair__Country__c": "Russia",
+      "flair__Email__c": null,
+      "flair__Is_Remote_Location__c": false,
+      "flair__Migration_ID__c": "552fc0553253ad3e85c3cb1f09cdd7d323bc",
+      "flair__Phone__c": null,
+      "flair__Preparation_After_Business_Hours__c": null,
+      "flair__Preparation_Before_Business_Hours__c": null,
+      "flair__State_Province__c": null,
+      "flair__Street__c": "94835 Pennsylvania Pass",
+      "flair__Time_Zone__c": "Europe/Moscow",
+      "flair__Zip_Code__c": "646130"
+    },
+    {
+      "attributes": {
+        "type": "flair__Location__c",
+        "referenceId": "LocationRef12"
+      },
+      "Name": "Paris, FR",
+      "flair__City__c": "Paris",
+      "flair__Country__c": "France",
+      "flair__Email__c": null,
+      "flair__Is_Remote_Location__c": false,
+      "flair__Migration_ID__c": "1c59e6d436ab6964597129f6bc7df5bba779",
+      "flair__Phone__c": null,
+      "flair__Preparation_After_Business_Hours__c": null,
+      "flair__Preparation_Before_Business_Hours__c": null,
+      "flair__State_Province__c": "Ãle-de-France",
+      "flair__Street__c": "74106 Vera Junction",
+      "flair__Time_Zone__c": "Europe/Paris",
+      "flair__Zip_Code__c": "77414 CEDEX"
+    },
+    {
+      "attributes": {
+        "type": "flair__Location__c",
+        "referenceId": "LocationRef13"
+      },
+      "Name": "San Francisco, US",
+      "flair__City__c": "San Francisco",
+      "flair__Country__c": "United States",
+      "flair__Email__c": null,
+      "flair__Is_Remote_Location__c": false,
+      "flair__Migration_ID__c": "a1e58f7ae5513e8cfd8ee7328ac51b5b2607",
+      "flair__Phone__c": null,
+      "flair__Preparation_After_Business_Hours__c": null,
+      "flair__Preparation_Before_Business_Hours__c": null,
+      "flair__State_Province__c": "California",
+      "flair__Street__c": "18596 Sycamore Place",
+      "flair__Time_Zone__c": "America/Tijuana",
+      "flair__Zip_Code__c": "93773"
+    },
+    {
+      "attributes": {
+        "type": "flair__Location__c",
+        "referenceId": "LocationRef14"
+      },
+      "Name": "Beijing, CN",
+      "flair__City__c": "Beijing",
+      "flair__Country__c": "China",
+      "flair__Email__c": null,
+      "flair__Is_Remote_Location__c": false,
+      "flair__Migration_ID__c": "2a54a69a2b275905a34aae8df56375f57ce7",
+      "flair__Phone__c": null,
+      "flair__Preparation_After_Business_Hours__c": null,
+      "flair__Preparation_Before_Business_Hours__c": null,
+      "flair__State_Province__c": null,
+      "flair__Street__c": "3 Ohio Alley",
+      "flair__Time_Zone__c": "Asia/Hong_Kong",
+      "flair__Zip_Code__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Location__c",
+        "referenceId": "LocationRef15"
+      },
+      "Name": "Berlin HQ, DE",
+      "flair__City__c": "Berlin",
+      "flair__Country__c": "Germany",
+      "flair__Email__c": null,
+      "flair__Is_Remote_Location__c": false,
+      "flair__Migration_ID__c": "e00923dc510d7d264e0ce495bdac3fe8664a",
+      "flair__Phone__c": null,
+      "flair__Preparation_After_Business_Hours__c": null,
+      "flair__Preparation_Before_Business_Hours__c": null,
+      "flair__State_Province__c": "Berlin",
+      "flair__Street__c": "Feurigstraße 25-29",
+      "flair__Time_Zone__c": "Europe/Berlin",
+      "flair__Zip_Code__c": "10827"
+    }
+  ]
+}

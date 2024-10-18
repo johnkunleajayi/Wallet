@@ -1,0 +1,61 @@
+{
+  "attributes": {
+    "type": "flair__Overtime_Policy__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Overtime_Policy__c",
+        "referenceId": "OvertimePolicyRef1"
+      },
+      "Name": "Germany",
+      "flair__Compensatory_Time_Premium_Level_1__c": null,
+      "flair__Compensatory_Time_Premium_Level_2__c": null,
+      "flair__Daily_Overtime_Based_on_Workload__c": false,
+      "flair__Daily_Overtime_Level_1__c": null,
+      "flair__Daily_Overtime_Level_2__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Overtime_Calculation_Type__c": "WEEKLY",
+      "flair__Overtime_Calculation__c": "NONE",
+      "flair__Weekly_Overtime_Based_on_Workload__c": true,
+      "flair__Weekly_Overtime_Level_1__c": null,
+      "flair__Weekly_Overtime_Level_2__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Overtime_Policy__c",
+        "referenceId": "OvertimePolicyRef2"
+      },
+      "Name": "Germany",
+      "flair__Compensatory_Time_Premium_Level_1__c": null,
+      "flair__Compensatory_Time_Premium_Level_2__c": null,
+      "flair__Daily_Overtime_Based_on_Workload__c": false,
+      "flair__Daily_Overtime_Level_1__c": null,
+      "flair__Daily_Overtime_Level_2__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Overtime_Calculation_Type__c": "WEEKLY",
+      "flair__Overtime_Calculation__c": "NONE",
+      "flair__Weekly_Overtime_Based_on_Workload__c": true,
+      "flair__Weekly_Overtime_Level_1__c": null,
+      "flair__Weekly_Overtime_Level_2__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Overtime_Policy__c",
+        "referenceId": "OvertimePolicyRef3"
+      },
+      "Name": "Switzerland",
+      "flair__Compensatory_Time_Premium_Level_1__c": 0,
+      "flair__Compensatory_Time_Premium_Level_2__c": 25,
+      "flair__Daily_Overtime_Based_on_Workload__c": false,
+      "flair__Daily_Overtime_Level_1__c": null,
+      "flair__Daily_Overtime_Level_2__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Overtime_Calculation_Type__c": "WEEKLY",
+      "flair__Overtime_Calculation__c": "NONE",
+      "flair__Weekly_Overtime_Based_on_Workload__c": true,
+      "flair__Weekly_Overtime_Level_1__c": null,
+      "flair__Weekly_Overtime_Level_2__c": 45
+    }
+  ]
+}

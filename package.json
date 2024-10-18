@@ -1,0 +1,15 @@
+{
+  "name": "flair-nigeria-payroll",
+  "version": "1.0.0",
+  "description": "flair integration with Nigeria Payroll",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.3.3",
+    "prettier-plugin-apex": "2.1.4"
+  }
+}

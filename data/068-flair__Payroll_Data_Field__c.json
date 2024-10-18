@@ -1,0 +1,127 @@
+{
+  "attributes": {
+    "type": "flair__Payroll_Data_Field__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Payroll_Data_Field__c",
+        "referenceId": "PayrollDataFieldRef1"
+      },
+      "Name": "Date of Birth",
+      "flair__Active__c": true,
+      "flair__Exportable__c": true,
+      "flair__Field_Api_Name__c": "flair__Employee__r.flair__Date_Of_Birth__c",
+      "flair__Field_Name__c": "Date of Birth",
+      "flair__Object_Api_Name__c": "flair__Employee_Payroll_Run__c",
+      "flair__Order__c": 4,
+      "flair__Payroll_Data_Change_Field__c": false,
+      "flair__Payroll_Export_File__c": "PayrollExportFileRef1"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Data_Field__c",
+        "referenceId": "PayrollDataFieldRef2"
+      },
+      "Name": "Gender",
+      "flair__Active__c": true,
+      "flair__Exportable__c": true,
+      "flair__Field_Api_Name__c": "flair__Employee__r.flair__Gender__c",
+      "flair__Field_Name__c": "Gender",
+      "flair__Object_Api_Name__c": "flair__Employee_Payroll_Run__c",
+      "flair__Order__c": 5,
+      "flair__Payroll_Data_Change_Field__c": false,
+      "flair__Payroll_Export_File__c": "PayrollExportFileRef1"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Data_Field__c",
+        "referenceId": "PayrollDataFieldRef3"
+      },
+      "Name": "Amount",
+      "flair__Active__c": true,
+      "flair__Exportable__c": true,
+      "flair__Field_Api_Name__c": "flair__Amount__c",
+      "flair__Field_Name__c": "Amount",
+      "flair__Object_Api_Name__c": "flair__Employee_Payroll_Run_Line_Item__c",
+      "flair__Order__c": 6,
+      "flair__Payroll_Data_Change_Field__c": false,
+      "flair__Payroll_Export_File__c": "PayrollExportFileRef1"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Data_Field__c",
+        "referenceId": "PayrollDataFieldRef4"
+      },
+      "Name": "Multiplier",
+      "flair__Active__c": true,
+      "flair__Exportable__c": true,
+      "flair__Field_Api_Name__c": "flair__Multiplier__c",
+      "flair__Field_Name__c": "Multiplier",
+      "flair__Object_Api_Name__c": "flair__Employee_Payroll_Run_Line_Item__c",
+      "flair__Order__c": 7,
+      "flair__Payroll_Data_Change_Field__c": false,
+      "flair__Payroll_Export_File__c": "PayrollExportFileRef1"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Data_Field__c",
+        "referenceId": "PayrollDataFieldRef5"
+      },
+      "Name": "Total Amount",
+      "flair__Active__c": true,
+      "flair__Exportable__c": true,
+      "flair__Field_Api_Name__c": "flair__Total_Amount__c",
+      "flair__Field_Name__c": "Total Amount",
+      "flair__Object_Api_Name__c": "flair__Employee_Payroll_Run_Line_Item__c",
+      "flair__Order__c": 8,
+      "flair__Payroll_Data_Change_Field__c": false,
+      "flair__Payroll_Export_File__c": "PayrollExportFileRef1"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Data_Field__c",
+        "referenceId": "PayrollDataFieldRef6"
+      },
+      "Name": "Full Name",
+      "flair__Active__c": true,
+      "flair__Exportable__c": true,
+      "flair__Field_Api_Name__c": "flair__Employee__r.Name",
+      "flair__Field_Name__c": "Full Name",
+      "flair__Object_Api_Name__c": "flair__Employee_Payroll_Run__c",
+      "flair__Order__c": 1,
+      "flair__Payroll_Data_Change_Field__c": false,
+      "flair__Payroll_Export_File__c": "PayrollExportFileRef1"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Data_Field__c",
+        "referenceId": "PayrollDataFieldRef7"
+      },
+      "Name": "Employee Number",
+      "flair__Active__c": true,
+      "flair__Exportable__c": true,
+      "flair__Field_Api_Name__c": "flair__Employee__r.flair__Employee_Number__c",
+      "flair__Field_Name__c": "Employee Number",
+      "flair__Object_Api_Name__c": "flair__Employee_Payroll_Run__c",
+      "flair__Order__c": 2,
+      "flair__Payroll_Data_Change_Field__c": false,
+      "flair__Payroll_Export_File__c": "PayrollExportFileRef1"
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Data_Field__c",
+        "referenceId": "PayrollDataFieldRef8"
+      },
+      "Name": "Employee Start Date",
+      "flair__Active__c": true,
+      "flair__Exportable__c": true,
+      "flair__Field_Api_Name__c": "flair__Employee_Start_Date__c",
+      "flair__Field_Name__c": "Employee Start Date",
+      "flair__Object_Api_Name__c": "flair__Employee_Payroll_Run_Line_Item__c",
+      "flair__Order__c": 3,
+      "flair__Payroll_Data_Change_Field__c": false,
+      "flair__Payroll_Export_File__c": "PayrollExportFileRef1"
+    }
+  ]
+}

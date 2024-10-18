@@ -1,0 +1,127 @@
+{
+  "attributes": {
+    "type": "flair__Expense_Category__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Expense_Category__c",
+        "referenceId": "ExpenseCategoryRef1"
+      },
+      "Name": "Flight",
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Expense_Category__c",
+        "referenceId": "ExpenseCategoryRef2"
+      },
+      "Name": "Advertising",
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Expense_Category__c",
+        "referenceId": "ExpenseCategoryRef3"
+      },
+      "Name": "Car & Truck Expenses",
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Expense_Category__c",
+        "referenceId": "ExpenseCategoryRef4"
+      },
+      "Name": "Contractors",
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Expense_Category__c",
+        "referenceId": "ExpenseCategoryRef5"
+      },
+      "Name": "Education and Training",
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Expense_Category__c",
+        "referenceId": "ExpenseCategoryRef6"
+      },
+      "Name": "Employee Benefits",
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Expense_Category__c",
+        "referenceId": "ExpenseCategoryRef7"
+      },
+      "Name": "Meals & Entertainment",
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Expense_Category__c",
+        "referenceId": "ExpenseCategoryRef8"
+      },
+      "Name": "Office Expenses & Postage",
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Expense_Category__c",
+        "referenceId": "ExpenseCategoryRef9"
+      },
+      "Name": "Other Expenses",
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Expense_Category__c",
+        "referenceId": "ExpenseCategoryRef10"
+      },
+      "Name": "Personal",
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Expense_Category__c",
+        "referenceId": "ExpenseCategoryRef11"
+      },
+      "Name": "Professional Services",
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Expense_Category__c",
+        "referenceId": "ExpenseCategoryRef12"
+      },
+      "Name": "Rent or Lease",
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Expense_Category__c",
+        "referenceId": "ExpenseCategoryRef13"
+      },
+      "Name": "Supplies",
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Expense_Category__c",
+        "referenceId": "ExpenseCategoryRef14"
+      },
+      "Name": "Travel",
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Expense_Category__c",
+        "referenceId": "ExpenseCategoryRef15"
+      },
+      "Name": "Utilities",
+      "flair__Migration_ID__c": null
+    }
+  ]
+}

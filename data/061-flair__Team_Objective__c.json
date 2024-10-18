@@ -1,0 +1,54 @@
+{
+  "attributes": {
+    "type": "flair__Team_Objective__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Team_Objective__c",
+        "referenceId": "TeamObjectiveRef1"
+      },
+      "Name": "Develop a New Product Vision",
+      "flair__Cancellation_Reason__c": null,
+      "flair__Company_Objective__c": "CompanyObjectiveRef3",
+      "flair__Created_By__c": "EmployeeRef156",
+      "flair__Description__c": null,
+      "flair__Due_Date__c": null,
+      "flair__Is_Draft__c": false,
+      "flair__Manual_Progress__c": false,
+      "flair__Migration_ID__c": null,
+      "flair__Objective_Time_Period__c": "ObjectiveTimePeriodRef2",
+      "flair__Owner__c": "EmployeeRef156",
+      "flair__Progress__c": 0,
+      "flair__RateAt__c": null,
+      "flair__Rate__c": "OPEN",
+      "flair__Start_Date__c": null,
+      "flair__Status_Reason__c": null,
+      "flair__Status__c": "BEHIND",
+      "flair__Visibility__c": "ALL_THE_COMPANY"
+    },
+    {
+      "attributes": {
+        "type": "flair__Team_Objective__c",
+        "referenceId": "TeamObjectiveRef2"
+      },
+      "Name": "Increase the delivery speed of the new features",
+      "flair__Cancellation_Reason__c": null,
+      "flair__Created_By__c": "EmployeeRef156",
+      "flair__Description__c": null,
+      "flair__Due_Date__c": null,
+      "flair__Is_Draft__c": false,
+      "flair__Manual_Progress__c": false,
+      "flair__Migration_ID__c": null,
+      "flair__Objective_Time_Period__c": "ObjectiveTimePeriodRef2",
+      "flair__Owner__c": "EmployeeRef156",
+      "flair__Progress__c": 0,
+      "flair__RateAt__c": null,
+      "flair__Rate__c": "OPEN",
+      "flair__Start_Date__c": null,
+      "flair__Status_Reason__c": null,
+      "flair__Status__c": "BEHIND",
+      "flair__Visibility__c": "ALL_THE_COMPANY"
+    }
+  ]
+}

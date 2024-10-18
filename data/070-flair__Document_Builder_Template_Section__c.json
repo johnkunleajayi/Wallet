@@ -1,0 +1,57 @@
+{
+  "attributes": {
+    "type": "flair__Document_Builder_Template_Section__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Section__c",
+        "referenceId": "DocumentBuilderTemplateSectionRef1"
+      },
+      "Name": "Einleitung",
+      "flair__Document_Builder_Template__c": "DocumentBuilderTemplateRef1",
+      "flair__HelpText__c": null,
+      "flair__Order__c": 1
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Section__c",
+        "referenceId": "DocumentBuilderTemplateSectionRef2"
+      },
+      "Name": "Firmenbeschreibung",
+      "flair__Document_Builder_Template__c": "DocumentBuilderTemplateRef1",
+      "flair__HelpText__c": "Die (optionale) Firmenbeschreibung gibt Ihnen die Möglichkeit, Ihr Unternehmen vorzustellen. Für Leser des Zeugnisses ist das insbesondere dann wichtig, wenn Ihr Unternehmen eher klein oder nur regional tätig ist. Die Beschreibung sollte sich auf einige Sätze mit den wesentlichen Informationen beschränken.",
+      "flair__Order__c": 2
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Section__c",
+        "referenceId": "DocumentBuilderTemplateSectionRef3"
+      },
+      "Name": "Tätigkeiten",
+      "flair__Document_Builder_Template__c": "DocumentBuilderTemplateRef1",
+      "flair__HelpText__c": "Die Auflistung der Tätigkeiten sollte geordnet nach der Wichtigkeit erfolgen. Die Nennung selbstverständlicher oder unbedeutender Aufgaben im Arbeitszeugnis ist als negatives Signal zu werten.",
+      "flair__Order__c": 3
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Section__c",
+        "referenceId": "DocumentBuilderTemplateSectionRef4"
+      },
+      "Name": "Fachwissen",
+      "flair__Document_Builder_Template__c": "DocumentBuilderTemplateRef1",
+      "flair__HelpText__c": "Hier benoten Sie das Fachwissen des Mitarbeiters. Sie können auch die Teilnahme an Weiterbildungsmaßnahmen erwähnen.",
+      "flair__Order__c": 4
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template_Section__c",
+        "referenceId": "DocumentBuilderTemplateSectionRef5"
+      },
+      "Name": "Final Section",
+      "flair__Document_Builder_Template__c": "DocumentBuilderTemplateRef1",
+      "flair__HelpText__c": "this is final section",
+      "flair__Order__c": 5
+    }
+  ]
+}

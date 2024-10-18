@@ -1,0 +1,29 @@
+{
+    "message": "Payment processed successfully.",
+    "data": {
+        "status": "success",
+        "message": "Transfer successful",
+        "data": {
+            "transfersessionid": [],
+            "domain": "test",
+            "amount": 2260000,
+            "currency": "NGN",
+            "reference": "03c9ce2jx0604xedkpol",
+            "source": "balance",
+            "source_details": null,
+            "reason": "Payment",
+            "status": "success",
+            "failures": null,
+            "transfer_code": "TRF_fvkk5tywpeere7k6",
+            "titan_code": null,
+            "transferred_at": null,
+            "id": 616416949,
+            "integration": 804464,
+            "request": 746208125,
+            "recipient": 69689926,
+            "createdAt": "2024-08-31T17:18:59.000Z",
+            "updatedAt": "2024-08-31T17:18:59.000Z"
+        }
+    },
+    "0": 200
+}

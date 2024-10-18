@@ -1,0 +1,67 @@
+{
+  "attributes": {
+    "type": "flair__Employee_1_On_1_Meeting__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Employee_1_On_1_Meeting__c",
+        "referenceId": "Employee1:1MeetingRef1"
+      },
+      "Name": "Performance Q1 - Adamaris Vinke",
+      "flair__Attendee__c": "EmployeeRef241",
+      "flair__Organizer__c": "EmployeeRef240",
+      "flair__Start_Datetime__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_1_On_1_Meeting__c",
+        "referenceId": "Employee1:1MeetingRef2"
+      },
+      "Name": "Performance Q1 - Adamaris Vinke",
+      "flair__Attendee__c": "EmployeeRef241",
+      "flair__Organizer__c": "EmployeeRef240",
+      "flair__Start_Datetime__c": "2022-06-01T10:00:00.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_1_On_1_Meeting__c",
+        "referenceId": "Employee1:1MeetingRef3"
+      },
+      "Name": "Performance Q1 - Adamaris Vinke",
+      "flair__Attendee__c": "EmployeeRef241",
+      "flair__Organizer__c": "EmployeeRef156",
+      "flair__Start_Datetime__c": "2022-01-20T11:00:00.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_1_On_1_Meeting__c",
+        "referenceId": "Employee1:1MeetingRef4"
+      },
+      "Name": "Performance Q2 - Adamaris Vinke",
+      "flair__Attendee__c": "EmployeeRef241",
+      "flair__Organizer__c": "EmployeeRef240",
+      "flair__Start_Datetime__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_1_On_1_Meeting__c",
+        "referenceId": "Employee1:1MeetingRef5"
+      },
+      "Name": "Performance Q2 - Adamaris Vinke",
+      "flair__Attendee__c": "EmployeeRef241",
+      "flair__Organizer__c": "EmployeeRef240",
+      "flair__Start_Datetime__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_1_On_1_Meeting__c",
+        "referenceId": "Employee1:1MeetingRef6"
+      },
+      "Name": "Performance Q1 - Adamaris Vinke",
+      "flair__Attendee__c": "EmployeeRef241",
+      "flair__Organizer__c": "EmployeeRef156",
+      "flair__Start_Datetime__c": null
+    }
+  ]
+}

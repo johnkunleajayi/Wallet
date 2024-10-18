@@ -1,0 +1,49 @@
+{
+  "attributes": {
+    "type": "flair__Employee_Document__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Employee_Document__c",
+        "referenceId": "EmployeeDocumentRef1"
+      },
+      "Name": "Draft",
+      "flair__Document_Category__c": "DocumentCategoryRef7",
+      "flair__Draft__c": true,
+      "flair__Employee1__c": "EmployeeRef63",
+      "flair__Migration_ID__c": null,
+      "flair__Note__c": null,
+      "flair__Self_Uploaded__c": false,
+      "flair__Visibility__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Document__c",
+        "referenceId": "EmployeeDocumentRef2"
+      },
+      "Name": "Draft",
+      "flair__Document_Category__c": "DocumentCategoryRef7",
+      "flair__Draft__c": true,
+      "flair__Employee1__c": "EmployeeRef63",
+      "flair__Migration_ID__c": null,
+      "flair__Note__c": null,
+      "flair__Self_Uploaded__c": false,
+      "flair__Visibility__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Document__c",
+        "referenceId": "EmployeeDocumentRef4"
+      },
+      "Name": "Draft",
+      "flair__Document_Category__c": "DocumentCategoryRef7",
+      "flair__Draft__c": true,
+      "flair__Employee1__c": "EmployeeRef63",
+      "flair__Migration_ID__c": null,
+      "flair__Note__c": null,
+      "flair__Self_Uploaded__c": false,
+      "flair__Visibility__c": null
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "attributes": {
+    "type": "flair__Skill__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Skill__c",
+        "referenceId": "SkillRef1"
+      },
+      "Name": "Performs Scan",
+      "flair__Color__c": "#bf0201",
+      "flair__Migration_ID__c": null,
+      "flair__Rateable__c": false,
+      "flair__Short_Name__c": null,
+      "flair__Use_In_Shift_Planner__c": false
+    },
+    {
+      "attributes": {
+        "type": "flair__Skill__c",
+        "referenceId": "SkillRef2"
+      },
+      "Name": "Speaks German",
+      "flair__Color__c": "#005583",
+      "flair__Migration_ID__c": null,
+      "flair__Rateable__c": false,
+      "flair__Short_Name__c": null,
+      "flair__Use_In_Shift_Planner__c": false
+    },
+    {
+      "attributes": {
+        "type": "flair__Skill__c",
+        "referenceId": "SkillRef3"
+      },
+      "Name": "Manager",
+      "flair__Color__c": "#5e5e5e",
+      "flair__Migration_ID__c": null,
+      "flair__Rateable__c": false,
+      "flair__Short_Name__c": null,
+      "flair__Use_In_Shift_Planner__c": false
+    },
+    {
+      "attributes": {
+        "type": "flair__Skill__c",
+        "referenceId": "SkillRef4"
+      },
+      "Name": "Sales",
+      "flair__Color__c": "#1589ee",
+      "flair__Migration_ID__c": null,
+      "flair__Rateable__c": false,
+      "flair__Short_Name__c": null,
+      "flair__Use_In_Shift_Planner__c": false
+    },
+    {
+      "attributes": {
+        "type": "flair__Skill__c",
+        "referenceId": "SkillRef5"
+      },
+      "Name": "Dentist",
+      "flair__Color__c": "#253045",
+      "flair__Migration_ID__c": null,
+      "flair__Rateable__c": false,
+      "flair__Short_Name__c": null,
+      "flair__Use_In_Shift_Planner__c": false
+    },
+    {
+      "attributes": {
+        "type": "flair__Skill__c",
+        "referenceId": "SkillRef6"
+      },
+      "Name": "Assistant",
+      "flair__Color__c": "#2b2826",
+      "flair__Migration_ID__c": null,
+      "flair__Rateable__c": false,
+      "flair__Short_Name__c": null,
+      "flair__Use_In_Shift_Planner__c": false
+    },
+    {
+      "attributes": {
+        "type": "flair__Skill__c",
+        "referenceId": "SkillRef7"
+      },
+      "Name": "Speaks Russian",
+      "flair__Color__c": "#ff9a3c",
+      "flair__Migration_ID__c": null,
+      "flair__Rateable__c": false,
+      "flair__Short_Name__c": null,
+      "flair__Use_In_Shift_Planner__c": false
+    },
+    {
+      "attributes": {
+        "type": "flair__Skill__c",
+        "referenceId": "SkillRef8"
+      },
+      "Name": "Salesforce",
+      "flair__Color__c": "#005583",
+      "flair__Migration_ID__c": null,
+      "flair__Rateable__c": false,
+      "flair__Short_Name__c": null,
+      "flair__Use_In_Shift_Planner__c": false
+    },
+    {
+      "attributes": {
+        "type": "flair__Skill__c",
+        "referenceId": "SkillRef9"
+      },
+      "Name": "Nodejs",
+      "flair__Color__c": "#2b2826",
+      "flair__Migration_ID__c": null,
+      "flair__Rateable__c": false,
+      "flair__Short_Name__c": null,
+      "flair__Use_In_Shift_Planner__c": false
+    },
+    {
+      "attributes": {
+        "type": "flair__Skill__c",
+        "referenceId": "SkillRef10"
+      },
+      "Name": "React",
+      "flair__Color__c": "#2b2826",
+      "flair__Migration_ID__c": null,
+      "flair__Rateable__c": false,
+      "flair__Short_Name__c": null,
+      "flair__Use_In_Shift_Planner__c": false
+    }
+  ]
+}

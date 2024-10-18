@@ -1,0 +1,29 @@
+{
+  "attributes": {
+    "type": "flair__Payroll_Territory__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Payroll_Territory__c",
+        "referenceId": "PayrollTerritoryRef1"
+      },
+      "Name": "Germany",
+      "flair__Company_Address__c": null,
+      "flair__Company_Phone_Number__c": null,
+      "flair__Legal_Company_Name__c": null,
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Payroll_Territory__c",
+        "referenceId": "PayrollTerritoryRef2"
+      },
+      "Name": "Switzerland",
+      "flair__Company_Address__c": null,
+      "flair__Company_Phone_Number__c": null,
+      "flair__Legal_Company_Name__c": null,
+      "flair__Migration_ID__c": null
+    }
+  ]
+}

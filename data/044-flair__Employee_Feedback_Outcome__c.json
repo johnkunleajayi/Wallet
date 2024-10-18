@@ -1,0 +1,35 @@
+{
+  "attributes": {
+    "type": "flair__Employee_Feedback_Outcome__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Outcome__c",
+        "referenceId": "EmployeeFeedbackOutcomeRef1"
+      },
+      "Name": "Performance Q1",
+      "flair__Accepted_At__c": null,
+      "flair__Conclusion__c": null,
+      "flair__Employee_Feedback_Participant__c": "EmployeeFeedbackParticipantRef1",
+      "flair__Ended_At__c": null,
+      "flair__Feedback_About__c": "EmployeeRef241",
+      "flair__Feedback_Cycle__c": "FeedbackCycleRef2",
+      "flair__Feedback_From__c": "EmployeeRef156"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Feedback_Outcome__c",
+        "referenceId": "EmployeeFeedbackOutcomeRef2"
+      },
+      "Name": "Performance Q2",
+      "flair__Accepted_At__c": null,
+      "flair__Conclusion__c": null,
+      "flair__Employee_Feedback_Participant__c": "EmployeeFeedbackParticipantRef2",
+      "flair__Ended_At__c": null,
+      "flair__Feedback_About__c": "EmployeeRef241",
+      "flair__Feedback_Cycle__c": "FeedbackCycleRef1",
+      "flair__Feedback_From__c": "EmployeeRef240"
+    }
+  ]
+}

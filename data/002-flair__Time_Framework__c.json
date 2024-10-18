@@ -1,0 +1,24 @@
+{
+  "attributes": {
+    "type": "flair__Time_Framework__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Time_Framework__c",
+        "referenceId": "TimeFrameworkRef1"
+      },
+      "Name": "Germany",
+      "flair__Automatically_Deduct_Unused_Break__c": true,
+      "flair__Block_Ending_Breaks__c": false,
+      "flair__Description__c": null,
+      "flair__Is_Breaks_Enabled__c": false,
+      "flair__Is_Overtime_Enabled__c": false,
+      "flair__Migration_ID__c": null,
+      "flair__Minimal_Break_Length__c": 15,
+      "flair__Notify_Employee_For_Break_Time__c": true,
+      "flair__Overtime_Policy__c": "OvertimePolicyRef1",
+      "flair__Suggest_Adding_Break__c": true
+    }
+  ]
+}

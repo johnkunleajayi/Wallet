@@ -1,0 +1,52 @@
+{
+  "attributes": {
+    "type": "flair__Tag__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Tag__c",
+        "referenceId": "TagRef1"
+      },
+      "Name": "Enterprise",
+      "flair__Active__c": true,
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Tag__c",
+        "referenceId": "TagRef2"
+      },
+      "Name": "Sales",
+      "flair__Active__c": true,
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Tag__c",
+        "referenceId": "TagRef3"
+      },
+      "Name": "Product",
+      "flair__Active__c": true,
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Tag__c",
+        "referenceId": "TagRef4"
+      },
+      "Name": "Random",
+      "flair__Active__c": true,
+      "flair__Migration_ID__c": null
+    },
+    {
+      "attributes": {
+        "type": "flair__Tag__c",
+        "referenceId": "TagRef5"
+      },
+      "Name": "Culture",
+      "flair__Active__c": true,
+      "flair__Migration_ID__c": null
+    }
+  ]
+}

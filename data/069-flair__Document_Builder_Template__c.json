@@ -1,0 +1,21 @@
+{
+  "attributes": {
+    "type": "flair__Document_Builder_Template__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template__c",
+        "referenceId": "DocumentBuilderTemplateRef1"
+      },
+      "Name": "Reference Letter"
+    },
+    {
+      "attributes": {
+        "type": "flair__Document_Builder_Template__c",
+        "referenceId": "DocumentBuilderTemplateRef2"
+      },
+      "Name": "Document"
+    }
+  ]
+}

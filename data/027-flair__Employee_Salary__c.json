@@ -1,0 +1,1593 @@
+{
+  "attributes": {
+    "type": "flair__Employee_Salary__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef1"
+      },
+      "flair__Amount__c": 3800,
+      "flair__Employee1__c": "EmployeeRef50",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-05-02"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef2"
+      },
+      "flair__Amount__c": 3700,
+      "flair__Employee1__c": "EmployeeRef211",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2018-11-17"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef3"
+      },
+      "flair__Amount__c": 3550,
+      "flair__Employee1__c": "EmployeeRef224",
+      "flair__End_Date__c": "2020-09-30",
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2020-07-24"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef4"
+      },
+      "flair__Amount__c": 3800,
+      "flair__Employee1__c": "EmployeeRef224",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2020-10-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef5"
+      },
+      "flair__Amount__c": 2500,
+      "flair__Employee1__c": "EmployeeRef191",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-10-30"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef6"
+      },
+      "flair__Amount__c": 3700,
+      "flair__Employee1__c": "EmployeeRef192",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-09-11"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef7"
+      },
+      "flair__Amount__c": 3550,
+      "flair__Employee1__c": "EmployeeRef193",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-12-17"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef8"
+      },
+      "flair__Amount__c": 2000,
+      "flair__Employee1__c": "EmployeeRef194",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2010-11-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef9"
+      },
+      "flair__Amount__c": 2500,
+      "flair__Employee1__c": "EmployeeRef195",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-02-04"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef10"
+      },
+      "flair__Amount__c": 2000,
+      "flair__Employee1__c": "EmployeeRef166",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2014-12-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef11"
+      },
+      "flair__Amount__c": 3700,
+      "flair__Employee1__c": "EmployeeRef167",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2017-08-22"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef12"
+      },
+      "flair__Amount__c": 3550,
+      "flair__Employee1__c": "EmployeeRef168",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2018-02-19"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef13"
+      },
+      "flair__Amount__c": 3800,
+      "flair__Employee1__c": "EmployeeRef169",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-07-25"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef14"
+      },
+      "flair__Amount__c": 3550,
+      "flair__Employee1__c": "EmployeeRef170",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2018-12-15"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef15"
+      },
+      "flair__Amount__c": 2000,
+      "flair__Employee1__c": "EmployeeRef171",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2017-10-10"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef16"
+      },
+      "flair__Amount__c": 6700,
+      "flair__Employee1__c": "EmployeeRef123",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2018-09-07"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef17"
+      },
+      "flair__Amount__c": 2000,
+      "flair__Employee1__c": "EmployeeRef172",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2017-11-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef18"
+      },
+      "flair__Amount__c": 4550,
+      "flair__Employee1__c": "EmployeeRef173",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2016-11-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef19"
+      },
+      "flair__Amount__c": 3700,
+      "flair__Employee1__c": "EmployeeRef174",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-01-15"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef20"
+      },
+      "flair__Amount__c": 2500,
+      "flair__Employee1__c": "EmployeeRef176",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-10-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef21"
+      },
+      "flair__Amount__c": 3700,
+      "flair__Employee1__c": "EmployeeRef177",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2016-10-03"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef22"
+      },
+      "flair__Amount__c": 5300,
+      "flair__Employee1__c": "EmployeeRef179",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-10-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef23"
+      },
+      "flair__Amount__c": 3700,
+      "flair__Employee1__c": "EmployeeRef180",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2009-10-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef24"
+      },
+      "flair__Amount__c": 5300,
+      "flair__Employee1__c": "EmployeeRef196",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2010-11-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef25"
+      },
+      "flair__Amount__c": 2000,
+      "flair__Employee1__c": "EmployeeRef232",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-10-22"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef26"
+      },
+      "flair__Amount__c": 4550,
+      "flair__Employee1__c": "EmployeeRef150",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2005-10-11"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef27"
+      },
+      "flair__Amount__c": 3700,
+      "flair__Employee1__c": "EmployeeRef241",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-10-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef28"
+      },
+      "flair__Amount__c": 6700,
+      "flair__Employee1__c": "EmployeeRef242",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2008-12-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef29"
+      },
+      "flair__Amount__c": 3700,
+      "flair__Employee1__c": "EmployeeRef210",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-02-05"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef30"
+      },
+      "flair__Amount__c": 1450,
+      "flair__Employee1__c": "EmployeeRef229",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2011-02-15"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef31"
+      },
+      "flair__Amount__c": 3800,
+      "flair__Employee1__c": "EmployeeRef127",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2015-02-03"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef32"
+      },
+      "flair__Amount__c": 3700,
+      "flair__Employee1__c": "EmployeeRef128",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-10-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef33"
+      },
+      "flair__Amount__c": 2000,
+      "flair__Employee1__c": "EmployeeRef246",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2017-10-16"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef34"
+      },
+      "flair__Amount__c": 1450,
+      "flair__Employee1__c": "EmployeeRef223",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-08-04"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef35"
+      },
+      "flair__Amount__c": 6700,
+      "flair__Employee1__c": "EmployeeRef19",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2020-05-05"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef36"
+      },
+      "flair__Amount__c": 1450,
+      "flair__Employee1__c": "EmployeeRef20",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-02-05"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef37"
+      },
+      "flair__Amount__c": 2000,
+      "flair__Employee1__c": "EmployeeRef21",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2018-10-22"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef38"
+      },
+      "flair__Amount__c": 3550,
+      "flair__Employee1__c": "EmployeeRef22",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2020-01-18"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef39"
+      },
+      "flair__Amount__c": 1450,
+      "flair__Employee1__c": "EmployeeRef181",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-10-15"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef40"
+      },
+      "flair__Amount__c": 2500,
+      "flair__Employee1__c": "EmployeeRef182",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2018-02-06"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef41"
+      },
+      "flair__Amount__c": 3700,
+      "flair__Employee1__c": "EmployeeRef23",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-08-12"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef42"
+      },
+      "flair__Amount__c": 2000,
+      "flair__Employee1__c": "EmployeeRef24",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-08-10"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef43"
+      },
+      "flair__Amount__c": 3550,
+      "flair__Employee1__c": "EmployeeRef25",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-10-10"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef44"
+      },
+      "flair__Amount__c": 6700,
+      "flair__Employee1__c": "EmployeeRef132",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2018-05-11"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef45"
+      },
+      "flair__Amount__c": 5300,
+      "flair__Employee1__c": "EmployeeRef133",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-04-22"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef46"
+      },
+      "flair__Amount__c": 1450,
+      "flair__Employee1__c": "EmployeeRef134",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2020-03-23"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef47"
+      },
+      "flair__Amount__c": 6700,
+      "flair__Employee1__c": "EmployeeRef26",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-10-15"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef48"
+      },
+      "flair__Amount__c": 5300,
+      "flair__Employee1__c": "EmployeeRef28",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2014-12-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef49"
+      },
+      "flair__Amount__c": 4550,
+      "flair__Employee1__c": "EmployeeRef29",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-04-04"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef50"
+      },
+      "flair__Amount__c": 6700,
+      "flair__Employee1__c": "EmployeeRef93",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2018-09-25"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef51"
+      },
+      "flair__Amount__c": 3800,
+      "flair__Employee1__c": "EmployeeRef1",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-11-13"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef52"
+      },
+      "flair__Amount__c": 3700,
+      "flair__Employee1__c": "EmployeeRef2",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2018-12-24"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef53"
+      },
+      "flair__Amount__c": 2000,
+      "flair__Employee1__c": "EmployeeRef244",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2020-03-22"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef54"
+      },
+      "flair__Amount__c": 6700,
+      "flair__Employee1__c": "EmployeeRef226",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2011-02-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef55"
+      },
+      "flair__Amount__c": 4550,
+      "flair__Employee1__c": "EmployeeRef227",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2016-07-04"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef56"
+      },
+      "flair__Amount__c": 4550,
+      "flair__Employee1__c": "EmployeeRef4",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2017-10-22"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef57"
+      },
+      "flair__Amount__c": 3700,
+      "flair__Employee1__c": "EmployeeRef6",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2018-11-02"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef58"
+      },
+      "flair__Amount__c": 1450,
+      "flair__Employee1__c": "EmployeeRef79",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2017-03-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef59"
+      },
+      "flair__Amount__c": 3700,
+      "flair__Employee1__c": "EmployeeRef136",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2014-12-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef60"
+      },
+      "flair__Amount__c": 6700,
+      "flair__Employee1__c": "EmployeeRef113",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2017-09-16"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef61"
+      },
+      "flair__Amount__c": 5300,
+      "flair__Employee1__c": "EmployeeRef115",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2016-11-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef62"
+      },
+      "flair__Amount__c": 5300,
+      "flair__Employee1__c": "EmployeeRef116",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2018-03-06"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef63"
+      },
+      "flair__Amount__c": 2000,
+      "flair__Employee1__c": "EmployeeRef118",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2016-01-04"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef64"
+      },
+      "flair__Amount__c": 4550,
+      "flair__Employee1__c": "EmployeeRef91",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2010-10-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef65"
+      },
+      "flair__Amount__c": 2500,
+      "flair__Employee1__c": "EmployeeRef92",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2009-07-07"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef66"
+      },
+      "flair__Amount__c": 5300,
+      "flair__Employee1__c": "EmployeeRef121",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2016-11-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef67"
+      },
+      "flair__Amount__c": 2000,
+      "flair__Employee1__c": "EmployeeRef122",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-12-02"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef68"
+      },
+      "flair__Amount__c": 3550,
+      "flair__Employee1__c": "EmployeeRef95",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef69"
+      },
+      "flair__Amount__c": 6700,
+      "flair__Employee1__c": "EmployeeRef183",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2013-10-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef70"
+      },
+      "flair__Amount__c": 4550,
+      "flair__Employee1__c": "EmployeeRef184",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2015-06-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef71"
+      },
+      "flair__Amount__c": 2000,
+      "flair__Employee1__c": "EmployeeRef233",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2016-12-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef72"
+      },
+      "flair__Amount__c": 3550,
+      "flair__Employee1__c": "EmployeeRef5",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2018-06-08"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef73"
+      },
+      "flair__Amount__c": 3800,
+      "flair__Employee1__c": "EmployeeRef234",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2009-11-02"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef74"
+      },
+      "flair__Amount__c": 6700,
+      "flair__Employee1__c": "EmployeeRef236",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2006-11-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef75"
+      },
+      "flair__Amount__c": 1450,
+      "flair__Employee1__c": "EmployeeRef238",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2005-10-04"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef76"
+      },
+      "flair__Amount__c": 2500,
+      "flair__Employee1__c": "EmployeeRef240",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2016-03-07"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef77"
+      },
+      "flair__Amount__c": 3700,
+      "flair__Employee1__c": "EmployeeRef52",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef78"
+      },
+      "flair__Amount__c": 3800,
+      "flair__Employee1__c": "EmployeeRef53",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2020-02-21"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef79"
+      },
+      "flair__Amount__c": 2500,
+      "flair__Employee1__c": "EmployeeRef54",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2010-06-07"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef80"
+      },
+      "flair__Amount__c": 1450,
+      "flair__Employee1__c": "EmployeeRef190",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2018-09-12"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef81"
+      },
+      "flair__Amount__c": 3550,
+      "flair__Employee1__c": "EmployeeRef36",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-07-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef82"
+      },
+      "flair__Amount__c": 4550,
+      "flair__Employee1__c": "EmployeeRef37",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2018-10-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef83"
+      },
+      "flair__Amount__c": 2000,
+      "flair__Employee1__c": "EmployeeRef38",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2010-10-05"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef84"
+      },
+      "flair__Amount__c": 3550,
+      "flair__Employee1__c": "EmployeeRef40",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2012-12-03"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef85"
+      },
+      "flair__Amount__c": 3700,
+      "flair__Employee1__c": "EmployeeRef43",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2011-01-11"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef86"
+      },
+      "flair__Amount__c": 2000,
+      "flair__Employee1__c": "EmployeeRef45",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2017-04-04"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef87"
+      },
+      "flair__Amount__c": 4550,
+      "flair__Employee1__c": "EmployeeRef47",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-10-22"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef88"
+      },
+      "flair__Amount__c": 3700,
+      "flair__Employee1__c": "EmployeeRef48",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2020-08-12"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef89"
+      },
+      "flair__Amount__c": 5300,
+      "flair__Employee1__c": "EmployeeRef49",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-06-23"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef90"
+      },
+      "flair__Amount__c": 4550,
+      "flair__Employee1__c": "EmployeeRef30",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-12-18"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef91"
+      },
+      "flair__Amount__c": 5300,
+      "flair__Employee1__c": "EmployeeRef31",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-06-06"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef92"
+      },
+      "flair__Amount__c": 2500,
+      "flair__Employee1__c": "EmployeeRef32",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2017-12-09"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef93"
+      },
+      "flair__Amount__c": 2500,
+      "flair__Employee1__c": "EmployeeRef33",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-09-19"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef94"
+      },
+      "flair__Amount__c": 6700,
+      "flair__Employee1__c": "EmployeeRef131",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2018-07-05"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef95"
+      },
+      "flair__Amount__c": 3550,
+      "flair__Employee1__c": "EmployeeRef34",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2011-02-15"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef96"
+      },
+      "flair__Amount__c": 6700,
+      "flair__Employee1__c": "EmployeeRef10",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2018-09-19"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef97"
+      },
+      "flair__Amount__c": 3700,
+      "flair__Employee1__c": "EmployeeRef11",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-01-16"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef98"
+      },
+      "flair__Amount__c": 1450,
+      "flair__Employee1__c": "EmployeeRef230",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2017-08-28"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef99"
+      },
+      "flair__Amount__c": 3700,
+      "flair__Employee1__c": "EmployeeRef231",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2020-08-07"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef100"
+      },
+      "flair__Amount__c": 4550,
+      "flair__Employee1__c": "EmployeeRef55",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2018-06-09"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef101"
+      },
+      "flair__Amount__c": 2500,
+      "flair__Employee1__c": "EmployeeRef56",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2020-08-02"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef102"
+      },
+      "flair__Amount__c": 3800,
+      "flair__Employee1__c": "EmployeeRef57",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2017-11-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef103"
+      },
+      "flair__Amount__c": 2000,
+      "flair__Employee1__c": "EmployeeRef58",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-11-23"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef104"
+      },
+      "flair__Amount__c": 2000,
+      "flair__Employee1__c": "EmployeeRef59",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2020-02-13"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef105"
+      },
+      "flair__Amount__c": 3800,
+      "flair__Employee1__c": "EmployeeRef60",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-04-04"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef106"
+      },
+      "flair__Amount__c": 3700,
+      "flair__Employee1__c": "EmployeeRef61",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-01-06"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef107"
+      },
+      "flair__Amount__c": 3550,
+      "flair__Employee1__c": "EmployeeRef62",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2018-02-02"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef108"
+      },
+      "flair__Amount__c": 2500,
+      "flair__Employee1__c": "EmployeeRef63",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2017-11-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef109"
+      },
+      "flair__Amount__c": 3800,
+      "flair__Employee1__c": "EmployeeRef51",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2013-10-22"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef110"
+      },
+      "flair__Amount__c": 6700,
+      "flair__Employee1__c": "EmployeeRef7",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-10-15"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef111"
+      },
+      "flair__Amount__c": 5300,
+      "flair__Employee1__c": "EmployeeRef8",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2018-10-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef112"
+      },
+      "flair__Amount__c": 2000,
+      "flair__Employee1__c": "EmployeeRef187",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2017-10-02"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef113"
+      },
+      "flair__Amount__c": 6700,
+      "flair__Employee1__c": "EmployeeRef189",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2013-12-02"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef114"
+      },
+      "flair__Amount__c": 6700,
+      "flair__Employee1__c": "EmployeeRef152",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2012-01-02"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef115"
+      },
+      "flair__Amount__c": 6700,
+      "flair__Employee1__c": "EmployeeRef153",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2018-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef116"
+      },
+      "flair__Amount__c": 6700,
+      "flair__Employee1__c": "EmployeeRef154",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2014-01-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef117"
+      },
+      "flair__Amount__c": 3800,
+      "flair__Employee1__c": "EmployeeRef85",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2011-11-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef118"
+      },
+      "flair__Amount__c": 4550,
+      "flair__Employee1__c": "EmployeeRef86",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-02-05"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef119"
+      },
+      "flair__Amount__c": 3550,
+      "flair__Employee1__c": "EmployeeRef87",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2020-03-30"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef120"
+      },
+      "flair__Amount__c": 3700,
+      "flair__Employee1__c": "EmployeeRef88",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2018-06-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef121"
+      },
+      "flair__Amount__c": 2000,
+      "flair__Employee1__c": "EmployeeRef90",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2019-10-01"
+    },
+    {
+      "attributes": {
+        "type": "flair__Employee_Salary__c",
+        "referenceId": "EmployeeSalaryRef122"
+      },
+      "flair__Amount__c": 5300,
+      "flair__Employee1__c": "EmployeeRef188",
+      "flair__End_Date__c": null,
+      "flair__Migration_ID__c": null,
+      "flair__Notes__c": null,
+      "flair__Salary_Type__c": "Monthly",
+      "flair__Start_Date__c": "2020-12-01"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "attributes": {
+    "type": "flair__Candidate_Application_Source__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Candidate_Application_Source__c",
+        "referenceId": "CandidateApplicationSourceRef1"
+      },
+      "Name": "Career Page"
+    },
+    {
+      "attributes": {
+        "type": "flair__Candidate_Application_Source__c",
+        "referenceId": "CandidateApplicationSourceRef2"
+      },
+      "Name": "LinkedIn"
+    },
+    {
+      "attributes": {
+        "type": "flair__Candidate_Application_Source__c",
+        "referenceId": "CandidateApplicationSourceRef3"
+      },
+      "Name": "Xing"
+    },
+    {
+      "attributes": {
+        "type": "flair__Candidate_Application_Source__c",
+        "referenceId": "CandidateApplicationSourceRef4"
+      },
+      "Name": "Headhunter"
+    },
+    {
+      "attributes": {
+        "type": "flair__Candidate_Application_Source__c",
+        "referenceId": "CandidateApplicationSourceRef5"
+      },
+      "Name": "Referral"
+    },
+    {
+      "attributes": {
+        "type": "flair__Candidate_Application_Source__c",
+        "referenceId": "CandidateApplicationSourceRef6"
+      },
+      "Name": "Email"
+    },
+    {
+      "attributes": {
+        "type": "flair__Candidate_Application_Source__c",
+        "referenceId": "CandidateApplicationSourceRef7"
+      },
+      "Name": "Browser Extension"
+    }
+  ]
+}

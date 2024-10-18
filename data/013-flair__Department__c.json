@@ -1,0 +1,87 @@
+{
+  "attributes": {
+    "type": "flair__Department__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Department__c",
+        "referenceId": "DepartmentRef1"
+      },
+      "Name": "Domestic Sales",
+      "flair__Migration_ID__c": "02b5d42b6796ee239853a8e5120b6ccd7073"
+    },
+    {
+      "attributes": {
+        "type": "flair__Department__c",
+        "referenceId": "DepartmentRef2"
+      },
+      "Name": "Marketing",
+      "flair__Migration_ID__c": "2cd029bb856f64c5d5774d95b9b958e4f5d3"
+    },
+    {
+      "attributes": {
+        "type": "flair__Department__c",
+        "referenceId": "DepartmentRef3"
+      },
+      "Name": "Customer Success/Relations",
+      "flair__Migration_ID__c": "edc97b6690f8fe771651746bc6ffd269fd19"
+    },
+    {
+      "attributes": {
+        "type": "flair__Department__c",
+        "referenceId": "DepartmentRef4"
+      },
+      "Name": "IT",
+      "flair__Migration_ID__c": "3424a64eac79b605edd046602aee6e04dc90"
+    },
+    {
+      "attributes": {
+        "type": "flair__Department__c",
+        "referenceId": "DepartmentRef5"
+      },
+      "Name": "Purchasing",
+      "flair__Migration_ID__c": "b9967bd10bd966e1c5ccafd5046f50bfce69"
+    },
+    {
+      "attributes": {
+        "type": "flair__Department__c",
+        "referenceId": "DepartmentRef6"
+      },
+      "Name": "HR",
+      "flair__Migration_ID__c": "ddd474db0ed98f4bca7a3079ee64fdab13bb"
+    },
+    {
+      "attributes": {
+        "type": "flair__Department__c",
+        "referenceId": "DepartmentRef7"
+      },
+      "Name": "Logistics",
+      "flair__Migration_ID__c": "5b90d9c4e5d9ebab2f1e6c8f8381a19565dc"
+    },
+    {
+      "attributes": {
+        "type": "flair__Department__c",
+        "referenceId": "DepartmentRef8"
+      },
+      "Name": "Accounting and Finance",
+      "flair__Migration_ID__c": "684fb5fda1ed76f8fa8e20eab6dafc5eb11f"
+    },
+    {
+      "attributes": {
+        "type": "flair__Department__c",
+        "referenceId": "DepartmentRef9"
+      },
+      "Name": "Foreign Trade Sales",
+      "flair__Migration_ID__c": "6767968f5ee6db797241dbcc408561625ee7"
+    },
+    {
+      "attributes": {
+        "type": "flair__Department__c",
+        "referenceId": "DepartmentRef10"
+      },
+      "Name": "Research and Development",
+      "flair__Migration_ID__c": "915ea1ceaab14441709acdf6bca672642d67"
+    }
+  ]
+}

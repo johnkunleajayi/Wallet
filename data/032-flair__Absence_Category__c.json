@@ -1,0 +1,102 @@
+{
+  "attributes": {
+    "type": "flair__Absence_Category__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "flair__Absence_Category__c",
+        "referenceId": "AbsenceCategoryRef1"
+      },
+      "Name": "Family Leave",
+      "flair__Archived_Date__c": null,
+      "flair__Compensatory_Time__c": false,
+      "flair__Export_in_Payroll__c": true,
+      "flair__Icon__c": "custom:custom5",
+      "flair__Migration_ID__c": null,
+      "flair__Paid__c": true,
+      "flair__Public__c": true,
+      "flair__Requires_Approval__c": false,
+      "flair__Restrict_Absence_Deletion__c": false,
+      "flair__Special_Rules__c": null,
+      "flair__Type__c": "DAILY",
+      "flair__Unlimited__c": false
+    },
+    {
+      "attributes": {
+        "type": "flair__Absence_Category__c",
+        "referenceId": "AbsenceCategoryRef2"
+      },
+      "Name": "Sickness",
+      "flair__Archived_Date__c": null,
+      "flair__Compensatory_Time__c": false,
+      "flair__Export_in_Payroll__c": true,
+      "flair__Icon__c": "custom:custom86",
+      "flair__Migration_ID__c": null,
+      "flair__Paid__c": true,
+      "flair__Public__c": true,
+      "flair__Requires_Approval__c": false,
+      "flair__Restrict_Absence_Deletion__c": false,
+      "flair__Special_Rules__c": null,
+      "flair__Type__c": "DAILY",
+      "flair__Unlimited__c": true
+    },
+    {
+      "attributes": {
+        "type": "flair__Absence_Category__c",
+        "referenceId": "AbsenceCategoryRef3"
+      },
+      "Name": "Home office",
+      "flair__Archived_Date__c": null,
+      "flair__Compensatory_Time__c": false,
+      "flair__Export_in_Payroll__c": false,
+      "flair__Icon__c": "custom:custom107",
+      "flair__Migration_ID__c": null,
+      "flair__Paid__c": false,
+      "flair__Public__c": true,
+      "flair__Requires_Approval__c": false,
+      "flair__Restrict_Absence_Deletion__c": false,
+      "flair__Special_Rules__c": null,
+      "flair__Type__c": "DAILY",
+      "flair__Unlimited__c": true
+    },
+    {
+      "attributes": {
+        "type": "flair__Absence_Category__c",
+        "referenceId": "AbsenceCategoryRef4"
+      },
+      "Name": "Overtime",
+      "flair__Archived_Date__c": null,
+      "flair__Compensatory_Time__c": true,
+      "flair__Export_in_Payroll__c": true,
+      "flair__Icon__c": "custom:custom92",
+      "flair__Migration_ID__c": null,
+      "flair__Paid__c": true,
+      "flair__Public__c": true,
+      "flair__Requires_Approval__c": false,
+      "flair__Restrict_Absence_Deletion__c": false,
+      "flair__Special_Rules__c": null,
+      "flair__Type__c": "HOURLY",
+      "flair__Unlimited__c": false
+    },
+    {
+      "attributes": {
+        "type": "flair__Absence_Category__c",
+        "referenceId": "AbsenceCategoryRef5"
+      },
+      "Name": "Vacation days",
+      "flair__Archived_Date__c": null,
+      "flair__Compensatory_Time__c": false,
+      "flair__Export_in_Payroll__c": true,
+      "flair__Icon__c": "custom:custom5",
+      "flair__Migration_ID__c": null,
+      "flair__Paid__c": true,
+      "flair__Public__c": true,
+      "flair__Requires_Approval__c": true,
+      "flair__Restrict_Absence_Deletion__c": false,
+      "flair__Special_Rules__c": null,
+      "flair__Type__c": "DAILY",
+      "flair__Unlimited__c": false
+    }
+  ]
+}
