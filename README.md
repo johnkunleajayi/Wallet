@@ -1,3 +1,20 @@
-# flair Nigeria Payroll
+Wallet UI for Gangsmate.
 
-This is a unmanaged Salesforce package that provides a payroll solution for Nigeria. It is designed to be used with the flair HR app.
+Create an Apex Class: UserSearchController
+
+public with sharing class UserSearchController {
+    @AuraEnabled(cacheable=true)
+    public static List<User> findUsers(String searchTerm) {
+        if (String.isBlank(searchTerm)) {
+            return new List<User>();
+        }
+
+        // Query users whose name matches the search term
+        return [
+            SELECT Id, Name 
+            FROM User 
+            WHERE Name LIKE :('%' + searchTerm + '%') 
+            LIMIT 10
+        ];
+    }
+}
