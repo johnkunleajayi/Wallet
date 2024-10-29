@@ -1,0 +1,90 @@
+<template>
+    <lightning-card title="User Management" icon-name="standard:user">
+        <div class="slds-p-around_medium">
+            
+            <!-- Personal Information Section -->
+            <div class="slds-section">
+                <h3 class="slds-section__title">Personal Information</h3>
+                <div class="slds-grid slds-wrap slds-gutters">
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="First Name" value={first_name} onchange={handleInputChange} data-id="first_name"></lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="Last Name" value={last_name} onchange={handleInputChange} data-id="last_name"></lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input type="email" label="Personal Email" value={personal_email} onchange={handleInputChange} data-id="personal_email"></lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="Domain Name" value={domain_name} onchange={handleInputChange} data-id="domain_name"></lightning-input>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Employment Details Section -->
+            <div class="slds-section">
+                <h3 class="slds-section__title">Employment Details</h3>
+                <div class="slds-grid slds-wrap slds-gutters">
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input type="number" label="Company ID" value={company_id} onchange={handleInputChange} data-id="company_id"></lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-combobox label="User Types" value={user_types} data-id="user_types" options={userTypeOptions} onchange={handleInputChange}></lightning-combobox>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="Title" value={title} onchange={handleInputChange} data-id="title"></lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="Department" value={department} onchange={handleInputChange} data-id="department"></lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input type="date" label="Start Date" value={start_date} onchange={handleInputChange} data-id="start_date"></lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input type="email" label="Manager Email" value={manager_email} onchange={handleInputChange} data-id="manager_email"></lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="Office Location" value={office_location} onchange={handleInputChange} data-id="office_location"></lightning-input>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Financial Information Section -->
+            <div class="slds-section">
+                <h3 class="slds-section__title">Financial Information</h3>
+                <div class="slds-grid slds-wrap slds-gutters">
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="Bank Name" value={bank_name} onchange={handleInputChange} data-id="bank_name"></lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="Account Number" value={account_number} onchange={handleInputChange} data-id="account_number"></lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input type="number" label="Base Salary" value={base_salary} onchange={handleInputChange} data-id="base_salary"></lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input type="number" label="Allowances" value={allowances} onchange={handleInputChange} data-id="allowances"></lightning-input>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Additional Information Section -->
+            <div class="slds-section">
+                <h3 class="slds-section__title">Additional Information</h3>
+                <div class="slds-grid slds-wrap slds-gutters">
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-combobox label="Roles" multiple data-id="roles" options={roleOptions} onchange={handleInputChange}></lightning-combobox>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input type="checkbox" label="Is Active" checked={is_active} onchange={handleInputChange} data-id="is_active"></lightning-input>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Submit Button -->
+            <div class="slds-section">
+                <lightning-button label="Submit" variant="brand" onclick={handleSubmit}></lightning-button>
+            </div>
+        </div>
+    </lightning-card>
+</template>
