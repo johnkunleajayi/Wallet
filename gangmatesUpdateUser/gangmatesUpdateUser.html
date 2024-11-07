@@ -1,0 +1,104 @@
+<template>
+    <lightning-card title="Update User" icon-name="standard:user">
+        <div class="slds-p-around_medium">
+            <!-- User Details Section -->
+            <div class="slds-section">
+                <h3 class="slds-section__title">Update User Details</h3>
+                <div class="slds-grid slds-wrap slds-gutters">
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="Company ID" type="number" value={user.company_id}
+                                         data-id="company_id" onchange={handleInputChange}>
+                        </lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="First Name" value={user.first_name}
+                                         data-id="first_name" onchange={handleInputChange} required>
+                        </lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="Last Name" value={user.last_name}
+                                         data-id="last_name" onchange={handleInputChange} required>
+                        </lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="Domain Name" value={user.domain_name}
+                                         data-id="domain_name" onchange={handleInputChange}>
+                        </lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-combobox label="User Type" value={user.user_types}
+                                            data-id="user_types" options={userTypeOptions}
+                                            onchange={handleInputChange}>
+                        </lightning-combobox>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="Title" value={user.title}
+                                         data-id="title" onchange={handleInputChange}>
+                        </lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="Base Salary" type="number" value={user.base_salary}
+                                         data-id="base_salary" onchange={handleInputChange}>
+                        </lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="Department" value={user.department}
+                                         data-id="department" onchange={handleInputChange}>
+                        </lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="Allowances" type="number" value={user.allowances}
+                                         data-id="allowances" onchange={handleInputChange}>
+                        </lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="Personal Email" value={user.personal_email}
+                                         data-id="personal_email" onchange={handleInputChange} type="email">
+                        </lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="Office Location" value={user.office_location}
+                                         data-id="office_location" onchange={handleInputChange}>
+                        </lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="Start Date" type="date" value={user.start_date}
+                                         data-id="start_date" onchange={handleInputChange}>
+                        </lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="Manager Email" value={user.manager_email}
+                                         data-id="manager_email" onchange={handleInputChange} type="email">
+                        </lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-file-upload label="Documents" multiple
+                                               record-id={user.company_id} accept=".pdf,.doc,.docx,.jpg,.png"
+                                               onchange={handleFileChange}>
+                        </lightning-file-upload>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="Password" type="password" value={user.password}
+                                         data-id="password" onchange={handleInputChange}>
+                        </lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="Bank Name" value={user.bank_name}
+                                         data-id="bank_name" onchange={handleInputChange}>
+                        </lightning-input>
+                    </div>
+                    <div class="slds-col slds-size_1-of-2">
+                        <lightning-input label="Account Number" type="text" value={user.account_number}
+                                         data-id="account_number" onchange={handleInputChange}>
+                        </lightning-input>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Update Button -->
+            <div class="slds-section">
+                <lightning-button label="Update User" variant="brand" onclick={handleUpdate}></lightning-button>
+            </div>
+        </div>
+    </lightning-card>
+</template>
